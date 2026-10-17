@@ -1,0 +1,9 @@
+{
+ "art/dod-characters": "../AllTheCharacters",
+ "art/dod-maps": "../AllTheMaps",
+ "art/sickofit-enemies": "../SickOfItGameEnemies",
+ "art/sickofit-images": "../SickOfItGameImages",
+ "art/sickofit-objects": "../SickOfItGameObjects",
+ "art/sickofit-player": "../SickOfItGamePlayer",
+ "art/sickofit-videos": "../SickOfItGameVideos"
+}

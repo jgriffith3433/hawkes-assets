@@ -22,8 +22,23 @@ export function writeLock(lock) {
   fs.writeFileSync(LOCK, JSON.stringify(sorted, null, 1) + '\n');
 }
 
-export const rel = (abs) => path.relative(ROOT, abs).split(path.sep).join('/');
-export const abs = (r) => path.join(ROOT, ...r.split('/'));
+/**
+ * Folders tracked where they are (mounts.json: library path -> folder, relative to this repo): the art folders next
+ * to this repo (C:\Projects\AllTheCharacters, and /srv/hawkes/AllTheCharacters on the server), so the projects' own
+ * tools keep their paths. Every file in a mount lives in S3, whatever its type: the folders aren't in git.
+ */
+export const MOUNTS = fs.existsSync(path.join(ROOT, 'mounts.json')) ? JSON.parse(fs.readFileSync(path.join(ROOT, 'mounts.json'), 'utf8')) : {};
+const mountDirs = Object.entries(MOUNTS).map(([key, dir]) => [key, path.resolve(ROOT, dir)]);
+
+export const rel = (abs) => {
+  const a = path.resolve(abs);
+  for (const [key, dir] of mountDirs) if (a === dir || a.startsWith(dir + path.sep)) return [key, ...path.relative(dir, a).split(path.sep)].join('/');
+  return path.relative(ROOT, a).split(path.sep).join('/');
+};
+export const abs = (r) => {
+  for (const [key, dir] of mountDirs) if (r.startsWith(key + '/')) return path.join(dir, ...r.slice(key.length + 1).split('/'));
+  return path.join(ROOT, ...r.split('/'));
+};
 
 export function sha256(file) {
   return new Promise((resolve, reject) => {
@@ -32,18 +47,19 @@ export function sha256(file) {
   });
 }
 
-/** Every binary file under the library folders. */
+/** Every file that lives in S3: binaries under the library folders, and everything in the mounts. */
 export function binaries() {
   const out = [];
-  const walk = (dir) => {
+  const walk = (dir, all) => {
     if (!fs.existsSync(dir)) return;
     for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
       const p = path.join(dir, e.name);
-      if (e.isDirectory()) walk(p);
-      else if (BINARY.test(e.name)) out.push(rel(p));
+      if (e.isDirectory()) walk(p, all);
+      else if (e.isFile() && (all || BINARY.test(e.name)) && !e.name.endsWith('.part')) out.push(rel(p));
     }
   };
-  for (const k of KINDS) walk(path.join(ROOT, k));
+  for (const k of KINDS) walk(path.join(ROOT, k), false);
+  for (const [, dir] of mountDirs) walk(dir, true);
   return out.sort();
 }
 

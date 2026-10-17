@@ -33,6 +33,7 @@ commit is what everyone else pulls. Pushing to S3 costs cents. Ask J before addi
 | Path | What |
 |---|---|
 | `characters/<id>/` | `character.json` + `model.glb/.fbx/.blend` (+ `reference.png`, the character sheet) |
+| `art/<name>/...` | **2D art tracked where it lives** (`mounts.json`): DoD's `AllTheCharacters` (poses, animation clips, pose JSON) and `AllTheMaps`, and the `SickOfItGame*` folders. Every file in them is in S3 |
 | `animations/<rig>/<id>.fbx` + `.json` | Clips by rig family: `mixamo`, `biped` (3ds Max), `humanoid`, `rigify`, `custom` |
 | `props/<id>/` | `prop.json` + `model.*` |
 | `sets/<id>/` | `set.json` + `scene.blend/.glb` (a whole location) |
@@ -53,6 +54,23 @@ commit is what everyone else pulls. Pushing to S3 costs cents. Ask J before addi
 | `source` | Where it came from, relative to `C:\Projects` |
 
 Ids are lowercase words and dashes, prefixed by project where it helps (`ph-ch33-hero`, `bt-hero`).
+
+## The art folders (mounts)
+
+`mounts.json` maps a library path to a folder next to this repo:
+
+| Library path | Folder | Folder on the server |
+|---|---|---|
+| `art/dod-characters` | `../AllTheCharacters` | `/srv/hawkes/AllTheCharacters` |
+| `art/dod-maps` | `../AllTheMaps` | `/srv/hawkes/AllTheMaps` |
+| `art/sickofit-*` | `../SickOfItGame*` | `/srv/hawkes/SickOfItGame*` |
+
+The files stay where they are, so DoD's and Sick Of It's tools keep their paths. `push` uploads everything in them,
+whatever the file type: these folders aren't in git, so the lock is their record. `pull` writes them back to the same
+places on any machine (the server's layout matches `C:\Projects`).
+
+When a project's tool adds files to one of these folders (a new fighter animation), run `node tools/sync.mjs push`
+and commit the lock. `status` lists what's new. A folder new to the library goes in `mounts.json`.
 
 ## Rules
 

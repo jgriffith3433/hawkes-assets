@@ -16,6 +16,14 @@ const [cmd = 'status', ...flags] = process.argv.slice(2);
 const has = (f) => flags.includes(f);
 const mb = (n) => `${(n / 1048576).toFixed(1)} MB`;
 
+/** Runs work over items, n at a time. */
+async function pool(items, n, work) {
+  let i = 0;
+  await Promise.all(Array.from({ length: Math.min(n, items.length) }, async () => {
+    while (i < items.length) await work(items[i++]);
+  }));
+}
+
 async function lock({ prune = false } = {}) {
   const l = readLock();
   const changes = [];
@@ -60,23 +68,24 @@ async function ensureBucket() {
 }
 
 async function push() {
-  for (const c of await lock()) console.log(c);
+  summary(await lock());
   await ensureBucket();
   const { PutObjectCommand } = await import('@aws-sdk/client-s3');
   const l = readLock();
-  const seen = new Set();
+  // One upload per distinct file (the same file in two places is stored once).
+  const unique = new Map();
+  for (const [r, e] of Object.entries(l)) if (!unique.has(e.sha256) && fs.existsSync(abs(r))) unique.set(e.sha256, [r, e]);
   let sent = 0;
   let bytes = 0;
-  for (const [r, e] of Object.entries(l)) {
-    if (seen.has(e.sha256)) continue;
-    seen.add(e.sha256);
-    if (!fs.existsSync(abs(r)) || (await inS3(e.sha256))) continue;
-    await (await s3()).send(new PutObjectCommand({ Bucket: BUCKET, Key: keyOf(e.sha256), Body: fs.createReadStream(abs(r)), ContentLength: e.size, Metadata: { path: r.slice(0, 1000) } }));
+  await pool([...unique.values()], 8, async ([r, e]) => {
+    if (await inS3(e.sha256)) return;
+    // S3 metadata is ASCII only.
+    await (await s3()).send(new PutObjectCommand({ Bucket: BUCKET, Key: keyOf(e.sha256), Body: fs.createReadStream(abs(r)), ContentLength: e.size, Metadata: { path: encodeURIComponent(r).slice(0, 1500) } }));
     sent++;
     bytes += e.size;
-    console.log(`uploaded ${r} (${mb(e.size)})`);
-  }
-  console.log(`${sent} file(s) uploaded (${mb(bytes)}); S3 has all ${seen.size}. Commit assets.lock.json.`);
+    if (sent % 100 === 0 || e.size > 20 * 1048576) console.log(`uploaded ${sent} (${mb(bytes)}), last ${r}`);
+  });
+  console.log(`${sent} file(s) uploaded (${mb(bytes)}); S3 has all ${unique.size}. Commit assets.lock.json.`);
 }
 
 async function pull() {
@@ -114,12 +123,16 @@ async function status() {
   }
   if (has('--remote')) {
     const absent = [];
-    for (const [r, e] of Object.entries(l)) if (!(await inS3(e.sha256))) absent.push(r);
+    await pool(Object.entries(l), 16, async ([r, e]) => { if (!(await inS3(e.sha256))) absent.push(r); });
     console.log(absent.length ? `not in S3 (push from where they are):\n  ${absent.join('\n  ')}` : 'S3 has every file in the lock.');
   }
 }
 
-const run = { status, push, pull, lock: async () => { for (const c of await lock({ prune: has('--prune') })) console.log(c); } }[cmd];
+const summary = (changes) => {
+  for (const c of changes.slice(0, 40)) console.log(c);
+  if (changes.length > 40) console.log(`... and ${changes.length - 40} more`);
+};
+const run = { status, push, pull, lock: async () => summary(await lock({ prune: has('--prune') })) }[cmd];
 if (!run) {
   console.error('usage: node tools/sync.mjs status [--remote] | lock [--prune] | push | pull');
   process.exit(2);
