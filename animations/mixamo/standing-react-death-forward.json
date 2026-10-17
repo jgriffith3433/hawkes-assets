@@ -1,0 +1,10 @@
+{
+ "id": "standing-react-death-forward",
+ "rig": "mixamo",
+ "file": "standing-react-death-forward.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 111,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Standing React Death Forward.fbx"
+}

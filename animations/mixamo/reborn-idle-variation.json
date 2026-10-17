@@ -1,0 +1,10 @@
+{
+ "id": "reborn-idle-variation",
+ "rig": "mixamo",
+ "file": "reborn-idle-variation.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 120,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Reborn Idle Variation.fbx"
+}

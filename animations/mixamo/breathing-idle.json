@@ -1,0 +1,10 @@
+{
+ "id": "breathing-idle",
+ "rig": "mixamo",
+ "file": "breathing-idle.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 299,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Breathing Idle.fbx"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "being-electrocuted",
+ "rig": "mixamo",
+ "file": "being-electrocuted.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 243,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Being Electrocuted.fbx"
+}

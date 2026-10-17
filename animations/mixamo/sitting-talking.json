@@ -1,0 +1,10 @@
+{
+ "id": "sitting-talking",
+ "rig": "mixamo",
+ "file": "sitting-talking.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 1323,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Sitting Talking.fbx"
+}

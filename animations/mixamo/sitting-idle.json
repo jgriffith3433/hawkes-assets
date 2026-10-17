@@ -1,0 +1,10 @@
+{
+ "id": "sitting-idle",
+ "rig": "mixamo",
+ "file": "sitting-idle.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 90,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Sitting Idle.fbx"
+}

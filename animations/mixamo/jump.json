@@ -1,0 +1,10 @@
+{
+ "id": "jump",
+ "rig": "mixamo",
+ "file": "jump.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 66,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Jump.fbx"
+}

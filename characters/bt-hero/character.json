@@ -1,0 +1,17 @@
+{
+ "id": "bt-hero",
+ "name": "Breaking Through hero",
+ "projects": [
+  "breakingthrough"
+ ],
+ "model": "model.fbx",
+ "reference": null,
+ "rig": "biped",
+ "height": 1.946,
+ "facing": 0,
+ "animations": [
+  "Scene_RootS0|Unreal Matinee Take|Base Layer"
+ ],
+ "look": "",
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_IDLE.fbx"
+}

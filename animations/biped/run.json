@@ -1,0 +1,10 @@
+{
+ "id": "run",
+ "rig": "biped",
+ "file": "run.fbx",
+ "action": "Scene_RootS0|Unreal Matinee Take|Base Layer",
+ "frames": 15,
+ "fps": 25,
+ "withCharacter": true,
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_RUN.fbx"
+}

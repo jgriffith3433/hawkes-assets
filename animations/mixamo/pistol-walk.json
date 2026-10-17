@@ -1,0 +1,10 @@
+{
+ "id": "pistol-walk",
+ "rig": "mixamo",
+ "file": "pistol-walk.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 25,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Pistol Walk.fbx"
+}

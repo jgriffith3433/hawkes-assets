@@ -1,0 +1,10 @@
+{
+ "id": "walking-2",
+ "rig": "mixamo",
+ "file": "walking-2.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 43,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "breakingthrough/Assets/Art/Walking.fbx"
+}

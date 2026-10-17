@@ -1,0 +1,10 @@
+{
+ "id": "idle-weight-shift-loop-01",
+ "rig": "biped",
+ "file": "idle-weight-shift-loop-01.fbx",
+ "action": "Scene_RootS0|Unreal Matinee Take|Base Layer",
+ "frames": 34,
+ "fps": 25,
+ "withCharacter": true,
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_IDLE_WEIGHT_SHIFT_LOOP_01.fbx"
+}

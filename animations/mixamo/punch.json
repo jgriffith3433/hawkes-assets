@@ -1,0 +1,10 @@
+{
+ "id": "punch",
+ "rig": "mixamo",
+ "file": "punch.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 41,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Punch.fbx"
+}

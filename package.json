@@ -1,0 +1,16 @@
+{
+  "name": "hawkes-assets",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "The shared 3D library for every Hawkes project: characters, animations, props, sets and skies. Files live in S3; this repo keeps what they are.",
+  "scripts": {
+    "check": "node tools/check.mjs",
+    "pull": "node tools/sync.mjs pull",
+    "push": "node tools/sync.mjs push",
+    "status": "node tools/sync.mjs status"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1152.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+ "id": "standing-aim-walk-forward",
+ "rig": "mixamo",
+ "file": "standing-aim-walk-forward.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 37,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "breakingthrough/Assets/Art/Standing Aim Walk Forward.fbx"
+}

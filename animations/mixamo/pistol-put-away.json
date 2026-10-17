@@ -1,0 +1,10 @@
+{
+ "id": "pistol-put-away",
+ "rig": "mixamo",
+ "file": "pistol-put-away.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 36,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Pistol Put Away.fbx"
+}

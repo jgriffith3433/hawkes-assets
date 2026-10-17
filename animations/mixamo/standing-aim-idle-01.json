@@ -1,0 +1,10 @@
+{
+ "id": "standing-aim-idle-01",
+ "rig": "mixamo",
+ "file": "standing-aim-idle-01.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 114,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "breakingthrough/Assets/Art/Standing Aim Idle 01.fbx"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "idle",
+ "rig": "mixamo",
+ "file": "idle.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 500,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Idle.fbx"
+}

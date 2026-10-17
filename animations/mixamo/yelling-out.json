@@ -1,0 +1,10 @@
+{
+ "id": "yelling-out",
+ "rig": "mixamo",
+ "file": "yelling-out.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 130,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Yelling Out.fbx"
+}

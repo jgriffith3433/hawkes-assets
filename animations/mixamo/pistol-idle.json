@@ -1,0 +1,10 @@
+{
+ "id": "pistol-idle",
+ "rig": "mixamo",
+ "file": "pistol-idle.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 41,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Pistol Idle.fbx"
+}

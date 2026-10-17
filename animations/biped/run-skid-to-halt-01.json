@@ -1,0 +1,10 @@
+{
+ "id": "run-skid-to-halt-01",
+ "rig": "biped",
+ "file": "run-skid-to-halt-01.fbx",
+ "action": "Scene_RootS0|Unreal Matinee Take|Base Layer",
+ "frames": 14,
+ "fps": 25,
+ "withCharacter": true,
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_RUN_SKID_TO_HALT_01.fbx"
+}

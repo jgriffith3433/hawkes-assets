@@ -1,0 +1,10 @@
+{
+ "id": "pistol-jump",
+ "rig": "mixamo",
+ "file": "pistol-jump.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 61,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Pistol Jump.fbx"
+}

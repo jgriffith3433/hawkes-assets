@@ -1,0 +1,10 @@
+{
+ "id": "falling-down",
+ "rig": "mixamo",
+ "file": "falling-down.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 69,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Falling Down.fbx"
+}

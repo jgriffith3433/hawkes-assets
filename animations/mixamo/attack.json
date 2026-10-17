@@ -1,0 +1,10 @@
+{
+ "id": "attack",
+ "rig": "mixamo",
+ "file": "attack.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 140,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Attack.fbx"
+}

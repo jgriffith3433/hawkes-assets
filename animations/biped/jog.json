@@ -1,0 +1,10 @@
+{
+ "id": "jog",
+ "rig": "biped",
+ "file": "jog.fbx",
+ "action": "Scene_RootS0|Unreal Matinee Take|Base Layer",
+ "frames": 20,
+ "fps": 25,
+ "withCharacter": true,
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_JOG.fbx"
+}

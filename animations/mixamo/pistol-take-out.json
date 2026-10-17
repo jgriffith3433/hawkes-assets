@@ -1,0 +1,10 @@
+{
+ "id": "pistol-take-out",
+ "rig": "mixamo",
+ "file": "pistol-take-out.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 36,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Pistol Take Out.fbx"
+}

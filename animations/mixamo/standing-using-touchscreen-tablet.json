@@ -1,0 +1,10 @@
+{
+ "id": "standing-using-touchscreen-tablet",
+ "rig": "mixamo",
+ "file": "standing-using-touchscreen-tablet.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 995,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Standing Using Touchscreen Tablet.fbx"
+}

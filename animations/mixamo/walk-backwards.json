@@ -1,0 +1,10 @@
+{
+ "id": "walk-backwards",
+ "rig": "mixamo",
+ "file": "walk-backwards.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 117,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Walk Backwards.fbx"
+}

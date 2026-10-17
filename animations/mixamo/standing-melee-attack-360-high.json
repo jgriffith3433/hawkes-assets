@@ -1,0 +1,10 @@
+{
+ "id": "standing-melee-attack-360-high",
+ "rig": "mixamo",
+ "file": "standing-melee-attack-360-high.fbx",
+ "action": "Armature|mixamo.com|Layer0",
+ "frames": 96,
+ "fps": 30,
+ "withCharacter": false,
+ "source": "phoriginsassets/animations/Standing Melee Attack 360 High.fbx"
+}

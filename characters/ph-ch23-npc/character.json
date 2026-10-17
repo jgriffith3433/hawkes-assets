@@ -1,0 +1,23 @@
+{
+ "id": "ph-ch23-npc",
+ "name": "PH Origins ch23-npc",
+ "projects": [
+  "phorigins"
+ ],
+ "model": "model.glb",
+ "reference": null,
+ "rig": "mixamo",
+ "height": 1.763,
+ "facing": 0,
+ "animations": [
+  "DeathForward",
+  "Electrocuted",
+  "Idle",
+  "Punch",
+  "SitIdle",
+  "SitTalk",
+  "Walk"
+ ],
+ "look": "",
+ "source": "phoriginswebsite/assets/models/ch23-npc.glb"
+}

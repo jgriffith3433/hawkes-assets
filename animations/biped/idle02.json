@@ -1,0 +1,10 @@
+{
+ "id": "idle02",
+ "rig": "biped",
+ "file": "idle02.fbx",
+ "action": "Scene_RootS0|Unreal Matinee Take|Base Layer",
+ "frames": 68,
+ "fps": 25,
+ "withCharacter": true,
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_IDLE02.fbx"
+}

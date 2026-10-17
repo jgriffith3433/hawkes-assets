@@ -1,0 +1,10 @@
+{
+ "id": "unarmed-kick-left-c90-2",
+ "rig": "biped",
+ "file": "unarmed-kick-left-c90-2.fbx",
+ "action": "Scene_RootS0|Unreal Matinee Take|Base Layer",
+ "frames": 29,
+ "fps": 25,
+ "withCharacter": true,
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_UNARMED_KICK_LEFT_C90_2.fbx"
+}

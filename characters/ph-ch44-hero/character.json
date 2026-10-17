@@ -1,0 +1,27 @@
+{
+ "id": "ph-ch44-hero",
+ "name": "PH Origins ch44-hero",
+ "projects": [
+  "phorigins"
+ ],
+ "model": "model.glb",
+ "reference": null,
+ "rig": "mixamo",
+ "height": 1.865,
+ "facing": 0,
+ "animations": [
+  "DeathForward",
+  "Idle",
+  "Jump",
+  "Kick",
+  "Punch",
+  "RebornIdle",
+  "Run",
+  "ShadowShock",
+  "SitIdle",
+  "SitTalk",
+  "Walk"
+ ],
+ "look": "",
+ "source": "phoriginswebsite/assets/models/ch44-hero.glb"
+}

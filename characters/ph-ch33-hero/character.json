@@ -1,0 +1,32 @@
+{
+ "id": "ph-ch33-hero",
+ "name": "PH Origins ch33-hero",
+ "projects": [
+  "phorigins"
+ ],
+ "model": "model.glb",
+ "reference": null,
+ "rig": "mixamo",
+ "height": 1.754,
+ "facing": 0,
+ "animations": [
+  "DeathForward",
+  "Draw",
+  "FallingDown",
+  "Holster",
+  "Idle",
+  "Jump",
+  "PistolAim",
+  "PistolIdle",
+  "PistolJump",
+  "PistolWalk",
+  "Run",
+  "ShadowShock",
+  "SitIdle",
+  "SitTalk",
+  "Walk",
+  "WalkBack"
+ ],
+ "look": "",
+ "source": "phoriginswebsite/assets/models/ch33-hero.glb"
+}

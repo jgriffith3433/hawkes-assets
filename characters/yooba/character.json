@@ -1,0 +1,15 @@
+{
+ "id": "yooba",
+ "name": "Yooba",
+ "projects": [
+  "yoobaland"
+ ],
+ "model": "model.fbx",
+ "reference": null,
+ "rig": "humanoid",
+ "height": 0.955,
+ "facing": 0,
+ "animations": [],
+ "look": "",
+ "source": "Yooba2.0/YoobaRig.fbx"
+}

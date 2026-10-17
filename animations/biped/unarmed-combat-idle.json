@@ -1,0 +1,10 @@
+{
+ "id": "unarmed-combat-idle",
+ "rig": "biped",
+ "file": "unarmed-combat-idle.fbx",
+ "action": "Scene_RootS0|Unreal Matinee Take|Base Layer",
+ "frames": 26,
+ "fps": 25,
+ "withCharacter": true,
+ "source": "breakingthrough/Assets/hero/ANIM_HERO_UNARMED_COMBAT_IDLE.fbx"
+}

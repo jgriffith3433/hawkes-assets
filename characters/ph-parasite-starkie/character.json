@@ -1,0 +1,19 @@
+{
+ "id": "ph-parasite-starkie",
+ "name": "PH Origins parasite-starkie",
+ "projects": [
+  "phorigins"
+ ],
+ "model": "model.glb",
+ "reference": null,
+ "rig": "mixamo",
+ "height": 1.985,
+ "facing": 0,
+ "animations": [
+  "Attack",
+  "Idle",
+  "Walk"
+ ],
+ "look": "",
+ "source": "phoriginswebsite/assets/models/parasite-starkie.glb"
+}

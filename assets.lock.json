@@ -1,0 +1,250 @@
+{
+ "animations/biped/idle-weight-shift-into-01.fbx": {
+  "sha256": "35d046145a383ed19fa1555edcb149609c8e5d198849fa841cb4e93b90ee393d",
+  "size": 943744
+ },
+ "animations/biped/idle-weight-shift-loop-01.fbx": {
+  "sha256": "02cd78509277cc8fb9ecedccf87d6e52ad68d0d34834025ba12e9f242556b8a3",
+  "size": 1015024
+ },
+ "animations/biped/idle-weight-shift-outof-01.fbx": {
+  "sha256": "014f05188cd2f648aa540bdd5ad061fb5a468dec4745d7c983d57161794ac0cc",
+  "size": 898384
+ },
+ "animations/biped/idle.fbx": {
+  "sha256": "b5c31b7895bb31ec4d70de3a482b61a140d2b0dafa5e2117a320a223ec1982aa",
+  "size": 1053872
+ },
+ "animations/biped/idle02.fbx": {
+  "sha256": "d02abdc939c8af5e096151e7c2ee27941d1e09aaaa3043a811b2470341f24eb5",
+  "size": 1274192
+ },
+ "animations/biped/idle03.fbx": {
+  "sha256": "829423dea3d225181441deeae0df5b5c612bebbb5e909ac9980b5a9c74ade2be",
+  "size": 1546352
+ },
+ "animations/biped/idle04.fbx": {
+  "sha256": "c9a758dea124a99f6fa65f8fbe4d7c24d2c492517490cea67c217a75ceea885f",
+  "size": 1431872
+ },
+ "animations/biped/idle05.fbx": {
+  "sha256": "f970db54a4ab8e42035af70c42751fe97a6f9ae3dc1fefff85b4966ee77bb4bb",
+  "size": 1053872
+ },
+ "animations/biped/jog.fbx": {
+  "sha256": "5ed71b6518cacf135344c97e539c99ad1a0f541618d1cba6be0e875478f5efd3",
+  "size": 904816
+ },
+ "animations/biped/left-hook.fbx": {
+  "sha256": "829f52b0ed8893acc18e6e9eef3f0d369a24a9f94f5405e25cb7f895c2f84466",
+  "size": 904832
+ },
+ "animations/biped/left-uppercut.fbx": {
+  "sha256": "203e8cdd741d7b50450f624e664b3dcf5ea507e4abe4950ce84c51d7292ae0ba",
+  "size": 904848
+ },
+ "animations/biped/right-hook.fbx": {
+  "sha256": "c40089420a9241b4423d7be3f78550b744bf590e9ab14a52f150afbaa8623d98",
+  "size": 904832
+ },
+ "animations/biped/right-uppercut.fbx": {
+  "sha256": "2a7152d244879919b1885468a1c605eeab3430bc80182b073ad83619e067676a",
+  "size": 904848
+ },
+ "animations/biped/run-skid-to-halt-01.fbx": {
+  "sha256": "8cf2a1c8fedc704c243db459eaa25382bd9c4edb35a8be13dfc4d2bd1c3fc3a8",
+  "size": 859488
+ },
+ "animations/biped/run.fbx": {
+  "sha256": "84c2ebba4a76066f1d0c057904b19a2e136c0221dad672ce0b38f408d229dbf2",
+  "size": 865936
+ },
+ "animations/biped/slow-walk.fbx": {
+  "sha256": "08b8789ef2d37c4708e0304062a656a93354ab01348dbd9f2882d25cbba20a9e",
+  "size": 943712
+ },
+ "animations/biped/unarmed-combat-idle.fbx": {
+  "sha256": "b74e7202ff00d9a0577f52214bd56c43fb5c440c8fe0a8d27a76d4d405c1ca29",
+  "size": 950208
+ },
+ "animations/biped/unarmed-kick-left-2.fbx": {
+  "sha256": "44a103c9326b8552ea1481785b63bee912100734c4318d55c8bf535b7bc51a8e",
+  "size": 956688
+ },
+ "animations/biped/unarmed-kick-left-c90-2.fbx": {
+  "sha256": "2525f1e1a24e883fb53ccfea21bb58360f01f0e512b5a6abe2ef64411dd7bbe5",
+  "size": 963184
+ },
+ "animations/biped/unarmed-kick-right-2.fbx": {
+  "sha256": "4461d85fdbfc58dfc52a97dd47769a3bcacfe0641f213e54491a6dd8292a1d4f",
+  "size": 950224
+ },
+ "animations/biped/unarmed-strike-left-2.fbx": {
+  "sha256": "23bafced2ade7f15c5922316171bc98fbcbc149f36793aec641b4dc7443fb17f",
+  "size": 904864
+ },
+ "animations/biped/unarmed-strike-right-2.fbx": {
+  "sha256": "657e3b20f6943fd7c0164d4b51bff98ddfe1203e452f488318bc80748ee96a18",
+  "size": 924304
+ },
+ "animations/biped/walk.fbx": {
+  "sha256": "b144c575f8fa733a5bffe1386b7c7ee086ab5b968420d9905d1ead509e370ec0",
+  "size": 950192
+ },
+ "animations/mixamo/attack.fbx": {
+  "sha256": "e102a62feabfbc62702653eba2f9ac489158b426456bc079b51f3d7f30c15913",
+  "size": 684048
+ },
+ "animations/mixamo/being-electrocuted.fbx": {
+  "sha256": "89dd91c04d21d7ef56d57102872032de13b28aac4c91486095f925451129ba0e",
+  "size": 1076400
+ },
+ "animations/mixamo/breathing-idle.fbx": {
+  "sha256": "7d49ba22d9b0e76c1fb890153579c08e1e7432c01c196e0bbd1adbd104ab868f",
+  "size": 1107456
+ },
+ "animations/mixamo/falling-down.fbx": {
+  "sha256": "3bf68bb8ccab4a025e04c0139f9c24ea80260b7987340709aa8cc14b562832b1",
+  "size": 496144
+ },
+ "animations/mixamo/idle.fbx": {
+  "sha256": "e549e06834b99f36d203c39316a11fd59cfb796424d51623124a706cff742ab6",
+  "size": 1643568
+ },
+ "animations/mixamo/jump.fbx": {
+  "sha256": "2ea872c170f27564e82367a2cd57f56634e203b5b1b32ee54bf472677a7b4c03",
+  "size": 508112
+ },
+ "animations/mixamo/kick.fbx": {
+  "sha256": "196230300e236cf72da8a0f34f85fd7b28d2ed8d590e85935485c58ada339ccd",
+  "size": 506976
+ },
+ "animations/mixamo/npcpunch.fbx": {
+  "sha256": "b31455c3e0a5d89cdfa0a6433f1bd556464422c6e51f3794b06606f6d718a73b",
+  "size": 483216
+ },
+ "animations/mixamo/pistol-aim.fbx": {
+  "sha256": "45db8f287e8a04b4e111a0cb0c56f0654bc2f9a1a20f5003dc6a96189c79b73a",
+  "size": 712608
+ },
+ "animations/mixamo/pistol-idle.fbx": {
+  "sha256": "94e8a216cddb93bf00107f11043a4b1ee9490b5ca4a6174d69c132e5e3cd0aec",
+  "size": 367136
+ },
+ "animations/mixamo/pistol-jump.fbx": {
+  "sha256": "8284c0dc726bea03fb63d7633177cd4d4973263d0ba4394ad595403f0aee693f",
+  "size": 424032
+ },
+ "animations/mixamo/pistol-put-away.fbx": {
+  "sha256": "72aaebb015dd8d6e611f116c769956ab5b273e1a7a53aa0902aad4ad02ac145b",
+  "size": 381728
+ },
+ "animations/mixamo/pistol-take-out.fbx": {
+  "sha256": "72aaebb015dd8d6e611f116c769956ab5b273e1a7a53aa0902aad4ad02ac145b",
+  "size": 381728
+ },
+ "animations/mixamo/pistol-walk.fbx": {
+  "sha256": "2a81fbdeeb83f735ba01b19b8e06084f91d43900cbd507b4a3a75f6fa99a3ae0",
+  "size": 326816
+ },
+ "animations/mixamo/punch.fbx": {
+  "sha256": "4b8f258732dd939f45084d7ce66aff0f9e4c85ed50f8339d69ee809ab1515a1e",
+  "size": 451536
+ },
+ "animations/mixamo/reborn-idle-variation.fbx": {
+  "sha256": "15a4a52183ce5c341dc94585cb1f86f9c8757ce80702584478d4f8eae2dcfb76",
+  "size": 711840
+ },
+ "animations/mixamo/shadow-shock.fbx": {
+  "sha256": "9d924de9006c66b3e8a4d9a3c8009de157abfb6328a47587717762a33ec8ad6a",
+  "size": 725168
+ },
+ "animations/mixamo/sitting-idle.fbx": {
+  "sha256": "d229b91cecc11b0eea3ce798462cba81f62a548f571d2e3ec76bbc8084b55560",
+  "size": 589232
+ },
+ "animations/mixamo/sitting-talking.fbx": {
+  "sha256": "99199b75b8d044f84199a14dde10638ee976f958087a02daa2e65abdf1373200",
+  "size": 3859744
+ },
+ "animations/mixamo/standard-run.fbx": {
+  "sha256": "7d14c0eb4a9e7037b9af93d68aa43eca705e8fe06309167ab85e0c01537d012e",
+  "size": 390480
+ },
+ "animations/mixamo/standing-aim-idle-01.fbx": {
+  "sha256": "afe11052e60e838137011371684fd777b7ace90aa170e297d7eec8b83b5e682a",
+  "size": 637712
+ },
+ "animations/mixamo/standing-aim-walk-forward.fbx": {
+  "sha256": "d648ccde133973d3466fcdb2b6fa9c81e7058c31a064bf1907c381dd90aa6ec0",
+  "size": 413008
+ },
+ "animations/mixamo/standing-melee-attack-360-high.fbx": {
+  "sha256": "fd9987efbdd051e3a74c69e6fcda2ed0483cf840ebedba3f6b4d95bf4287323b",
+  "size": 640352
+ },
+ "animations/mixamo/standing-react-death-forward.fbx": {
+  "sha256": "d5fed35dfc2edd9c0ff89ca03f519140c3f300c40ab5fff9ee4ab4afad460b45",
+  "size": 753216
+ },
+ "animations/mixamo/standing-using-touchscreen-tablet.fbx": {
+  "sha256": "29b7610be8ddf11b77a1626578d310ea523e87889a857147e0608cfd4bdadd50",
+  "size": 2348208
+ },
+ "animations/mixamo/walk-backwards.fbx": {
+  "sha256": "f675dd12ea4b80562b95bad7b6ece2aa7e2bddda5cdfc9941f4db4ca1a43fb3c",
+  "size": 654576
+ },
+ "animations/mixamo/walking-2.fbx": {
+  "sha256": "1441adb9ceedd001c7250cb8889fe66686f9b7e91894c37405dacf1b262ef070",
+  "size": 455344
+ },
+ "animations/mixamo/walking.fbx": {
+  "sha256": "a788d7007454164188415b07efa1e3a63962ec99eda1697e3e41cdcb123c84e2",
+  "size": 366208
+ },
+ "animations/mixamo/yelling-out.fbx": {
+  "sha256": "cb6120a1b574235565b5eabd2218b89099414d221a2843a0608c202e0091814e",
+  "size": 725168
+ },
+ "characters/bt-hero/model.fbx": {
+  "sha256": "b5c31b7895bb31ec4d70de3a482b61a140d2b0dafa5e2117a320a223ec1982aa",
+  "size": 1053872
+ },
+ "characters/ph-ch08-npc/model.glb": {
+  "sha256": "c4cc1d5f92d6bea6658c032ac24fa726f4d9c0597f9c3c39b884d22f5d172727",
+  "size": 12358736
+ },
+ "characters/ph-ch23-npc/model.glb": {
+  "sha256": "31df20254dd13759602bdc0a6acdd143004d276de1ac77b0364cb849951dc99e",
+  "size": 8956004
+ },
+ "characters/ph-ch28-npc/model.glb": {
+  "sha256": "4e3e82f9b29055a65bc57b753ecedf9db7b8c059d762f6a68f4f6c8dc9a036dd",
+  "size": 7802244
+ },
+ "characters/ph-ch31-npc/model.glb": {
+  "sha256": "943f1d46702f902700f56e772e90c9e89f4785a6be2035e1267765a8d41849ae",
+  "size": 8683384
+ },
+ "characters/ph-ch33-hero/model.glb": {
+  "sha256": "f7d36ec4e6e361c4d1f6346134d9a0c0181fcdfe5e491e70aaee7d15c96617ad",
+  "size": 10918288
+ },
+ "characters/ph-ch37-npc/model.glb": {
+  "sha256": "7721cac3aa2e00d9f0ca6fe98e34b6dd7c4594e5b4a74f1a576f6b0e843ac0da",
+  "size": 10103176
+ },
+ "characters/ph-ch44-hero/model.glb": {
+  "sha256": "45e7c39f9f83b2d8708d11d341ca8477265cebe1c8ac3de33808365215e9d3be",
+  "size": 10016364
+ },
+ "characters/ph-parasite-starkie/model.glb": {
+  "sha256": "4a19d2e323c926b3f21adb36084c280d0d86cfcc55570f504ae374d0013f3f5b",
+  "size": 5469612
+ },
+ "characters/yooba/model.fbx": {
+  "sha256": "687fe936606a016934c3a0caa4277d2a930800bb5b4b50b9a642a3b6a3734c9f",
+  "size": 692748
+ }
+}
