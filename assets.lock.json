@@ -25039,6 +25039,10 @@
   "sha256": "692c675327d0c6f814f24d39d300fe69f01e1cbadc79be2d05c9af40a6401e4b",
   "size": 1048064
  },
+ "art/sickofit-enemies/Generated/imp/poses/struck.png": {
+  "sha256": "cfe0430c2fa096a8ac585d20066bfbf51cf1a65bed8872c817c17c53e3260ece",
+  "size": 1089160
+ },
  "art/sickofit-enemies/Generated/imp/preview-attack.gif": {
   "sha256": "20792c3ee882f154878af735bdf9d11c1dc81912148abae75e41c3f38264db4e",
   "size": 229725
