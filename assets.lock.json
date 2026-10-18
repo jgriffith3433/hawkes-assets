@@ -25063,6 +25063,66 @@
   "sha256": "3afec181a90591b0fae9f04673698e4df97424fc5b88739d9fa6415940657ce9",
   "size": 582503
  },
+ "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
+  "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
+  "size": 385447
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/die.mp4": {
+  "sha256": "ed58aed4573cc33e34c1e11c34c56d98bce68b476c55158cfe4a23d379321220",
+  "size": 474615
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/enrage.mp4": {
+  "sha256": "eee3f1aea09556fc730f38b56b6947936e848872af89a6d2454a6935513881ee",
+  "size": 342588
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/hurt-stand.mp4": {
+  "sha256": "7dab7cb38eaa70ebdec82aa1595f10b0d570d213fd3445d1ec25c232fab0cd5f",
+  "size": 180381
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/hurt.mp4": {
+  "sha256": "bd96ddf3340f6dad3a6f5f7764ef3752639d9cddc28ebaff9c1b78f8751970ca",
+  "size": 180404
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/idle-stand.mp4": {
+  "sha256": "ebcf80e7d71f392ccee76d5ad38d8ccdd6eb602179a865b0dfdc2c8b8ef8df68",
+  "size": 307372
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/idle.mp4": {
+  "sha256": "345eaa76770a30e2885b401af4bee16dcf546350ae82a3cb90b543b4c2eb64a8",
+  "size": 295534
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/rise.mp4": {
+  "sha256": "c42210ed1e9c482512bd394befe4f2cae0397e5b7ce64e3720b154b65e6bfc35",
+  "size": 557489
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/slam-seat.mp4": {
+  "sha256": "b24564dd3ddf9697cf5456bcaafdbcea7ae38c178b1bfae7a89e802ac575273c",
+  "size": 276353
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/slam.mp4": {
+  "sha256": "d86799539076fa54e6422c323c1a74afc7b9715b221dfaa7b661eff6f473923a",
+  "size": 386280
+ },
+ "art/sickofit-enemies/Generated/magmaKing/clips/throw.mp4": {
+  "sha256": "577f67c4b4cbfb35f873c6f26a9d41b8bd9598c4f07872c8f7f29bd9ccea7195",
+  "size": 385310
+ },
+ "art/sickofit-enemies/Generated/magmaKing/poses/dead.png": {
+  "sha256": "7c4a9f17fb6dd6fcfeb8ccaa7508070e671e59d6997a43b55cf0d2da34e87029",
+  "size": 1270837
+ },
+ "art/sickofit-enemies/Generated/magmaKing/poses/risen.png": {
+  "sha256": "675634d8f8310c8659de54b368bb7f1096353f46df63e46ab0ee0466bb3977fe",
+  "size": 1238741
+ },
+ "art/sickofit-enemies/Generated/magmaKing/poses/stand.png": {
+  "sha256": "b1772faae6840d4a981a47dfe7a208cf6efd7cfaf8541fb1059f6cbcb51cebb0",
+  "size": 1229767
+ },
+ "art/sickofit-enemies/Generated/magmaKing/poses/standing.png": {
+  "sha256": "d5e3e102f1788fe279c952fe8edcf406ca9e5f55dacdb16ee0ae3f16275f281d",
+  "size": 1271970
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
