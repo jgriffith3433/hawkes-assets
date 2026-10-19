@@ -24875,6 +24875,18 @@
   "sha256": "deded07d66f093c7723534087fe9abb091de86d0f00fe1e258c771e546fc3754",
   "size": 321673
  },
+ "art/sickofit-enemies/Generated/damnedSoul/clips/hiccup.mp4": {
+  "sha256": "c878b69aabadc17e72bfc0aaa3b4be8b1f0210890e1fff40be4cacead80effc9",
+  "size": 115933
+ },
+ "art/sickofit-enemies/Generated/damnedSoul/clips/idle.mp4": {
+  "sha256": "1bf6d67726ecb354f895dd83fa60e8622643ce007b572d266ff38e8ef38619eb",
+  "size": 260664
+ },
+ "art/sickofit-enemies/Generated/damnedSoul/poses/stand.png": {
+  "sha256": "bfc67ee8fc610785214b1df0e73c1d3b3afdb04626bc5e311a5c3afea8ab3ee5",
+  "size": 891926
+ },
  "art/sickofit-enemies/Generated/imp/build.json": {
   "sha256": "416aeccee32111ce54c6577e4322ca1f8dc26ffc6acaecb3e157d9825d6e1882",
   "size": 1056
