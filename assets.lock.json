@@ -26319,6 +26319,14 @@
   "sha256": "d5e3e102f1788fe279c952fe8edcf406ca9e5f55dacdb16ee0ae3f16275f281d",
   "size": 1271970
  },
+ "art/sickofit-enemies/Generated/overlordFar/clips/idle.mp4": {
+  "sha256": "9fd8661b96f34c947b8f06a906a006270cac079e99f122e7142465c4f2025d8a",
+  "size": 355348
+ },
+ "art/sickofit-enemies/Generated/overlordFar/poses/stand.png": {
+  "sha256": "788a165146e9bf3d637e8016ff3f92d9fd97a5f99f9b3dc0524e01124b7d49d0",
+  "size": 928321
+ },
  "art/sickofit-enemies/Generated/slagHound/clips/attack.mp4": {
   "sha256": "14d7a629ad2fdd9dcfa5cdb34484563b07816912b621197b0995d0d09b90963a",
   "size": 535450
