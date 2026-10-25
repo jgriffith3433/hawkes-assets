@@ -26923,6 +26923,34 @@
   "sha256": "e4a0c182f1c348e902be5bf564275b2e37be2e0cc2a09765e7818b127330e8e5",
   "size": 1031537
  },
+ "art/sickofit-enemies/Generated/tripleLobber/clips/attack.mp4": {
+  "sha256": "f54caad4279e384b8cfac0ceea6b01fd04403c1ca62288aaaab4f69e1ea4a08f",
+  "size": 541573
+ },
+ "art/sickofit-enemies/Generated/tripleLobber/clips/die.mp4": {
+  "sha256": "88208fd9b7514a949f5a164b58a7d0aabdc707d2bd1b50964086be88a2dae05f",
+  "size": 562271
+ },
+ "art/sickofit-enemies/Generated/tripleLobber/clips/hurt.mp4": {
+  "sha256": "ed6b62b528c9e52fd258829df76fdf719ffeae1f69b46def2cb1f4652488f2c5",
+  "size": 393844
+ },
+ "art/sickofit-enemies/Generated/tripleLobber/clips/idle.mp4": {
+  "sha256": "3d06ea8b208d921a61aaa28f8544fce819ace63a8cb871afcc0d468924a69be4",
+  "size": 608183
+ },
+ "art/sickofit-enemies/Generated/tripleLobber/poses/dead.png": {
+  "sha256": "4f9e25aa74ef0f28b5766525c005d68c03e2b55b3e1a2548da0173773fafc57a",
+  "size": 1196082
+ },
+ "art/sickofit-enemies/Generated/tripleLobber/poses/stand.png": {
+  "sha256": "3571f35348b1b66c2c547958766100dbc9b68c49db931ac833e7d54f8cf06e1f",
+  "size": 1096309
+ },
+ "art/sickofit-enemies/Generated/tripleLobber/poses/struck.png": {
+  "sha256": "83a842609ee756e138447d308e3a376b98746707c7c287016a0643412541a2df",
+  "size": 1219340
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
