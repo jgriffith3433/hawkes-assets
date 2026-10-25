@@ -25867,6 +25867,18 @@
   "sha256": "6ca9b57065dab97a6361cf7c0ffad64af069f2dce7fac7023a18306183e75dbb",
   "size": 1164208
  },
+ "art/sickofit-enemies/Generated/impSleeper/clips/die.mp4": {
+  "sha256": "b1a8afc05ecbcdd647140cdf0d7281985e1e1ad87f615bfd4911df4f2ab5da9f",
+  "size": 455393
+ },
+ "art/sickofit-enemies/Generated/impSleeper/clips/hurt.mp4": {
+  "sha256": "8012421c7c192a32c2c09b531188d11f018429f1731e157053ab9df6cc97829f",
+  "size": 284959
+ },
+ "art/sickofit-enemies/Generated/impSleeper/clips/idle.mp4": {
+  "sha256": "3d33a20e8301a62126170bf99c9aaeafd8375cd268dffbcf0358f2b4cc393e30",
+  "size": 329764
+ },
  "art/sickofit-enemies/Generated/impSleeper/poses/dead.png": {
   "sha256": "dd295573343de5cf2b3746c197a5e84babf176b89ab45856ced2f13903b0f011",
   "size": 1118987
@@ -25874,6 +25886,10 @@
  "art/sickofit-enemies/Generated/impSleeper/poses/stand.png": {
   "sha256": "a895d02c25e23c4635e708437d3e7c29a82794a772d46d6f98627d16a7a5baf6",
   "size": 1044244
+ },
+ "art/sickofit-enemies/Generated/impSleeper/poses/struck.png": {
+  "sha256": "2aaa12116d591402d0ad291e6f6da57950b3b1cbf266dee105a77bd0561cd553",
+  "size": 1117478
  },
  "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
   "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
