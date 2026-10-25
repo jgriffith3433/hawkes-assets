@@ -27199,6 +27199,38 @@
   "sha256": "f1d2efad08e89e86758fe998abd61cb3633d560337a46bbf453d7d990da6effc",
   "size": 1139184
  },
+ "art/sickofit-enemies/Generated/veilDemon/clips/attack.mp4": {
+  "sha256": "ed297f65e52573805ea7f0f270d30596dbdde3b996e82508a1fd16d6a1aa7e1c",
+  "size": 241756
+ },
+ "art/sickofit-enemies/Generated/veilDemon/clips/die.mp4": {
+  "sha256": "267821f0713cee1e123a72766f9bbdc0d6eae800c7e2c7d931b65b953dd2cd2a",
+  "size": 319250
+ },
+ "art/sickofit-enemies/Generated/veilDemon/clips/hurt.mp4": {
+  "sha256": "3f24455491dae8663b27b613b565a0feec1512dc1ea578169ccc5f5105e61dc5",
+  "size": 165570
+ },
+ "art/sickofit-enemies/Generated/veilDemon/clips/idle.mp4": {
+  "sha256": "f4bb4b7f95fbb3fbb0e6f3a08291412b03d170dcb8f98dc56feff784c828d5fa",
+  "size": 234210
+ },
+ "art/sickofit-enemies/Generated/veilDemon/clips/move.mp4": {
+  "sha256": "fd7699fc564db91bc15a6855c61b315639cbba018658d3adb072f0a3b9abef70",
+  "size": 227211
+ },
+ "art/sickofit-enemies/Generated/veilDemon/poses/dead.png": {
+  "sha256": "87ab3ec2990579980d94b1fdcb6ce585ada9b524359a8caa9fca1b9ceb3616cd",
+  "size": 1007530
+ },
+ "art/sickofit-enemies/Generated/veilDemon/poses/stand.png": {
+  "sha256": "8316de9395c305abca2f7061949e2b4d73d2c85f6ede4d566c6287331086bb2c",
+  "size": 909432
+ },
+ "art/sickofit-enemies/Generated/veilDemon/poses/struck.png": {
+  "sha256": "fe36f68d97307a72705fb08020a85642f264a2d81c3cc7291e5de8a39c16c677",
+  "size": 1035755
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
