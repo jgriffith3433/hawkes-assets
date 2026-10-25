@@ -25087,6 +25087,10 @@
   "sha256": "56b82be5a9425c74100a3cd319abfbb2fff933f432edc7ac30a5f2c5555ea3b3",
   "size": 1156276
  },
+ "art/sickofit-enemies/Generated/brute/poses/dead.png": {
+  "sha256": "03132905488cad6b2040f2c76dcbb026c53706c57c24675e7207947bbbdae2b3",
+  "size": 1227447
+ },
  "art/sickofit-enemies/Generated/bulwarkImp/clips/die.mp4": {
   "sha256": "02a24964e625019b0b6dd9fbd72fde72dd277c3c56cb34cb058f1c41d19abf58",
   "size": 425359
