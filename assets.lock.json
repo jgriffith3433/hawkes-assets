@@ -24875,9 +24875,37 @@
   "sha256": "deded07d66f093c7723534087fe9abb091de86d0f00fe1e258c771e546fc3754",
   "size": 321673
  },
+ "art/sickofit-enemies/Generated/alphaHound/clips/attack.mp4": {
+  "sha256": "d9deac31da5e4840140bc51b3a065b6b53cf5ed0be1b4bf622619fadc36f8630",
+  "size": 536856
+ },
+ "art/sickofit-enemies/Generated/alphaHound/clips/die.mp4": {
+  "sha256": "7a2cd2eeec920bbf3f3a575589c2a312e54f574366487ed530927d357254e4d3",
+  "size": 535627
+ },
+ "art/sickofit-enemies/Generated/alphaHound/clips/hurt.mp4": {
+  "sha256": "fce6f21cdef67b20ae7c26b416cd5d7c815378c2e554c68d16977007ce67f10b",
+  "size": 305623
+ },
+ "art/sickofit-enemies/Generated/alphaHound/clips/idle.mp4": {
+  "sha256": "4f6463975b54a91fc953b6e7e54e190b53ec0ceaaa2e0fdcb7ead4ad5834bd3b",
+  "size": 312854
+ },
+ "art/sickofit-enemies/Generated/alphaHound/clips/move.mp4": {
+  "sha256": "c599aee8ba93c2b7ca5cf09fffdd017e57b5c25c099bfe464f9b97cf077faaa2",
+  "size": 264226
+ },
  "art/sickofit-enemies/Generated/alphaHound/poses/dead.png": {
   "sha256": "3a74065d5f26f711e51fe1b6309b28ba8ad841d35c6eed4af2f32f00f0cc2eb5",
   "size": 1234591
+ },
+ "art/sickofit-enemies/Generated/alphaHound/poses/stand.png": {
+  "sha256": "f3350296e5de3c3bf38ab4412378bae6d37fb9c6c944acfc838f2a5a6fa0cf61",
+  "size": 1090579
+ },
+ "art/sickofit-enemies/Generated/alphaHound/poses/struck.png": {
+  "sha256": "358e7ba97688b6013b33ed5aae00f89c77eaf0676dd502fafd5da5094f4e83d8",
+  "size": 1224143
  },
  "art/sickofit-enemies/Generated/baronSpillway/clips/attack.mp4": {
   "sha256": "1ac45bcc0d7f1754cb5c6f93a3f4dc225cf812d1bd2959cf4ded0b485e799857",
