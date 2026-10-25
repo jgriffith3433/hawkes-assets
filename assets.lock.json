@@ -26419,6 +26419,14 @@
   "sha256": "a00b0417fde4c9a5bb68c49019857a3bbd7dbb6d76861174bd86132bb4186b58",
   "size": 1145726
  },
+ "art/sickofit-enemies/Generated/slagLadlePickup/clips/idle.mp4": {
+  "sha256": "4fac00eb719b0fd60cd4e7acf6a1a37718aa27554fa35f00ffd1f385e9664bc2",
+  "size": 465512
+ },
+ "art/sickofit-enemies/Generated/slagLadlePickup/poses/stand.png": {
+  "sha256": "782006c7d71a56e11f76974366a503e2f749901bb56443f0cd9fc7b7a29aac33",
+  "size": 906810
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
