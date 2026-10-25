@@ -26403,6 +26403,22 @@
   "sha256": "788a165146e9bf3d637e8016ff3f92d9fd97a5f99f9b3dc0524e01124b7d49d0",
   "size": 928321
  },
+ "art/sickofit-enemies/Generated/pileKeeper/clips/attack.mp4": {
+  "sha256": "f2a7ae4bb245ca37bf259db0236238c96e9e4c5885ef87a960be81a8db548645",
+  "size": 423998
+ },
+ "art/sickofit-enemies/Generated/pileKeeper/clips/die.mp4": {
+  "sha256": "daa8fef23d8df5c7c86185303c2da3d50ab1261819a5c49094df99e781b39a5c",
+  "size": 462952
+ },
+ "art/sickofit-enemies/Generated/pileKeeper/clips/hurt.mp4": {
+  "sha256": "1583e299384a2e5c2363d201a74871f9cebac5006a3a23f888f5bc7eba3326e7",
+  "size": 307157
+ },
+ "art/sickofit-enemies/Generated/pileKeeper/clips/idle.mp4": {
+  "sha256": "88c5a10236ec6f26f77a5d60cce3fec44b029c97aeab328e84932c35fcb0f139",
+  "size": 338091
+ },
  "art/sickofit-enemies/Generated/pileKeeper/poses/dead.png": {
   "sha256": "14bcd6890abaa320d5d5f9556d27b9504646a0067a1a2227f96d97ac80bb55f8",
   "size": 1225091
@@ -26410,6 +26426,10 @@
  "art/sickofit-enemies/Generated/pileKeeper/poses/stand.png": {
   "sha256": "3c395d98dd6fe33c68d1d19ab0f73c3d7091660e34aee0990f5e95725c8f0930",
   "size": 1207809
+ },
+ "art/sickofit-enemies/Generated/pileKeeper/poses/struck.png": {
+  "sha256": "7906201a8343bbdea2bce9ae9776cd3f994e2196af1030767cf5ac06218437a9",
+  "size": 1270505
  },
  "art/sickofit-enemies/Generated/pointer/clips/hiccup.mp4": {
   "sha256": "99c7c9decb872cae93fabe2573c659e4fc984db4d8cb821d3dd4afead13f4dfd",
