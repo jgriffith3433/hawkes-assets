@@ -25119,6 +25119,30 @@
   "sha256": "ce01cc3d02688e3bf767ee389af63764617bddacad4d1a61a95fb635ee8e2ba8",
   "size": 1200198
  },
+ "art/sickofit-enemies/Generated/chainWhelp/clips/die.mp4": {
+  "sha256": "ff72a6c8a5c26b6c3d78ab3013d9bc269aeafb1fe03dcfab94d1d4eccf86b88c",
+  "size": 435190
+ },
+ "art/sickofit-enemies/Generated/chainWhelp/clips/hurt.mp4": {
+  "sha256": "f10efb0aa0329f17fc0f1d31b3a562ac957fe05549f345213e3193b7b7fe4cda",
+  "size": 305273
+ },
+ "art/sickofit-enemies/Generated/chainWhelp/clips/idle.mp4": {
+  "sha256": "12aa339fa88c9db6cfb5bf783f1b88a384269cfa996b29ee369ed370ef45ae2b",
+  "size": 289694
+ },
+ "art/sickofit-enemies/Generated/chainWhelp/poses/dead.png": {
+  "sha256": "447dba87f2483d9dc61beb2a08608bc20f12f0d26840668d644155be5e87d07b",
+  "size": 1145976
+ },
+ "art/sickofit-enemies/Generated/chainWhelp/poses/stand.png": {
+  "sha256": "7eb0db23f70981a3706e98366fb70a39cbbf0fae286979b4355029a4b48f3979",
+  "size": 1037322
+ },
+ "art/sickofit-enemies/Generated/chainWhelp/poses/struck.png": {
+  "sha256": "63c0184062601c90cdf8d28abd9057598f2aa1a55dd3b47b9a3de09ed6dc37fb",
+  "size": 1151420
+ },
  "art/sickofit-enemies/Generated/cheerSoul/clips/hiccup.mp4": {
   "sha256": "4c06bbefcdc2b9a07bfdaf6b114223f1a4e01ca6b266c934da267ffb26464b89",
   "size": 294048
