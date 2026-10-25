@@ -25235,6 +25235,14 @@
   "sha256": "63c0184062601c90cdf8d28abd9057598f2aa1a55dd3b47b9a3de09ed6dc37fb",
   "size": 1151420
  },
+ "art/sickofit-enemies/Generated/chainWhipPickup/clips/idle.mp4": {
+  "sha256": "97491dff27bffe522e4aa6eb5a3d0a9bdec5bdd28f013ff609682fb9475f8931",
+  "size": 504603
+ },
+ "art/sickofit-enemies/Generated/chainWhipPickup/poses/stand.png": {
+  "sha256": "40841fe70a6cdde1d686fc0c3556e1d910a1cbb26ff522637b584b770ca422ff",
+  "size": 995116
+ },
  "art/sickofit-enemies/Generated/cheerSoul/clips/hiccup.mp4": {
   "sha256": "4c06bbefcdc2b9a07bfdaf6b114223f1a4e01ca6b266c934da267ffb26464b89",
   "size": 294048
