@@ -24975,6 +24975,22 @@
   "sha256": "f9d34855b9c0978b545ededbccb77af719ef3a07106c1a4b6f21ff59ae6cf162",
   "size": 1092929
  },
+ "art/sickofit-enemies/Generated/broodWhelp/clips/die.mp4": {
+  "sha256": "40280ab4aa47c8eedc3823829f8b37506a9af70458a19cbb00c01fa09df84908",
+  "size": 371722
+ },
+ "art/sickofit-enemies/Generated/broodWhelp/clips/hurt.mp4": {
+  "sha256": "cb34189753bb583e85e96befaae7e04f5e9b8b52aed157eb6d0969ffe6bb3021",
+  "size": 338176
+ },
+ "art/sickofit-enemies/Generated/broodWhelp/clips/idle.mp4": {
+  "sha256": "cbc14dceaa4c4c343099d523b0211e0df7c4426b4dcb02e9efccc689b43aecdc",
+  "size": 363454
+ },
+ "art/sickofit-enemies/Generated/broodWhelp/clips/move.mp4": {
+  "sha256": "76f0f992caba8499b1728f17651f6d88c0229f653a3a8b84454e766c70776557",
+  "size": 265948
+ },
  "art/sickofit-enemies/Generated/broodWhelp/poses/dead.png": {
   "sha256": "2f3317101d36d178e10dc01c7857a84b86f054f3c15f16d316a8ad0a789fd4f8",
   "size": 1185647
@@ -24982,6 +24998,10 @@
  "art/sickofit-enemies/Generated/broodWhelp/poses/stand.png": {
   "sha256": "0d0b2ac79293a148bbe083523d97367e67b5a23e3d4e5ebb84be3efd27fbb087",
   "size": 1063389
+ },
+ "art/sickofit-enemies/Generated/broodWhelp/poses/struck.png": {
+  "sha256": "56b82be5a9425c74100a3cd319abfbb2fff933f432edc7ac30a5f2c5555ea3b3",
+  "size": 1156276
  },
  "art/sickofit-enemies/Generated/damnedSoul/clips/hiccup.mp4": {
   "sha256": "c878b69aabadc17e72bfc0aaa3b4be8b1f0210890e1fff40be4cacead80effc9",
