@@ -26803,6 +26803,14 @@
   "sha256": "f444216d67c1ce5df1890a678a9f959ba1b989d9d586e0b997b24723803f6667",
   "size": 1196369
  },
+ "art/sickofit-enemies/Generated/sfSpear/clips/idle.mp4": {
+  "sha256": "8ac614510f21c7b03dc9071704f2cb402de0148a65c0c8f277aa31e844563a22",
+  "size": 216606
+ },
+ "art/sickofit-enemies/Generated/sfSpear/poses/stand.png": {
+  "sha256": "f76a2870c46858ec3c3f8625eae85a8181223998ccf4d6eb1a1e3f6ebcb950dc",
+  "size": 763759
+ },
  "art/sickofit-enemies/Generated/shardwright/clips/attack.mp4": {
   "sha256": "141cafc41d3ab4ec933620c4724c61a2f54cda6555eed660fcd8a651aa5943c5",
   "size": 277866
