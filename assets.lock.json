@@ -24919,6 +24919,14 @@
   "sha256": "f9d34855b9c0978b545ededbccb77af719ef3a07106c1a4b6f21ff59ae6cf162",
   "size": 1092929
  },
+ "art/sickofit-enemies/Generated/broodWhelp/poses/dead.png": {
+  "sha256": "2f3317101d36d178e10dc01c7857a84b86f054f3c15f16d316a8ad0a789fd4f8",
+  "size": 1185647
+ },
+ "art/sickofit-enemies/Generated/broodWhelp/poses/stand.png": {
+  "sha256": "0d0b2ac79293a148bbe083523d97367e67b5a23e3d4e5ebb84be3efd27fbb087",
+  "size": 1063389
+ },
  "art/sickofit-enemies/Generated/damnedSoul/clips/hiccup.mp4": {
   "sha256": "c878b69aabadc17e72bfc0aaa3b4be8b1f0210890e1fff40be4cacead80effc9",
   "size": 115933
