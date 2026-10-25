@@ -26587,6 +26587,38 @@
   "sha256": "7a7fe23d74137c3431aeb49476d12b129e9bec220cc440d1f73bb86b102c0a9d",
   "size": 1144843
  },
+ "art/sickofit-enemies/Generated/risenDemon/clips/attack.mp4": {
+  "sha256": "0c89a3140e910584d5fef7ba9ee5a52a7dbfe2afb1d9baa2b1195f50a3214894",
+  "size": 286447
+ },
+ "art/sickofit-enemies/Generated/risenDemon/clips/die.mp4": {
+  "sha256": "fc899830ed7aa23f487e5ee80bbfd92671bc10da7d217c9064ba50b3af547f91",
+  "size": 310618
+ },
+ "art/sickofit-enemies/Generated/risenDemon/clips/hurt.mp4": {
+  "sha256": "aaacf57ba707157b09ca0f4e3be83cd32a131ce3485f816c6649c86fc00125af",
+  "size": 258328
+ },
+ "art/sickofit-enemies/Generated/risenDemon/clips/idle.mp4": {
+  "sha256": "d58368d0bd7525eb8a8c666d7b0a6ff2db2c74874b3e2812b6634fcb5738d6cf",
+  "size": 287789
+ },
+ "art/sickofit-enemies/Generated/risenDemon/clips/move.mp4": {
+  "sha256": "2ef70b70b62cea2633dda1c5e66001bde653aace0f683a41175d09741e1943b4",
+  "size": 204152
+ },
+ "art/sickofit-enemies/Generated/risenDemon/poses/dead.png": {
+  "sha256": "781feed5c2b53fd6fa87f7ee9078b3191fdf52907a8caaaafc9011ec76a5c542",
+  "size": 1126342
+ },
+ "art/sickofit-enemies/Generated/risenDemon/poses/stand.png": {
+  "sha256": "37f46c3021a00923e45cab43c03c73a1c676901d93ef76f08d7eaae92ab36a67",
+  "size": 1041527
+ },
+ "art/sickofit-enemies/Generated/risenDemon/poses/struck.png": {
+  "sha256": "b901106724b77d1f18e10170bdff213b82f0b08c014df1afb6f8be9a8b0b5300",
+  "size": 1141844
+ },
  "art/sickofit-enemies/Generated/roadBreaker/clips/attack.mp4": {
   "sha256": "8eecce7a67291ca2c748d28069d1ef0a89f97cdcd78c4a82d495e0b33ed773db",
   "size": 213040
