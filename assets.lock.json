@@ -26387,6 +26387,14 @@
   "sha256": "788a165146e9bf3d637e8016ff3f92d9fd97a5f99f9b3dc0524e01124b7d49d0",
   "size": 928321
  },
+ "art/sickofit-enemies/Generated/ricochetPistolPickup/clips/idle.mp4": {
+  "sha256": "9f58b0d3f9f0cbc4fade4742750161fc41f718097a6694543a0faff81766eb07",
+  "size": 590038
+ },
+ "art/sickofit-enemies/Generated/ricochetPistolPickup/poses/stand.png": {
+  "sha256": "96148d7c53db3df3298d0a8bc47c12daf221023e4a7dc269c722e69fe4a11429",
+  "size": 899534
+ },
  "art/sickofit-enemies/Generated/slagHound/clips/attack.mp4": {
   "sha256": "14d7a629ad2fdd9dcfa5cdb34484563b07816912b621197b0995d0d09b90963a",
   "size": 535450
