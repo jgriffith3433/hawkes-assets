@@ -25951,6 +25951,34 @@
   "sha256": "6ca9b57065dab97a6361cf7c0ffad64af069f2dce7fac7023a18306183e75dbb",
   "size": 1164208
  },
+ "art/sickofit-enemies/Generated/impShotgunBearer/clips/attack.mp4": {
+  "sha256": "20142e00ea6a718b19ce17ba7865e25fdfba10f3f16f30571e21a67e458271b6",
+  "size": 381675
+ },
+ "art/sickofit-enemies/Generated/impShotgunBearer/clips/die.mp4": {
+  "sha256": "9bee8127de92adb38454b61bf7547af86efb2411e60d15fea6a6809d2071e885",
+  "size": 424544
+ },
+ "art/sickofit-enemies/Generated/impShotgunBearer/clips/hurt.mp4": {
+  "sha256": "c196a8a6bc2eb8d454151c36941d47d05c964bb4f2412fc1178eb2ff551ae9c9",
+  "size": 298790
+ },
+ "art/sickofit-enemies/Generated/impShotgunBearer/clips/idle.mp4": {
+  "sha256": "32c38a223c7f2cfa79ce8b915f7a0cec4a0e78b0e57aa56e0edc478bcb8eb920",
+  "size": 585049
+ },
+ "art/sickofit-enemies/Generated/impShotgunBearer/poses/dead.png": {
+  "sha256": "34b878f755e769bda1f4d952532db97a9aa1928efcea6a3818fa778ede7bf9a9",
+  "size": 1163261
+ },
+ "art/sickofit-enemies/Generated/impShotgunBearer/poses/stand.png": {
+  "sha256": "8daf95429f23c04d5908d10628b2f1882ebfe99c321d87946696be5236cb2583",
+  "size": 1102443
+ },
+ "art/sickofit-enemies/Generated/impShotgunBearer/poses/struck.png": {
+  "sha256": "47c085578f15b6488ed66eebee3029c4b31ddd13ab6bc24fb2adc1b4d1b53436",
+  "size": 1183977
+ },
  "art/sickofit-enemies/Generated/impSleeper/clips/die.mp4": {
   "sha256": "b1a8afc05ecbcdd647140cdf0d7281985e1e1ad87f615bfd4911df4f2ab5da9f",
   "size": 455393
