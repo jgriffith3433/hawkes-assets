@@ -26819,6 +26819,14 @@
   "sha256": "f76a2870c46858ec3c3f8625eae85a8181223998ccf4d6eb1a1e3f6ebcb950dc",
   "size": 763759
  },
+ "art/sickofit-enemies/Generated/shard/clips/idle.mp4": {
+  "sha256": "0d6d55e0b4f818ccada63a200cdb75ec1e46d7a7c611cf77fa66d3e3c3b964c2",
+  "size": 629790
+ },
+ "art/sickofit-enemies/Generated/shard/poses/stand.png": {
+  "sha256": "c3626edf007260f91b6bb90d6e409257b27af7181d4e5b5a99cb5183f85645a9",
+  "size": 828490
+ },
  "art/sickofit-enemies/Generated/shardwright/clips/attack.mp4": {
   "sha256": "141cafc41d3ab4ec933620c4724c61a2f54cda6555eed660fcd8a651aa5943c5",
   "size": 277866
