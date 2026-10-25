@@ -25087,9 +25087,33 @@
   "sha256": "56b82be5a9425c74100a3cd319abfbb2fff933f432edc7ac30a5f2c5555ea3b3",
   "size": 1156276
  },
+ "art/sickofit-enemies/Generated/bulwarkImp/clips/die.mp4": {
+  "sha256": "02a24964e625019b0b6dd9fbd72fde72dd277c3c56cb34cb058f1c41d19abf58",
+  "size": 425359
+ },
+ "art/sickofit-enemies/Generated/bulwarkImp/clips/hurt.mp4": {
+  "sha256": "4dcafb76f3a21a2c7f6308bf3e728ae62d4d82b97dd7aa269db350591e306f4f",
+  "size": 310266
+ },
+ "art/sickofit-enemies/Generated/bulwarkImp/clips/idle.mp4": {
+  "sha256": "076b584c0e06000f825f1aa7c85417181a6ef93b95821eac497dfee9fd06aca5",
+  "size": 349089
+ },
+ "art/sickofit-enemies/Generated/bulwarkImp/clips/move.mp4": {
+  "sha256": "1d7924c89af27f08d23e3baa656927392d6e265d72dac19535b2eca21979a8f9",
+  "size": 359296
+ },
  "art/sickofit-enemies/Generated/bulwarkImp/poses/dead.png": {
   "sha256": "f1d69a6a1f4b66e88fe48e2b2005df8e9c2dcdfc0a3d477ceaf4b59971a166c3",
   "size": 1190856
+ },
+ "art/sickofit-enemies/Generated/bulwarkImp/poses/stand.png": {
+  "sha256": "9a849ca1d1d83719e00745a83c033d0350a5f3e0d9ccaa47811527c9f9704e45",
+  "size": 1068468
+ },
+ "art/sickofit-enemies/Generated/bulwarkImp/poses/struck.png": {
+  "sha256": "ce01cc3d02688e3bf767ee389af63764617bddacad4d1a61a95fb635ee8e2ba8",
+  "size": 1200198
  },
  "art/sickofit-enemies/Generated/cheerSoul/clips/hiccup.mp4": {
   "sha256": "4c06bbefcdc2b9a07bfdaf6b114223f1a4e01ca6b266c934da267ffb26464b89",
