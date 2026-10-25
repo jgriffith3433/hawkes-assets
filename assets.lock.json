@@ -27015,6 +27015,58 @@
   "sha256": "f7497493106074b7269217b1d57f8083e041815eefaec046f0aa0fa26e6a57d5",
   "size": 1079080
  },
+ "art/sickofit-enemies/Generated/spireFiend/clips/die.mp4": {
+  "sha256": "eb60ec19cded71dbdc4d2014b28dba82d5d336decab2e48b839cfad028258485",
+  "size": 554210
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/enrage.mp4": {
+  "sha256": "6f343196b76747d702e74fb771d82a899f944da1baad6781a1b0ded49e8be010",
+  "size": 250610
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/hurt.mp4": {
+  "sha256": "d2340ba30eda342ff327ceecf473b4e30c9f81f4627960b4638387775def7d31",
+  "size": 125086
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/idle-enraged.mp4": {
+  "sha256": "c3cde2a829cd1c2e20df7c94211b28672c7433eb29936a895c8909d68fedff25",
+  "size": 246916
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/idle.mp4": {
+  "sha256": "957141bd9d5643a5a9afe809cdda9e22cc18b3fb532ed6afc75f80aa9c1afeb0",
+  "size": 269377
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/rise.mp4": {
+  "sha256": "f4306b33c4088a20a6466e0a740cb6ec329b2c03a634b0c3d1d459a5a1340630",
+  "size": 245393
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/slam-enraged.mp4": {
+  "sha256": "4980fc63501ec2c34e09e8fc082a9e9bec639cf2e428dbb85ec0eb2335e5b764",
+  "size": 310826
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/slam.mp4": {
+  "sha256": "5c86be154e1074581a66a22f8e9d144967c6ab06bca27a570f5702dd0ecf4a7b",
+  "size": 235008
+ },
+ "art/sickofit-enemies/Generated/spireFiend/clips/throw.mp4": {
+  "sha256": "a41bff17fad112eb310c4958f4c845b5324ccda918563ce8d596d78670de14e9",
+  "size": 278601
+ },
+ "art/sickofit-enemies/Generated/spireFiend/poses/dead.png": {
+  "sha256": "8f209e969c083651bd040760198c39b18b5d1ce8f5bc4160d2b1a40f05f06c1d",
+  "size": 958399
+ },
+ "art/sickofit-enemies/Generated/spireFiend/poses/dormant.png": {
+  "sha256": "ddab68794643d24e839858594f556a1c3e546941b32b69356a1f2d1ca9a87f88",
+  "size": 989564
+ },
+ "art/sickofit-enemies/Generated/spireFiend/poses/enraged.png": {
+  "sha256": "07886d73a02f86c0aa46816cf772de92326f5d779463010ffee56448148fc8f3",
+  "size": 1052644
+ },
+ "art/sickofit-enemies/Generated/spireFiend/poses/stand.png": {
+  "sha256": "698283ad9158749758ff32494cba648ce299a0ee7ffd788bfe35bc7ff5ae16fe",
+  "size": 926740
+ },
  "art/sickofit-enemies/Generated/spitfirePickup/clips/idle.mp4": {
   "sha256": "2b249f862f164c5ce6d7099a1f92dc95ef9f806e3598358cab11d847bdb93427",
   "size": 333438
