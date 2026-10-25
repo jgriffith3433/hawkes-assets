@@ -25087,6 +25087,10 @@
   "sha256": "56b82be5a9425c74100a3cd319abfbb2fff933f432edc7ac30a5f2c5555ea3b3",
   "size": 1156276
  },
+ "art/sickofit-enemies/Generated/bulwarkImp/poses/dead.png": {
+  "sha256": "f1d69a6a1f4b66e88fe48e2b2005df8e9c2dcdfc0a3d477ceaf4b59971a166c3",
+  "size": 1190856
+ },
  "art/sickofit-enemies/Generated/cheerSoul/clips/hiccup.mp4": {
   "sha256": "4c06bbefcdc2b9a07bfdaf6b114223f1a4e01ca6b266c934da267ffb26464b89",
   "size": 294048
