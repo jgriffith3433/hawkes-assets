@@ -26667,6 +26667,14 @@
   "sha256": "b3c0792626451cf24cace436fbb9a6bcf8cead6f8571786a15d59ac86bc3e397",
   "size": 1124851
  },
+ "art/sickofit-enemies/Generated/rocketLauncherPickup/clips/idle.mp4": {
+  "sha256": "c74b946ad4d7367009b24fc5fec82a0ffb1d602b048df5f582928b3edb811486",
+  "size": 430748
+ },
+ "art/sickofit-enemies/Generated/rocketLauncherPickup/poses/stand.png": {
+  "sha256": "51b922072469e2d50fb8fbec8eda564520950c60902866ef34d9e40ef52a7c3d",
+  "size": 901504
+ },
  "art/sickofit-enemies/Generated/shotgunPickup/clips/idle.mp4": {
   "sha256": "d42d27d70f738c4ac62e60536f4f7b3a66830fab4665f69113bd8bbe4b7a7872",
   "size": 634419
