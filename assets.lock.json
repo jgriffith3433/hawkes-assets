@@ -25087,9 +25087,25 @@
   "sha256": "56b82be5a9425c74100a3cd319abfbb2fff933f432edc7ac30a5f2c5555ea3b3",
   "size": 1156276
  },
+ "art/sickofit-enemies/Generated/cinder/clips/die.mp4": {
+  "sha256": "29897454d83bb73e7cae46863624793773b4bf99393947d451312eb54f8529bc",
+  "size": 190555
+ },
+ "art/sickofit-enemies/Generated/cinder/clips/idle.mp4": {
+  "sha256": "d7fbfae9d9310963d2c9b0f9392a753ddde690aa9bb92abe57c01c1da9a973b3",
+  "size": 239219
+ },
+ "art/sickofit-enemies/Generated/cinder/clips/move.mp4": {
+  "sha256": "693835c5cc30d04bba8ee8965c06394122f619a742a3295af977fd4b4e8a2d05",
+  "size": 201227
+ },
  "art/sickofit-enemies/Generated/cinder/poses/popped.png": {
   "sha256": "b79a8c900343fd129b067cefc140dd72d4a99a122e3683cff73dbc6143884fdf",
   "size": 1021414
+ },
+ "art/sickofit-enemies/Generated/cinder/poses/stand.png": {
+  "sha256": "1fe69b27dd4f54b2fd0ecd4657726956e831d5c9fc30855495945fc8fd90eb41",
+  "size": 891876
  },
  "art/sickofit-enemies/Generated/damnedSoul/clips/hiccup.mp4": {
   "sha256": "c878b69aabadc17e72bfc0aaa3b4be8b1f0210890e1fff40be4cacead80effc9",
