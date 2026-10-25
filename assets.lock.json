@@ -26423,9 +26423,33 @@
   "sha256": "979fd45c6d77b67c110b0d671c25984b8d931a457d7edb7d9943f8676ca50aab",
   "size": 929981
  },
+ "art/sickofit-enemies/Generated/pyreCaller/clips/attack.mp4": {
+  "sha256": "6ab7258abbaa72e7e9ec998f0085833c48a7d42080fc688c2835cc01fd699e99",
+  "size": 442930
+ },
+ "art/sickofit-enemies/Generated/pyreCaller/clips/die.mp4": {
+  "sha256": "fa66a15f5f8e500a5cb43aa959215f7b82ca63e2c85465b11bc0c87b6bef8245",
+  "size": 383627
+ },
+ "art/sickofit-enemies/Generated/pyreCaller/clips/hurt.mp4": {
+  "sha256": "e6c66262b87c768cb8297cab728ca18000c890ae4d24e70a816afb6dde76970e",
+  "size": 252048
+ },
+ "art/sickofit-enemies/Generated/pyreCaller/clips/idle.mp4": {
+  "sha256": "043655565e91381cbc7314de2059b5b4d88d7da709859d3ff91f1b566907708d",
+  "size": 314755
+ },
  "art/sickofit-enemies/Generated/pyreCaller/poses/dead.png": {
   "sha256": "88f7c7c7b6ea818511d2bcd131d84c18fbf02e43e595fa5fe5d99eeadff128fe",
   "size": 1186022
+ },
+ "art/sickofit-enemies/Generated/pyreCaller/poses/stand.png": {
+  "sha256": "b40dc6b7860f5ccf5fe230919688d79b309197ae17c011a9f629139f9b887129",
+  "size": 1155382
+ },
+ "art/sickofit-enemies/Generated/pyreCaller/poses/struck.png": {
+  "sha256": "8a7d8e0e8fd6c93e5a20c24e466756e8b2fdcd0bf73296c6064c3f6d13237fcb",
+  "size": 1184195
  },
  "art/sickofit-enemies/Generated/ricochetPistolPickup/clips/idle.mp4": {
   "sha256": "9f58b0d3f9f0cbc4fade4742750161fc41f718097a6694543a0faff81766eb07",
