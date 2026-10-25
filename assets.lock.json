@@ -26003,6 +26003,14 @@
   "sha256": "2aaa12116d591402d0ad291e6f6da57950b3b1cbf266dee105a77bd0561cd553",
   "size": 1117478
  },
+ "art/sickofit-enemies/Generated/impSpitfireBearer/poses/dead.png": {
+  "sha256": "5bf45026124c82ec5f1a336c1c270f46243d6a0388b8b636205537426d80276a",
+  "size": 1168515
+ },
+ "art/sickofit-enemies/Generated/impSpitfireBearer/poses/stand.png": {
+  "sha256": "65bade5d095bf9bfe33ea29c2be13cdf5f9bee7e3a45dac6011ea573efdd5791",
+  "size": 1095858
+ },
  "art/sickofit-enemies/Generated/launcherThief/clips/die.mp4": {
   "sha256": "2d9429fc14742008ed008f82faafdae9a9f2b9b8ab72d4ba39e7a070b0c2a66c",
   "size": 453798
