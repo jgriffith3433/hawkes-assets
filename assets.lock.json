@@ -25295,6 +25295,34 @@
   "sha256": "468ee78087a5d95674e3bf3bb3bd5276bf4731657c93a328e6bf4d6a0272dca3",
   "size": 1227860
  },
+ "art/sickofit-enemies/Generated/cinderSpark/clips/die.mp4": {
+  "sha256": "72ec0896e30ffe9a5a065779ce1173c72c143f1cc21c109721fed0a0651128fd",
+  "size": 293238
+ },
+ "art/sickofit-enemies/Generated/cinderSpark/clips/hurt.mp4": {
+  "sha256": "aecd32cdd096548aa266fe70576f63c14f951823a73a862db0fd0142c335f1ab",
+  "size": 175596
+ },
+ "art/sickofit-enemies/Generated/cinderSpark/clips/idle.mp4": {
+  "sha256": "4d94a3c0b1ab4886c482b0e753a6724bba57cee96fdb08c4baf205c079889f40",
+  "size": 300282
+ },
+ "art/sickofit-enemies/Generated/cinderSpark/clips/move.mp4": {
+  "sha256": "a41c843284c742ff66d074f90943b2d8246c4c0998536245789a9ce04dead5a4",
+  "size": 196535
+ },
+ "art/sickofit-enemies/Generated/cinderSpark/poses/dead.png": {
+  "sha256": "e13fdcb1760381bc52a53f8bb2763596a08893a27e3bf185dcf295bbb40c0717",
+  "size": 981491
+ },
+ "art/sickofit-enemies/Generated/cinderSpark/poses/stand.png": {
+  "sha256": "2a5851a3b7b4b08d78498f83ebebf3ab5b629c01e47e0e8e6884680e40daf7a5",
+  "size": 934258
+ },
+ "art/sickofit-enemies/Generated/cinderSpark/poses/struck.png": {
+  "sha256": "13322f4a1815214bb6d738210bb89d5b7315aa01960f0115c60984c4d8adf8d4",
+  "size": 1015258
+ },
  "art/sickofit-enemies/Generated/damnedSoul/clips/hiccup.mp4": {
   "sha256": "c878b69aabadc17e72bfc0aaa3b4be8b1f0210890e1fff40be4cacead80effc9",
   "size": 115933
