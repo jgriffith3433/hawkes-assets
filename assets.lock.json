@@ -25787,6 +25787,14 @@
   "sha256": "3afec181a90591b0fae9f04673698e4df97424fc5b88739d9fa6415940657ce9",
   "size": 582503
  },
+ "art/sickofit-enemies/Generated/impCutter/poses/dead.png": {
+  "sha256": "e806134a57255608a545c59db2553b28e4283b2eccd75e0bf7c5df557afa1060",
+  "size": 1091165
+ },
+ "art/sickofit-enemies/Generated/impCutter/poses/stand.png": {
+  "sha256": "c071bf0a607081dc17585e959eb3281a5c49f21eede015600e638192d2e2eee9",
+  "size": 1031217
+ },
  "art/sickofit-enemies/Generated/impForeman/clips/attack.mp4": {
   "sha256": "86c99e04554f874b85dcf27ce99e1a6bb4f3e9085e04a0ac7fb072d8d76fe9c1",
   "size": 395743
