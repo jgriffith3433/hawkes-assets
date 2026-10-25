@@ -26735,6 +26735,38 @@
   "sha256": "be69f56be594cf9fa3a2400bad5a7b78c7b7f795c6d03f91c9ad548dcc8ab02d",
   "size": 983999
  },
+ "art/sickofit-enemies/Generated/runeHound/clips/attack.mp4": {
+  "sha256": "0ab4ec7a1274eb329776ab688525a360e107038f4c12398e616a5fb0d4f4de0f",
+  "size": 464456
+ },
+ "art/sickofit-enemies/Generated/runeHound/clips/die.mp4": {
+  "sha256": "5d15545b5d9dc3e61791db110b3c80122e683c5f1960ab5008d3335db15dc539",
+  "size": 522049
+ },
+ "art/sickofit-enemies/Generated/runeHound/clips/hurt.mp4": {
+  "sha256": "19c00cc70a33238e0e5be7e08f2127104979694aac3e7710be064b3f94838307",
+  "size": 330607
+ },
+ "art/sickofit-enemies/Generated/runeHound/clips/idle.mp4": {
+  "sha256": "ad83f8cd6c9a0e8dd7f9b62bc3ddbb9b814ccaa4fa3bf05443053a52e29cd903",
+  "size": 361317
+ },
+ "art/sickofit-enemies/Generated/runeHound/clips/move.mp4": {
+  "sha256": "e4dea28911d120fc1db964f681ff659b27287fd832087b3d054eaf6791705b74",
+  "size": 176124
+ },
+ "art/sickofit-enemies/Generated/runeHound/poses/dead.png": {
+  "sha256": "df2d1933792eb355164a000dae6f7da9cac268535ea5164fd1f05080ddaca9d4",
+  "size": 1181346
+ },
+ "art/sickofit-enemies/Generated/runeHound/poses/stand.png": {
+  "sha256": "bd44d2cc60cd9e6a01fd3bbcfbf75a484383cca89f6d310115926e084617cfbf",
+  "size": 1051755
+ },
+ "art/sickofit-enemies/Generated/runeHound/poses/struck.png": {
+  "sha256": "3be3d8c0e0d56f7d1763c1c5822c7b0c45c7da4b8ffbc7d75f772e6c041f7101",
+  "size": 1185631
+ },
  "art/sickofit-enemies/Generated/seamImp/poses/dead.png": {
   "sha256": "935d1b84f2a2a72bd8b859b5e6ae6d875b5bda83a433a1146997e510d40450c4",
   "size": 1156102
