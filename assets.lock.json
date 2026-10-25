@@ -26855,6 +26855,22 @@
   "sha256": "782006c7d71a56e11f76974366a503e2f749901bb56443f0cd9fc7b7a29aac33",
   "size": 906810
  },
+ "art/sickofit-enemies/Generated/sleepwalker/clips/die.mp4": {
+  "sha256": "25777356c55757c306a1d1ba35cac206803177a0fd56ebf6a18642fd9337af26",
+  "size": 389638
+ },
+ "art/sickofit-enemies/Generated/sleepwalker/clips/hurt.mp4": {
+  "sha256": "acd31ca8ae904a63d98fecdcf495783fc98025b4055d8dd4634343ae0da6ec8b",
+  "size": 187323
+ },
+ "art/sickofit-enemies/Generated/sleepwalker/clips/idle.mp4": {
+  "sha256": "de7184f9000a5e1237471c44e1ff5ec3b8344de3a64f5359311fd91042dc98bc",
+  "size": 340063
+ },
+ "art/sickofit-enemies/Generated/sleepwalker/clips/move.mp4": {
+  "sha256": "4b337ba4ca48b548f54f8fd495922bb94e1b7fbfe112a0ca094dfb50e50c3da5",
+  "size": 175352
+ },
  "art/sickofit-enemies/Generated/sleepwalker/poses/dead.png": {
   "sha256": "96a7fe226b2e317b3bbaec6be10d071dbca3d294437c8f79b54294ea2af6e4a9",
   "size": 1020985
@@ -26862,6 +26878,10 @@
  "art/sickofit-enemies/Generated/sleepwalker/poses/stand.png": {
   "sha256": "4304966b542cf8713446282d46bee35b31c24659c21526a59e482be50e4f5ac1",
   "size": 889722
+ },
+ "art/sickofit-enemies/Generated/sleepwalker/poses/struck.png": {
+  "sha256": "f7497493106074b7269217b1d57f8083e041815eefaec046f0aa0fa26e6a57d5",
+  "size": 1079080
  },
  "art/sickofit-enemies/Generated/spitfirePickup/clips/idle.mp4": {
   "sha256": "2b249f862f164c5ce6d7099a1f92dc95ef9f806e3598358cab11d847bdb93427",
