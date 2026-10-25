@@ -26403,6 +26403,14 @@
   "sha256": "788a165146e9bf3d637e8016ff3f92d9fd97a5f99f9b3dc0524e01124b7d49d0",
   "size": 928321
  },
+ "art/sickofit-enemies/Generated/pileKeeper/poses/dead.png": {
+  "sha256": "14bcd6890abaa320d5d5f9556d27b9504646a0067a1a2227f96d97ac80bb55f8",
+  "size": 1225091
+ },
+ "art/sickofit-enemies/Generated/pileKeeper/poses/stand.png": {
+  "sha256": "3c395d98dd6fe33c68d1d19ab0f73c3d7091660e34aee0990f5e95725c8f0930",
+  "size": 1207809
+ },
  "art/sickofit-enemies/Generated/pointer/clips/hiccup.mp4": {
   "sha256": "99c7c9decb872cae93fabe2573c659e4fc984db4d8cb821d3dd4afead13f4dfd",
   "size": 251126
