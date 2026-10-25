@@ -25475,6 +25475,38 @@
   "sha256": "86aa59fe697b54da43958791ce8b9440edee157990a199bc39b53c598f3e8c3d",
   "size": 1166386
  },
+ "art/sickofit-enemies/Generated/furnacePlate/clips/attack.mp4": {
+  "sha256": "308550a2d51c95d57d32549ee97580700dda531bfb96e4420eb639e54d678b4f",
+  "size": 435654
+ },
+ "art/sickofit-enemies/Generated/furnacePlate/clips/die.mp4": {
+  "sha256": "cf1c555a5e09b6ffb8c97f7a8aeff7050e7a63fe4f018567ba22b591aea3a2e0",
+  "size": 435077
+ },
+ "art/sickofit-enemies/Generated/furnacePlate/clips/hurt.mp4": {
+  "sha256": "8fdc137a01d5bf49ce75f1c98f4e39c8c27f2a3039c7f48802e8a93071e97431",
+  "size": 241031
+ },
+ "art/sickofit-enemies/Generated/furnacePlate/clips/idle.mp4": {
+  "sha256": "b735280eebe8991db60cfd89fe090b85f73b2854120069f92e91aba2be46ee8e",
+  "size": 505226
+ },
+ "art/sickofit-enemies/Generated/furnacePlate/clips/move.mp4": {
+  "sha256": "158e123f16417d2b59a602e102ef36a696ad89f49181d86d3faff78f2eeac069",
+  "size": 263369
+ },
+ "art/sickofit-enemies/Generated/furnacePlate/poses/dead.png": {
+  "sha256": "0582b67cdd2e2f61f464f5e795a65e10789f684a4761a93f637196d0279bceb4",
+  "size": 1140567
+ },
+ "art/sickofit-enemies/Generated/furnacePlate/poses/stand.png": {
+  "sha256": "21ff2c27cdf181ed6a5d96040228fd7423cf7d51ec8a5f490b67b59cb6020229",
+  "size": 1151997
+ },
+ "art/sickofit-enemies/Generated/furnacePlate/poses/struck.png": {
+  "sha256": "b408a77b95a48949622480f65264e4277eb6eed7e2531a7ffc8ed322f65fad88",
+  "size": 1240828
+ },
  "art/sickofit-enemies/Generated/fuseWhelp/clips/die.mp4": {
   "sha256": "5e4821a8a53d70c945ec3eee82e0d3c3e8c26ca8109fc334e6e5d0a742b38546",
   "size": 380174
