@@ -27231,6 +27231,38 @@
   "sha256": "fe36f68d97307a72705fb08020a85642f264a2d81c3cc7291e5de8a39c16c677",
   "size": 1035755
  },
+ "art/sickofit-enemies/Generated/veilMatron/clips/attack.mp4": {
+  "sha256": "f45be0d7287885de9950ff257f39c419e151277c18e34bd0641f30212fce7f55",
+  "size": 336662
+ },
+ "art/sickofit-enemies/Generated/veilMatron/clips/die.mp4": {
+  "sha256": "9e02c1633e97ff68a4934b16b5d4820a25de44e71554b734acccbeba1e4ec412",
+  "size": 470733
+ },
+ "art/sickofit-enemies/Generated/veilMatron/clips/hurt.mp4": {
+  "sha256": "4ad91ce4e5262788d209eb169901e4645fa3b508c7d4de08b836aa6e80dad744",
+  "size": 195122
+ },
+ "art/sickofit-enemies/Generated/veilMatron/clips/idle.mp4": {
+  "sha256": "9849864e5fae2572e9ad0ca08a709f6b9fa4087dc38fcad30f6c162c8e3cef84",
+  "size": 307114
+ },
+ "art/sickofit-enemies/Generated/veilMatron/clips/move.mp4": {
+  "sha256": "5ae578e1c8ccf1f3bee9351147ac3cff001d0ce8eb9dfd90c6b65512e22e90b3",
+  "size": 236856
+ },
+ "art/sickofit-enemies/Generated/veilMatron/poses/dead.png": {
+  "sha256": "8db45ea93ac892b6f20e872141f6f6ac27aaf38fcf06d3b7a85de40640aabe40",
+  "size": 1148883
+ },
+ "art/sickofit-enemies/Generated/veilMatron/poses/stand.png": {
+  "sha256": "0959a60329147d9a6558fbb0f13296416b5b61b9524496a1e1741aa3df28e245",
+  "size": 1054709
+ },
+ "art/sickofit-enemies/Generated/veilMatron/poses/struck.png": {
+  "sha256": "ed69fbbb21f6d5a8dfe764b118f94ff9c37c9f88043134c95cee8ef2207c807a",
+  "size": 1298525
+ },
  "art/sickofit-enemies/Generated/watcher/clips/attack.mp4": {
   "sha256": "83eddd0d97bfd93acd1df1a69206ce21830c3e79c5f4f8b6c0ebeb9617a48ec6",
   "size": 323886
