@@ -25563,6 +25563,18 @@
   "sha256": "27070f6a0d551369c41764d2db3e748de16c079e9aaed835d347ad6ba15e1bb7",
   "size": 911666
  },
+ "art/sickofit-enemies/Generated/hecklerSoul/clips/hiccup.mp4": {
+  "sha256": "2240e6357efa623d6a78f3a45ada6565acd0481ec92a6c20aee52463b8852548",
+  "size": 297089
+ },
+ "art/sickofit-enemies/Generated/hecklerSoul/clips/idle.mp4": {
+  "sha256": "7969694ecfbb947904e0d4e5f6cdc51790786207f940af89b2d42e46d5871e7a",
+  "size": 239633
+ },
+ "art/sickofit-enemies/Generated/hecklerSoul/poses/stand.png": {
+  "sha256": "fb264307f68e6db75f4c717d71bc89ffec48ca86c7ecf7a2251f5522316a0441",
+  "size": 952495
+ },
  "art/sickofit-enemies/Generated/imp/build.json": {
   "sha256": "416aeccee32111ce54c6577e4322ca1f8dc26ffc6acaecb3e157d9825d6e1882",
   "size": 1056
