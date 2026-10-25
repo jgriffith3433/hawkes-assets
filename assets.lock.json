@@ -26459,6 +26459,38 @@
   "sha256": "7906201a8343bbdea2bce9ae9776cd3f994e2196af1030767cf5ac06218437a9",
   "size": 1270505
  },
+ "art/sickofit-enemies/Generated/plateDemon/clips/attack.mp4": {
+  "sha256": "eb32496be2f9f42034913579d056eef878356838ae532675e0bd5b513a2258f8",
+  "size": 372517
+ },
+ "art/sickofit-enemies/Generated/plateDemon/clips/die.mp4": {
+  "sha256": "8bc1bd9e20a6fde359c7a36a321f969f570fb616503067b62a7edc2aaa38c8a7",
+  "size": 420251
+ },
+ "art/sickofit-enemies/Generated/plateDemon/clips/hurt.mp4": {
+  "sha256": "d81d0278840243dad46d9036ff140fd9aed6354b9c521c2ce174d73dc81d4343",
+  "size": 264123
+ },
+ "art/sickofit-enemies/Generated/plateDemon/clips/idle.mp4": {
+  "sha256": "8fccc58cf846f3141ac4c2e99e7bbb1f46d461232bae5a8300ecb47b82b9183a",
+  "size": 363565
+ },
+ "art/sickofit-enemies/Generated/plateDemon/clips/move.mp4": {
+  "sha256": "4af1ac8188ce707fe40e574b9f09ced222361e5d895c766ba25aeb25674892a9",
+  "size": 182455
+ },
+ "art/sickofit-enemies/Generated/plateDemon/poses/dead.png": {
+  "sha256": "6dbe970467fea77d74b4bc6c9b63c2b4953fd58329a9d8d46b9e1e32444d1cd4",
+  "size": 1119528
+ },
+ "art/sickofit-enemies/Generated/plateDemon/poses/stand.png": {
+  "sha256": "6c10ff6b121d2b76fe265fc4ab146ce1d72e562b63cb29fc8c87b4f04aab07eb",
+  "size": 1054345
+ },
+ "art/sickofit-enemies/Generated/plateDemon/poses/struck.png": {
+  "sha256": "a39e91e80d15ff9d0c475bc6c9978ad4243d8a438c0a68d3f566d86bbfaf32f5",
+  "size": 1187082
+ },
  "art/sickofit-enemies/Generated/pointer/clips/hiccup.mp4": {
   "sha256": "99c7c9decb872cae93fabe2573c659e4fc984db4d8cb821d3dd4afead13f4dfd",
   "size": 251126
