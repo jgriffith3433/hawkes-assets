@@ -27295,6 +27295,26 @@
   "sha256": "3703a2c1ea78b647b81b9095cc611953503abc1abaa90928ac67dd7a47b788e0",
   "size": 976303
  },
+ "art/sickofit-enemies/Generated/wick/clips/hiccup.mp4": {
+  "sha256": "53db042d9c5fb69903e4c14da43168e402a046f4ae2ad662d95c2242f5ef5c5d",
+  "size": 258870
+ },
+ "art/sickofit-enemies/Generated/wick/clips/idle.mp4": {
+  "sha256": "631cd946babdb54eef5bb306fa746c8d7d07aa56abfb7e27c821094c38ce8db9",
+  "size": 227298
+ },
+ "art/sickofit-enemies/Generated/wick/clips/walk.mp4": {
+  "sha256": "c79fc79f3fc436f4ce7bff784df3bb4842329387b5fd6ee457720146854878e8",
+  "size": 235247
+ },
+ "art/sickofit-enemies/Generated/wick/poses/stand.png": {
+  "sha256": "3678fe49f2e56ff36a46a5f7fa8ab9ae21b18277e8d863451b2991c713f24807",
+  "size": 841977
+ },
+ "art/sickofit-enemies/Generated/wick/poses/walk.png": {
+  "sha256": "bee79aac79c9725d51ef8b6c1d30286069f92b6944c921fe72ef00e6f17286ef",
+  "size": 914859
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
