@@ -26287,6 +26287,14 @@
   "sha256": "91ce215926224f9f31dfd5a9ae62a9506447f74d6c40e6b4010069b18f54617b",
   "size": 1178156
  },
+ "art/sickofit-enemies/Generated/lostRollingPin/clips/idle.mp4": {
+  "sha256": "e4007ec3ea9d067e74d776791323cbbd5a9af8b94f1b10585ae4f6c567a2c19c",
+  "size": 661634
+ },
+ "art/sickofit-enemies/Generated/lostRollingPin/poses/stand.png": {
+  "sha256": "0946879d8f5fb84ee8d04d6ad91cc554512da11e261e4052d40814c3798f0b1f",
+  "size": 941678
+ },
  "art/sickofit-enemies/Generated/magmaGeode/clips/die.mp4": {
   "sha256": "4e676ac865a3d68c5188fdbebf4dde266dd5b610d0126d1c4db4bc1a9a9f34e0",
   "size": 241489
