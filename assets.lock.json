@@ -24875,6 +24875,22 @@
   "sha256": "deded07d66f093c7723534087fe9abb091de86d0f00fe1e258c771e546fc3754",
   "size": 321673
  },
+ "art/sickofit-enemies/Generated/baronSpillway/clips/attack.mp4": {
+  "sha256": "1ac45bcc0d7f1754cb5c6f93a3f4dc225cf812d1bd2959cf4ded0b485e799857",
+  "size": 390348
+ },
+ "art/sickofit-enemies/Generated/baronSpillway/clips/die.mp4": {
+  "sha256": "7583d2d99852bdf69079f1c55b8a99453bbbe5380d6b50b760965778a712241d",
+  "size": 390276
+ },
+ "art/sickofit-enemies/Generated/baronSpillway/clips/hurt.mp4": {
+  "sha256": "778c1ecb48eb963a559d885a8476ff88f0a628ad1861ed8f1acf75c26beb0943",
+  "size": 222516
+ },
+ "art/sickofit-enemies/Generated/baronSpillway/clips/idle.mp4": {
+  "sha256": "65501338d619d20b19eb04b1f77b34dd5e4a2d3432bc708f84dea7fcdc00b415",
+  "size": 394956
+ },
  "art/sickofit-enemies/Generated/baronSpillway/poses/dead.png": {
   "sha256": "bcc1344065c4c192749002f027eaaaff32a91a4e0a880d35407dad3bb4bad766",
   "size": 1169957
@@ -24882,6 +24898,10 @@
  "art/sickofit-enemies/Generated/baronSpillway/poses/stand.png": {
   "sha256": "a5dd028a89dde6bece90c4db7505f2eed2a981fdf92724d690ae7328023dba20",
   "size": 1070955
+ },
+ "art/sickofit-enemies/Generated/baronSpillway/poses/struck.png": {
+  "sha256": "c805057bd7d7ea73a34aa6a8dbc8c4f75045306dc1b89bd783b47f55c87001b9",
+  "size": 1113919
  },
  "art/sickofit-enemies/Generated/beamLens/clips/idle.mp4": {
   "sha256": "44b3d7f232f7c9289777f8321cecfa72eab89fb6dbd449e463e6b7602a9e204c",
