@@ -26011,6 +26011,14 @@
   "sha256": "bb055a8903430ecf7124253fc0d51e1fadd45c2a528f168984369159e364bd1a",
   "size": 406679
  },
+ "art/sickofit-enemies/Generated/impSpitfireBearer/clips/hurt.mp4": {
+  "sha256": "5b6ef1941c279dc027d0db6258342d49a67f2407897faf563991348d62185575",
+  "size": 307698
+ },
+ "art/sickofit-enemies/Generated/impSpitfireBearer/clips/idle.mp4": {
+  "sha256": "94f280e2d708465ba2d2b63fdec4be6187030fae2d5d252e7faa6e84dda9936e",
+  "size": 634831
+ },
  "art/sickofit-enemies/Generated/impSpitfireBearer/poses/dead.png": {
   "sha256": "5bf45026124c82ec5f1a336c1c270f46243d6a0388b8b636205537426d80276a",
   "size": 1168515
