@@ -26031,6 +26031,38 @@
   "sha256": "6c4905471805c6bfed1537060272a3d603d4c8afd85c3cc334c7be35a0e70581",
   "size": 1179026
  },
+ "art/sickofit-enemies/Generated/ironhideBulwark/clips/attack.mp4": {
+  "sha256": "2765117864f4011625979a74638926410eed7800b3364b9f3a8907078b9321e2",
+  "size": 295297
+ },
+ "art/sickofit-enemies/Generated/ironhideBulwark/clips/die.mp4": {
+  "sha256": "3bb25f9dad6796d6025f1bae2eda99f4b4cb96fe6b9dcf573008c5d0de473b7b",
+  "size": 419642
+ },
+ "art/sickofit-enemies/Generated/ironhideBulwark/clips/hurt.mp4": {
+  "sha256": "4d525a087a0f0af65fa487920a730dc53e3377bc3bb09ed6f160a0e29d88f3d3",
+  "size": 346290
+ },
+ "art/sickofit-enemies/Generated/ironhideBulwark/clips/idle.mp4": {
+  "sha256": "94ea85ccdac146614ee20adb80f364e8b9bfb9a4ccb5b64c19b84b06f285e4b1",
+  "size": 280673
+ },
+ "art/sickofit-enemies/Generated/ironhideBulwark/clips/move.mp4": {
+  "sha256": "edfb47165da7f3a1758bb3caef6751edceaf8ea53d33af862b05555e2a13eb14",
+  "size": 176349
+ },
+ "art/sickofit-enemies/Generated/ironhideBulwark/poses/dead.png": {
+  "sha256": "bd1e176ddbe72e3d1216ea62958436dae42335c5808930710349c57671dc876d",
+  "size": 1172864
+ },
+ "art/sickofit-enemies/Generated/ironhideBulwark/poses/stand.png": {
+  "sha256": "ad1d1853fd4c0b38a60721f241d4ab3fda0e7d3e58d28815e06407f5f5d44711",
+  "size": 1068797
+ },
+ "art/sickofit-enemies/Generated/ironhideBulwark/poses/struck.png": {
+  "sha256": "8e247168fc0225abf934fc344fa219f0b29540645a411d0e29587b9be053ee3f",
+  "size": 1211788
+ },
  "art/sickofit-enemies/Generated/kilnMatron/poses/dead.png": {
   "sha256": "d8613f83454d2172ef7b307fbd54b1c737c9877947c3a7fe217069dc6e72f9f2",
   "size": 1103989
