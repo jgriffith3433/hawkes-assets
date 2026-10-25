@@ -26407,6 +26407,30 @@
   "sha256": "788a165146e9bf3d637e8016ff3f92d9fd97a5f99f9b3dc0524e01124b7d49d0",
   "size": 928321
  },
+ "art/sickofit-enemies/Generated/phaseRaider/clips/attack.mp4": {
+  "sha256": "df13f3b0caff9ed2c01335224fcd17840001e87978296673f236989266a09ee5",
+  "size": 468739
+ },
+ "art/sickofit-enemies/Generated/phaseRaider/clips/die.mp4": {
+  "sha256": "db0f4da2e17c90a9a9203f6f7b92f437c1db95bb117a5ff0959dea62f1ab374c",
+  "size": 371250
+ },
+ "art/sickofit-enemies/Generated/phaseRaider/clips/hurt.mp4": {
+  "sha256": "b8a5daebb05c3bc92bb32c62ce0bb04f7bd6af8dcbb307ba84fc1874b808a50e",
+  "size": 321360
+ },
+ "art/sickofit-enemies/Generated/phaseRaider/poses/dead.png": {
+  "sha256": "70a68a4ff76642ad304b6b7fe67cbb4bf341dd6a18b04af66a89f098402c0e76",
+  "size": 1091988
+ },
+ "art/sickofit-enemies/Generated/phaseRaider/poses/stand.png": {
+  "sha256": "61f08e3e12c3655f6a92503a034aaefef3d08d7de1afd2bd0c3ff9c564eb8dde",
+  "size": 1023552
+ },
+ "art/sickofit-enemies/Generated/phaseRaider/poses/struck.png": {
+  "sha256": "2502dbc757846dbe86d5c1786f4f9f4e6fa3281ded11aeb38a48ac3065fb9fea",
+  "size": 1114095
+ },
  "art/sickofit-enemies/Generated/pileKeeper/clips/attack.mp4": {
   "sha256": "f2a7ae4bb245ca37bf259db0236238c96e9e4c5885ef87a960be81a8db548645",
   "size": 423998
