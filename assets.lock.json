@@ -25323,6 +25323,22 @@
   "sha256": "13322f4a1815214bb6d738210bb89d5b7315aa01960f0115c60984c4d8adf8d4",
   "size": 1015258
  },
+ "art/sickofit-enemies/Generated/cinderThatch/clips/die.mp4": {
+  "sha256": "f01fa7f09ff571c15a7ab2743ef3e99af7e4f734e5a5916b99fb679a44e58a4f",
+  "size": 377307
+ },
+ "art/sickofit-enemies/Generated/cinderThatch/clips/hurt.mp4": {
+  "sha256": "b832c9d15373935163b21f77fc1555696d067ed7e0a8b790f36751a5474e7f2f",
+  "size": 321550
+ },
+ "art/sickofit-enemies/Generated/cinderThatch/clips/idle.mp4": {
+  "sha256": "097ef880ce77ee61f070f61530089a280a9665d278769f23cc31bbbc370f402a",
+  "size": 505633
+ },
+ "art/sickofit-enemies/Generated/cinderThatch/clips/move.mp4": {
+  "sha256": "69512658f889b77f42eb394dcd401f22007a7b72657819e8a6dd6f74aa167053",
+  "size": 287545
+ },
  "art/sickofit-enemies/Generated/cinderThatch/poses/dead.png": {
   "sha256": "353e3d06cf9fb3c3fe0f61e6a1f0f5ed6f9e71b259c4cc75ee4480780325d723",
   "size": 1135185
@@ -25330,6 +25346,10 @@
  "art/sickofit-enemies/Generated/cinderThatch/poses/stand.png": {
   "sha256": "12e19c3c2333aadbe4711c92365802df75498b6996c2760326de6a219ebf933b",
   "size": 1108272
+ },
+ "art/sickofit-enemies/Generated/cinderThatch/poses/struck.png": {
+  "sha256": "97568a6afb6837da1caf6b394163784b88d5c7d57d63aee2240dbfd3932c598d",
+  "size": 1152597
  },
  "art/sickofit-enemies/Generated/coronaImp/poses/dead.png": {
   "sha256": "8ca6577bd6c2ef5ecdba4c81a3cd47b5c0175ac3b52d7954e96b5d0e322b86fd",
