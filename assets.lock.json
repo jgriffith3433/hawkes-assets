@@ -26075,9 +26075,33 @@
   "sha256": "a3bab7be7924a9adde82a601876ec2f387f94f66d8e59cecaa994a82fe8633bc",
   "size": 1173527
  },
+ "art/sickofit-enemies/Generated/lanternfly/clips/die.mp4": {
+  "sha256": "8f723e851cec5aa4574c113ff5ee904e81604e3d694fd21988f6cc09b3bb565c",
+  "size": 402142
+ },
+ "art/sickofit-enemies/Generated/lanternfly/clips/hurt.mp4": {
+  "sha256": "0220c9d36d095625ace0bc65e6ce183a3eaa75fc5edea71dde83488de26d8c24",
+  "size": 237780
+ },
+ "art/sickofit-enemies/Generated/lanternfly/clips/idle.mp4": {
+  "sha256": "b5cbae4b25e6a6352e5fa3d3db8d559240c5e9a7fda64e1ec8838444550c3750",
+  "size": 436692
+ },
+ "art/sickofit-enemies/Generated/lanternfly/clips/move.mp4": {
+  "sha256": "7c1e875b649e6b6f9b9fdd53f5760f0c8f8e729ab0fbb02b8ccb517fc1da8639",
+  "size": 303206
+ },
  "art/sickofit-enemies/Generated/lanternfly/poses/dead.png": {
   "sha256": "b6f6c02ecd6985a425e852b253e5dacce787d55af2a933b6cf603ba9dcb4641c",
   "size": 1062842
+ },
+ "art/sickofit-enemies/Generated/lanternfly/poses/stand.png": {
+  "sha256": "8b6d986d90c475446ff509dd88e0f8c3f78353b6e6665af9ddf3cbc8caafd3c4",
+  "size": 996530
+ },
+ "art/sickofit-enemies/Generated/lanternfly/poses/struck.png": {
+  "sha256": "82994135e66848ef6cf6547e71f9933efb405b76db5a69c6216c183c6d12b29d",
+  "size": 1145665
  },
  "art/sickofit-enemies/Generated/launcherThief/clips/die.mp4": {
   "sha256": "2d9429fc14742008ed008f82faafdae9a9f2b9b8ab72d4ba39e7a070b0c2a66c",
