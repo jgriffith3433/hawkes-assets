@@ -26031,6 +26031,18 @@
   "sha256": "6c4905471805c6bfed1537060272a3d603d4c8afd85c3cc334c7be35a0e70581",
   "size": 1179026
  },
+ "art/sickofit-enemies/Generated/kilnMatron/poses/dead.png": {
+  "sha256": "d8613f83454d2172ef7b307fbd54b1c737c9877947c3a7fe217069dc6e72f9f2",
+  "size": 1103989
+ },
+ "art/sickofit-enemies/Generated/kilnMatron/poses/stand.png": {
+  "sha256": "e025f6b3c6adebab7479ff777d5ab761062b911d987ec1ad2a8aad3eab811255",
+  "size": 1052823
+ },
+ "art/sickofit-enemies/Generated/kilnMatron/poses/struck.png": {
+  "sha256": "a3bab7be7924a9adde82a601876ec2f387f94f66d8e59cecaa994a82fe8633bc",
+  "size": 1173527
+ },
  "art/sickofit-enemies/Generated/lanternfly/poses/dead.png": {
   "sha256": "b6f6c02ecd6985a425e852b253e5dacce787d55af2a933b6cf603ba9dcb4641c",
   "size": 1062842
