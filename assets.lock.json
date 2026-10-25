@@ -26735,6 +26735,14 @@
   "sha256": "be69f56be594cf9fa3a2400bad5a7b78c7b7f795c6d03f91c9ad548dcc8ab02d",
   "size": 983999
  },
+ "art/sickofit-enemies/Generated/seamImp/poses/dead.png": {
+  "sha256": "935d1b84f2a2a72bd8b859b5e6ae6d875b5bda83a433a1146997e510d40450c4",
+  "size": 1156102
+ },
+ "art/sickofit-enemies/Generated/seamImp/poses/stand.png": {
+  "sha256": "9ab174ac939aa02c1f53e15175f423d76bef9b2289946bb5620fde377508ec93",
+  "size": 1083003
+ },
  "art/sickofit-enemies/Generated/shardwright/poses/dead.png": {
   "sha256": "1504f09a043ac6645353ee3be3ae5f1f2666cb5585f09d19cac6c2979fefbfe3",
   "size": 1006042
