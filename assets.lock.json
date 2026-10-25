@@ -25839,6 +25839,14 @@
   "sha256": "8c03e10b789b95f30d4e84e09158d607932e2794cbf07c1a3770d0ace5513866",
   "size": 1147922
  },
+ "art/sickofit-enemies/Generated/impSleeper/poses/dead.png": {
+  "sha256": "dd295573343de5cf2b3746c197a5e84babf176b89ab45856ced2f13903b0f011",
+  "size": 1118987
+ },
+ "art/sickofit-enemies/Generated/impSleeper/poses/stand.png": {
+  "sha256": "a895d02c25e23c4635e708437d3e7c29a82794a772d46d6f98627d16a7a5baf6",
+  "size": 1044244
+ },
  "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
   "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
   "size": 385447
