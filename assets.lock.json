@@ -25207,6 +25207,10 @@
   "sha256": "d5e3e102f1788fe279c952fe8edcf406ca9e5f55dacdb16ee0ae3f16275f281d",
   "size": 1271970
  },
+ "art/sickofit-enemies/Generated/slagHound/poses/dead.png": {
+  "sha256": "d83de27faab44835920709b46138171c55554a430801f7a20229538afa5e90f8",
+  "size": 1137469
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
