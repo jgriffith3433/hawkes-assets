@@ -24919,6 +24919,22 @@
   "sha256": "f061b73a59896c7ab56beba30433f1af20be1b181023598c9858a9d011244906",
   "size": 1153919
  },
+ "art/sickofit-enemies/Generated/bounceLobber/clips/attack.mp4": {
+  "sha256": "633a80801a9dda929a22c3fbce82678d559308e7fe96ffc49eca1505ab37d8d1",
+  "size": 492683
+ },
+ "art/sickofit-enemies/Generated/bounceLobber/clips/die.mp4": {
+  "sha256": "c58120ade655eaa1546c6fa588dab9611250653220c61554e4c1bef69a03da1f",
+  "size": 455800
+ },
+ "art/sickofit-enemies/Generated/bounceLobber/clips/hurt.mp4": {
+  "sha256": "6db8fdfc20b6fabcaf9af4bfe5c2ed1164113929a5f8032c0a81941c753782e7",
+  "size": 359031
+ },
+ "art/sickofit-enemies/Generated/bounceLobber/clips/idle.mp4": {
+  "sha256": "41db0bcccba5a210bba94d6148a512b68d6a63084da709e91b682cefdcfedfc8",
+  "size": 429682
+ },
  "art/sickofit-enemies/Generated/bounceLobber/poses/dead.png": {
   "sha256": "da8cfc71be5be1d3878739b8b5da63db2d1326de9ad91c4696eb781c09361925",
   "size": 1167482
@@ -24926,6 +24942,10 @@
  "art/sickofit-enemies/Generated/bounceLobber/poses/stand.png": {
   "sha256": "a5f24598c5faf50247e1c87795676e7182c237a0b27fe48d531787ba2cc9b60f",
   "size": 1081954
+ },
+ "art/sickofit-enemies/Generated/bounceLobber/poses/struck.png": {
+  "sha256": "d3a593b92f0378d8a55b31a907d6b6183a388abd4fdee34ba1ec76dfc40c7649",
+  "size": 1201074
  },
  "art/sickofit-enemies/Generated/brimstoneDemon/clips/attack.mp4": {
   "sha256": "0130de404467796c33476ce31cc8862217160710d799d633cda23e7f909777a8",
