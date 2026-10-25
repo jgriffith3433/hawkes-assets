@@ -26007,6 +26007,10 @@
   "sha256": "886081d95751ca23c2e9e7550568234f6d48fa26a8b0e4c1d7a4f2744ba111e9",
   "size": 453104
  },
+ "art/sickofit-enemies/Generated/impSpitfireBearer/clips/die.mp4": {
+  "sha256": "bb055a8903430ecf7124253fc0d51e1fadd45c2a528f168984369159e364bd1a",
+  "size": 406679
+ },
  "art/sickofit-enemies/Generated/impSpitfireBearer/poses/dead.png": {
   "sha256": "5bf45026124c82ec5f1a336c1c270f46243d6a0388b8b636205537426d80276a",
   "size": 1168515
