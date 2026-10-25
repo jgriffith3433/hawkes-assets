@@ -26455,6 +26455,10 @@
   "sha256": "b8a5daebb05c3bc92bb32c62ce0bb04f7bd6af8dcbb307ba84fc1874b808a50e",
   "size": 321360
  },
+ "art/sickofit-enemies/Generated/phaseRaider/clips/idle.mp4": {
+  "sha256": "97820d2c914ebde350b3a2c3c0b0f645f8d916f8d57f675760b0a4d9d0922e55",
+  "size": 585171
+ },
  "art/sickofit-enemies/Generated/phaseRaider/poses/dead.png": {
   "sha256": "70a68a4ff76642ad304b6b7fe67cbb4bf341dd6a18b04af66a89f098402c0e76",
   "size": 1091988
