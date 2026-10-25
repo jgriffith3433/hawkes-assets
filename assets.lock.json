@@ -26031,6 +26031,10 @@
   "sha256": "6c4905471805c6bfed1537060272a3d603d4c8afd85c3cc334c7be35a0e70581",
   "size": 1179026
  },
+ "art/sickofit-enemies/Generated/lanternfly/poses/dead.png": {
+  "sha256": "b6f6c02ecd6985a425e852b253e5dacce787d55af2a933b6cf603ba9dcb4641c",
+  "size": 1062842
+ },
  "art/sickofit-enemies/Generated/launcherThief/clips/die.mp4": {
   "sha256": "2d9429fc14742008ed008f82faafdae9a9f2b9b8ab72d4ba39e7a070b0c2a66c",
   "size": 453798
