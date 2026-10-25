@@ -24883,6 +24883,14 @@
   "sha256": "5d8a0f23cc93d0a0b4ceb283d33109bd0c145f218d6df0f49086a15defadb136",
   "size": 1005046
  },
+ "art/sickofit-enemies/Generated/bounceLobber/poses/dead.png": {
+  "sha256": "da8cfc71be5be1d3878739b8b5da63db2d1326de9ad91c4696eb781c09361925",
+  "size": 1167482
+ },
+ "art/sickofit-enemies/Generated/bounceLobber/poses/stand.png": {
+  "sha256": "a5f24598c5faf50247e1c87795676e7182c237a0b27fe48d531787ba2cc9b60f",
+  "size": 1081954
+ },
  "art/sickofit-enemies/Generated/brimstoneDemon/poses/breath.png": {
   "sha256": "d84ec5cf9f0ffa91f3d009bfd4f5a89a19ec6f6e46bbdadb7a9b160ebf4f51ce",
   "size": 1146521
