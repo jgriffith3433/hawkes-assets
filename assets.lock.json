@@ -26063,6 +26063,22 @@
   "sha256": "8e247168fc0225abf934fc344fa219f0b29540645a411d0e29587b9be053ee3f",
   "size": 1211788
  },
+ "art/sickofit-enemies/Generated/kilnMatron/clips/attack.mp4": {
+  "sha256": "58aff2484ef614cde95c180a2e962689dbc8516080799f67bc09b7fa5afb828d",
+  "size": 300435
+ },
+ "art/sickofit-enemies/Generated/kilnMatron/clips/die.mp4": {
+  "sha256": "77064685bfb98f35bd63ae8bd6b8d01099246eb359bf77975a96b4ddd8423c75",
+  "size": 359227
+ },
+ "art/sickofit-enemies/Generated/kilnMatron/clips/hurt.mp4": {
+  "sha256": "aac94ac9d1584b2686b5e550f5483506f1c924d9930d327b9b150beab60654a2",
+  "size": 241017
+ },
+ "art/sickofit-enemies/Generated/kilnMatron/clips/idle.mp4": {
+  "sha256": "381206f5c474664b5c3a7d4022c1bf4eb84b7bc5c7782b21f1e706ac071a7df4",
+  "size": 381585
+ },
  "art/sickofit-enemies/Generated/kilnMatron/poses/dead.png": {
   "sha256": "d8613f83454d2172ef7b307fbd54b1c737c9877947c3a7fe217069dc6e72f9f2",
   "size": 1103989
