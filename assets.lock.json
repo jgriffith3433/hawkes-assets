@@ -27295,6 +27295,10 @@
   "sha256": "3703a2c1ea78b647b81b9095cc611953503abc1abaa90928ac67dd7a47b788e0",
   "size": 976303
  },
+ "art/sickofit-enemies/Generated/whirlImp/poses/dead.png": {
+  "sha256": "e5d654a83c0bcb5cd6065f14322fb42d6f26c2e0816d389562e63cc70a2cfe4e",
+  "size": 1084445
+ },
  "art/sickofit-enemies/Generated/wick/clips/hiccup.mp4": {
   "sha256": "53db042d9c5fb69903e4c14da43168e402a046f4ae2ad662d95c2242f5ef5c5d",
   "size": 258870
