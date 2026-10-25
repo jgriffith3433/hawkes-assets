@@ -26799,6 +26799,14 @@
   "sha256": "782006c7d71a56e11f76974366a503e2f749901bb56443f0cd9fc7b7a29aac33",
   "size": 906810
  },
+ "art/sickofit-enemies/Generated/sleepwalker/poses/dead.png": {
+  "sha256": "96a7fe226b2e317b3bbaec6be10d071dbca3d294437c8f79b54294ea2af6e4a9",
+  "size": 1020985
+ },
+ "art/sickofit-enemies/Generated/sleepwalker/poses/stand.png": {
+  "sha256": "4304966b542cf8713446282d46bee35b31c24659c21526a59e482be50e4f5ac1",
+  "size": 889722
+ },
  "art/sickofit-enemies/Generated/spitfirePickup/clips/idle.mp4": {
   "sha256": "2b249f862f164c5ce6d7099a1f92dc95ef9f806e3598358cab11d847bdb93427",
   "size": 333438
