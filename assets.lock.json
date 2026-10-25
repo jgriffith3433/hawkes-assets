@@ -26887,6 +26887,38 @@
   "sha256": "782006c7d71a56e11f76974366a503e2f749901bb56443f0cd9fc7b7a29aac33",
   "size": 906810
  },
+ "art/sickofit-enemies/Generated/slagTortoise/clips/attack.mp4": {
+  "sha256": "ff8ec280ff6a02eebf3099b0118e0ec8e9995b32211884368f445ac1fe7627e5",
+  "size": 249351
+ },
+ "art/sickofit-enemies/Generated/slagTortoise/clips/die.mp4": {
+  "sha256": "42eebe282301c4cf51793ce79eb80319efd8e0d66208d029d8f3915fd5f20331",
+  "size": 551378
+ },
+ "art/sickofit-enemies/Generated/slagTortoise/clips/hurt.mp4": {
+  "sha256": "16d76344d6380ea33d835ffee92cbfbf5b7321344f3a372e023f1b631def7b0f",
+  "size": 351025
+ },
+ "art/sickofit-enemies/Generated/slagTortoise/clips/idle.mp4": {
+  "sha256": "5ffb96c3312abad34368277fbba28763b7fc69429691be0ed247c5bd36e5eef3",
+  "size": 415189
+ },
+ "art/sickofit-enemies/Generated/slagTortoise/clips/move.mp4": {
+  "sha256": "1c72a6e7eae57426623962051ce367f0d65d886cfa694eafb04bfb7930ba32d9",
+  "size": 278712
+ },
+ "art/sickofit-enemies/Generated/slagTortoise/poses/dead.png": {
+  "sha256": "673167848c2fe036a54650ed849a2fb321937b017fd5d960c0814a0cff9429cd",
+  "size": 1104885
+ },
+ "art/sickofit-enemies/Generated/slagTortoise/poses/stand.png": {
+  "sha256": "434d9f48fa417a4ec0f1cc98f559c5efbba7a0abb6b71f8f122f8111bcd0807f",
+  "size": 1061616
+ },
+ "art/sickofit-enemies/Generated/slagTortoise/poses/struck.png": {
+  "sha256": "8403d96d0525b761245d34544274b1b8ff22ff34c996c9d2a36e6c8f22c90a3f",
+  "size": 1147416
+ },
  "art/sickofit-enemies/Generated/sleepwalker/clips/die.mp4": {
   "sha256": "25777356c55757c306a1d1ba35cac206803177a0fd56ebf6a18642fd9337af26",
   "size": 389638
