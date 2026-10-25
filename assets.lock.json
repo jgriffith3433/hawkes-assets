@@ -26319,6 +26319,34 @@
   "sha256": "d5e3e102f1788fe279c952fe8edcf406ca9e5f55dacdb16ee0ae3f16275f281d",
   "size": 1271970
  },
+ "art/sickofit-enemies/Generated/motherFissure/clips/attack.mp4": {
+  "sha256": "60514adafd5437457c9e7bdd3bd792fd78e37ce696ef1432ce0720788c13bb63",
+  "size": 284506
+ },
+ "art/sickofit-enemies/Generated/motherFissure/clips/die.mp4": {
+  "sha256": "3f9b8a2348d3ce55c75b564d448d3abf5c392c03df7d9e63a9a06155c4f7301c",
+  "size": 373195
+ },
+ "art/sickofit-enemies/Generated/motherFissure/clips/hurt.mp4": {
+  "sha256": "928faa10001af3fa3b3995a4fccc5ff54cd777a66bdd0211375d7c89a935e343",
+  "size": 274268
+ },
+ "art/sickofit-enemies/Generated/motherFissure/clips/idle.mp4": {
+  "sha256": "b76a41c97eaffb81e23e6fea9de20f5fb93639745e00a11ee42c4f653ee04f6d",
+  "size": 351945
+ },
+ "art/sickofit-enemies/Generated/motherFissure/poses/dead.png": {
+  "sha256": "457a47fc6d7f4923fd95f829f00afc1cef3610d5cdf395be5fd7d4baaa3b8886",
+  "size": 1185629
+ },
+ "art/sickofit-enemies/Generated/motherFissure/poses/stand.png": {
+  "sha256": "eaae91c5a9cf9a1cdf1fe2ea3a961f467dfd7cb4982e649314248bc909f3f5a6",
+  "size": 1064206
+ },
+ "art/sickofit-enemies/Generated/motherFissure/poses/struck.png": {
+  "sha256": "87911a9a4278dc7b9f8ca741945e53860ac5b92c91c1d468909ddef431cac9d7",
+  "size": 1136270
+ },
  "art/sickofit-enemies/Generated/overlordFar/clips/idle.mp4": {
   "sha256": "9fd8661b96f34c947b8f06a906a006270cac079e99f122e7142465c4f2025d8a",
   "size": 355348
