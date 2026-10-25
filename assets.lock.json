@@ -24891,6 +24891,10 @@
   "sha256": "b05e37b76b7b1ca47aefce00c84132ccff6992d051ef7ed79ec01de53d47f3aa",
   "size": 1204592
  },
+ "art/sickofit-enemies/Generated/brimstoneDemon/poses/stand.png": {
+  "sha256": "f9d34855b9c0978b545ededbccb77af719ef3a07106c1a4b6f21ff59ae6cf162",
+  "size": 1092929
+ },
  "art/sickofit-enemies/Generated/damnedSoul/clips/hiccup.mp4": {
   "sha256": "c878b69aabadc17e72bfc0aaa3b4be8b1f0210890e1fff40be4cacead80effc9",
   "size": 115933
