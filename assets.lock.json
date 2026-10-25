@@ -25491,6 +25491,14 @@
   "sha256": "86aa59fe697b54da43958791ce8b9440edee157990a199bc39b53c598f3e8c3d",
   "size": 1166386
  },
+ "art/sickofit-enemies/Generated/emberMine/clips/idle.mp4": {
+  "sha256": "3254cf94df222767604c90d4c84cd7759cb09b3f76875d13892a5b5723a72082",
+  "size": 419097
+ },
+ "art/sickofit-enemies/Generated/emberMine/poses/stand.png": {
+  "sha256": "f1512d9fe5f2b8e98f8b0ca51a32018d5a4b80effad4b082202217efac42d206",
+  "size": 1089527
+ },
  "art/sickofit-enemies/Generated/furnacePlate/clips/attack.mp4": {
   "sha256": "308550a2d51c95d57d32549ee97580700dda531bfb96e4420eb639e54d678b4f",
   "size": 435654
