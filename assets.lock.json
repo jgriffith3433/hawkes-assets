@@ -26003,6 +26003,10 @@
   "sha256": "2aaa12116d591402d0ad291e6f6da57950b3b1cbf266dee105a77bd0561cd553",
   "size": 1117478
  },
+ "art/sickofit-enemies/Generated/launcherThief/poses/dead.png": {
+  "sha256": "fb334f0322dde763aeb634be192ffc99217128165617bac79845bc63042c28ce",
+  "size": 1153331
+ },
  "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
   "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
   "size": 385447
