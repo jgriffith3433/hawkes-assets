@@ -26423,6 +26423,10 @@
   "sha256": "979fd45c6d77b67c110b0d671c25984b8d931a457d7edb7d9943f8676ca50aab",
   "size": 929981
  },
+ "art/sickofit-enemies/Generated/pyreCaller/poses/dead.png": {
+  "sha256": "88f7c7c7b6ea818511d2bcd131d84c18fbf02e43e595fa5fe5d99eeadff128fe",
+  "size": 1186022
+ },
  "art/sickofit-enemies/Generated/ricochetPistolPickup/clips/idle.mp4": {
   "sha256": "9f58b0d3f9f0cbc4fade4742750161fc41f718097a6694543a0faff81766eb07",
   "size": 590038
