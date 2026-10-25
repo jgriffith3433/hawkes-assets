@@ -26295,6 +26295,14 @@
   "sha256": "91ce215926224f9f31dfd5a9ae62a9506447f74d6c40e6b4010069b18f54617b",
   "size": 1178156
  },
+ "art/sickofit-enemies/Generated/lostBell/clips/idle.mp4": {
+  "sha256": "d93fbf798168e8790ff0effdbf8dd859d15a43d4921dbb0cfd5d9b8d7509ffb8",
+  "size": 518359
+ },
+ "art/sickofit-enemies/Generated/lostBell/poses/stand.png": {
+  "sha256": "c96fe2be611007e80357e52542ac83caddbd11efb361fe3639c98b25ba9a24ea",
+  "size": 969103
+ },
  "art/sickofit-enemies/Generated/lostRollingPin/clips/idle.mp4": {
   "sha256": "e4007ec3ea9d067e74d776791323cbbd5a9af8b94f1b10585ae4f6c567a2c19c",
   "size": 661634
