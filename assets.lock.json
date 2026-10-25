@@ -26211,6 +26211,14 @@
   "sha256": "107157e4428a4b5fd9cc1854b103217d348c1fa139c632320689e0183038f42c",
   "size": 1155327
  },
+ "art/sickofit-enemies/Generated/launcherToss/clips/idle.mp4": {
+  "sha256": "d86da11beff3993afe6de56e64ce4f55c7ec814d52759f1ac3f2313a0ee9a89b",
+  "size": 540341
+ },
+ "art/sickofit-enemies/Generated/launcherToss/poses/stand.png": {
+  "sha256": "d5721090a76c33655166b53d17f3becdaae95d23c6708a06b49b0aac98ab4b82",
+  "size": 879241
+ },
  "art/sickofit-enemies/Generated/leadImp/clips/attack.mp4": {
   "sha256": "fd6a385421f6362c09c59644c8d5d1092d512153c0375677ea4d9b70a35bc747",
   "size": 264414
