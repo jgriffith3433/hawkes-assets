@@ -26075,6 +26075,34 @@
   "sha256": "107157e4428a4b5fd9cc1854b103217d348c1fa139c632320689e0183038f42c",
   "size": 1155327
  },
+ "art/sickofit-enemies/Generated/leadImp/clips/attack.mp4": {
+  "sha256": "fd6a385421f6362c09c59644c8d5d1092d512153c0375677ea4d9b70a35bc747",
+  "size": 264414
+ },
+ "art/sickofit-enemies/Generated/leadImp/clips/die.mp4": {
+  "sha256": "4327356b4de60e259a0857c4c4b6dc18049660ebe68e040e5540c3ec7f3ada55",
+  "size": 398548
+ },
+ "art/sickofit-enemies/Generated/leadImp/clips/hurt.mp4": {
+  "sha256": "37fc3a6842de373eb4f19c2439c010d0752766502c167cc66eac4c767815f922",
+  "size": 286898
+ },
+ "art/sickofit-enemies/Generated/leadImp/clips/idle.mp4": {
+  "sha256": "d54c94129311cbd2380cd44b894f8b3310ca78ec11dded31fcd53a0bde32a005",
+  "size": 411826
+ },
+ "art/sickofit-enemies/Generated/leadImp/poses/dead.png": {
+  "sha256": "08c7233ce09c2244f450ee909cf78ed09d101531986d0f42accd9da4b21f1a86",
+  "size": 1110443
+ },
+ "art/sickofit-enemies/Generated/leadImp/poses/stand.png": {
+  "sha256": "5ad433620cf708a483ef48d785003270c21a2876a0205daf16105a9946c1dc3e",
+  "size": 1041268
+ },
+ "art/sickofit-enemies/Generated/leadImp/poses/struck.png": {
+  "sha256": "45d7a50e596e93fceb1cb6cb89442d473bfa2ea61cfb36c32c62abb64baa9941",
+  "size": 1115307
+ },
  "art/sickofit-enemies/Generated/loopWraith/clips/attack.mp4": {
   "sha256": "a2a149a133421208821d104135d5970516c8c34790de18d8c04398db7d24f34e",
   "size": 357617
