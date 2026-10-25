@@ -27103,6 +27103,34 @@
   "sha256": "83a842609ee756e138447d308e3a376b98746707c7c287016a0643412541a2df",
   "size": 1219340
  },
+ "art/sickofit-enemies/Generated/twinBoltDeadeye/clips/attack.mp4": {
+  "sha256": "a7d030ca181abd46f5a4be5c2d28cb76091152247c4283733eb1cfdf121bf3c3",
+  "size": 516591
+ },
+ "art/sickofit-enemies/Generated/twinBoltDeadeye/clips/die.mp4": {
+  "sha256": "9e3594a9c1745eff0041a6f16454c030034d2e4ad2c80125e1d5d962adbe52da",
+  "size": 347294
+ },
+ "art/sickofit-enemies/Generated/twinBoltDeadeye/clips/hurt.mp4": {
+  "sha256": "fc2b2bfde16ca595be9b387561c9b5e3a323787319b1c70654a4d5759c09d7db",
+  "size": 323028
+ },
+ "art/sickofit-enemies/Generated/twinBoltDeadeye/clips/idle.mp4": {
+  "sha256": "0c36b201a8deb10a7f5767a732bf51d732f0b946c61c9521cec562da12570ba1",
+  "size": 604099
+ },
+ "art/sickofit-enemies/Generated/twinBoltDeadeye/poses/dead.png": {
+  "sha256": "170f7fb6e82aa6d3be3f654fe6b53c9a28987749ac58e139ff780d25941097bd",
+  "size": 1148743
+ },
+ "art/sickofit-enemies/Generated/twinBoltDeadeye/poses/stand.png": {
+  "sha256": "f73548d503787197eb22c7d025e5f648efc9081a653e54968821444ca63f652f",
+  "size": 1080654
+ },
+ "art/sickofit-enemies/Generated/twinBoltDeadeye/poses/struck.png": {
+  "sha256": "438c5c73284c1b57d4d0e21ea46b0ce47df485a2f42d9449c760a0c34952c2f4",
+  "size": 1148897
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
