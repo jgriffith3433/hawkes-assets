@@ -25039,6 +25039,14 @@
   "sha256": "d3a593b92f0378d8a55b31a907d6b6183a388abd4fdee34ba1ec76dfc40c7649",
   "size": 1201074
  },
+ "art/sickofit-enemies/Generated/bounceLump/clips/idle.mp4": {
+  "sha256": "3545d6b3e7edbec2f6213106ba8b85b9a1e56c3fb773bbb64784af61edf2c49c",
+  "size": 863445
+ },
+ "art/sickofit-enemies/Generated/bounceLump/poses/stand.png": {
+  "sha256": "16423b0d40ffab3cecd135c23844c50ef84ff347388fcdc2e196b772a90fd886",
+  "size": 1009568
+ },
  "art/sickofit-enemies/Generated/brimstoneDemon/clips/attack.mp4": {
   "sha256": "0130de404467796c33476ce31cc8862217160710d799d633cda23e7f909777a8",
   "size": 491387
