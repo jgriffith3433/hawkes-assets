@@ -26319,9 +26319,33 @@
   "sha256": "d5e3e102f1788fe279c952fe8edcf406ca9e5f55dacdb16ee0ae3f16275f281d",
   "size": 1271970
  },
+ "art/sickofit-enemies/Generated/mineBeetle/clips/attack.mp4": {
+  "sha256": "2810fe749239ba8b1aeda609080d31ad215f36a2d2d7bd8aa4d370340b354876",
+  "size": 633840
+ },
+ "art/sickofit-enemies/Generated/mineBeetle/clips/die.mp4": {
+  "sha256": "f8536099cfce495ff2818f70efdab4fa799023ce0e91c7edeba7e9ac3adc33c2",
+  "size": 651626
+ },
+ "art/sickofit-enemies/Generated/mineBeetle/clips/hurt.mp4": {
+  "sha256": "5f88f6954490e9f6977912f157f4e496204c8d3d44399452e6b2bfbc14deb6cf",
+  "size": 489256
+ },
+ "art/sickofit-enemies/Generated/mineBeetle/clips/idle.mp4": {
+  "sha256": "94224488fef4ac9805dda08ed2cd1516ea7d66351cf2398c72c2b0bb6c9f20b4",
+  "size": 712216
+ },
  "art/sickofit-enemies/Generated/mineBeetle/poses/dead.png": {
   "sha256": "381dac036e85ab4f518a8e59d65bde0aa38e451fd911729d4ea6a5ef573f31ab",
   "size": 1099488
+ },
+ "art/sickofit-enemies/Generated/mineBeetle/poses/stand.png": {
+  "sha256": "d8acab46644d8f6e2b2fcac31aec4f14e3e92d346fb9d1452a9dd758f1e4176e",
+  "size": 1039812
+ },
+ "art/sickofit-enemies/Generated/mineBeetle/poses/struck.png": {
+  "sha256": "2bb2b7543a987c457e4dc93f2f0b8a00288286e6e7b5af6a5bb7e4954ec67993",
+  "size": 1152709
  },
  "art/sickofit-enemies/Generated/motherFissure/clips/attack.mp4": {
   "sha256": "60514adafd5437457c9e7bdd3bd792fd78e37ce696ef1432ce0720788c13bb63",
