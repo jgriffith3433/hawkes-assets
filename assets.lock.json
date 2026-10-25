@@ -25351,6 +25351,22 @@
   "sha256": "97568a6afb6837da1caf6b394163784b88d5c7d57d63aee2240dbfd3932c598d",
   "size": 1152597
  },
+ "art/sickofit-enemies/Generated/coronaImp/clips/attack.mp4": {
+  "sha256": "1c861dc92b27dbc4f9faeb2c761f11199653641f82f5475259ca464edf50fb0e",
+  "size": 499343
+ },
+ "art/sickofit-enemies/Generated/coronaImp/clips/die.mp4": {
+  "sha256": "cc99ffc716142264e086ab65ca4b511cecd42f27001d513a51b3aaf425ec3cdd",
+  "size": 446557
+ },
+ "art/sickofit-enemies/Generated/coronaImp/clips/hurt.mp4": {
+  "sha256": "0ff9a1bbd76d928e36355e3ca0cc0628bb128817daad843cc07c14f86188ac62",
+  "size": 309049
+ },
+ "art/sickofit-enemies/Generated/coronaImp/clips/idle.mp4": {
+  "sha256": "78aa8dd3e13e7a3f525634bb02c461428cf3c05383aad66d7be16a80d03c858d",
+  "size": 566359
+ },
  "art/sickofit-enemies/Generated/coronaImp/poses/dead.png": {
   "sha256": "8ca6577bd6c2ef5ecdba4c81a3cd47b5c0175ac3b52d7954e96b5d0e322b86fd",
   "size": 1214297
@@ -25358,6 +25374,10 @@
  "art/sickofit-enemies/Generated/coronaImp/poses/stand.png": {
   "sha256": "20a2c6b8eac6ec5f98616b0503afd8cf2ed1ea96b5e93df14293b3ef4b1d20db",
   "size": 1115004
+ },
+ "art/sickofit-enemies/Generated/coronaImp/poses/struck.png": {
+  "sha256": "dff8f6bda0ad06a45e1101841683899f710f4f6bb58c4a90fa548135ec35d3cb",
+  "size": 1205758
  },
  "art/sickofit-enemies/Generated/damnedSoul/clips/hiccup.mp4": {
   "sha256": "c878b69aabadc17e72bfc0aaa3b4be8b1f0210890e1fff40be4cacead80effc9",
