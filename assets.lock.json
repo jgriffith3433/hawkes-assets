@@ -25455,6 +25455,34 @@
   "sha256": "296f0dc53177d376f910335154f68d26ef8d4eaddfa1394ecf43d3deb72beb9f",
   "size": 1168479
  },
+ "art/sickofit-enemies/Generated/geodeBit/clips/die.mp4": {
+  "sha256": "08908515b23463959d805ac7e584028d5792c8d95ef994bc1b13732faab66b36",
+  "size": 287967
+ },
+ "art/sickofit-enemies/Generated/geodeBit/clips/hurt.mp4": {
+  "sha256": "25e4a6c92e2e41e19af42c9c01d0ba677b24836316db0054938270e6705a77a2",
+  "size": 164490
+ },
+ "art/sickofit-enemies/Generated/geodeBit/clips/idle.mp4": {
+  "sha256": "f480fb8b664a246117223d7cba71395a7a234fcaf2c8702d73251e31cec20149",
+  "size": 277424
+ },
+ "art/sickofit-enemies/Generated/geodeBit/clips/move.mp4": {
+  "sha256": "a878646e46d5e34f7fe2839a872089493c4c507471fb1d4c471fe04af6ac0d81",
+  "size": 191114
+ },
+ "art/sickofit-enemies/Generated/geodeBit/poses/dead.png": {
+  "sha256": "93cf8e65617950c81c01688102bafe71222b4a1ee984ed19c115ec40e637e96b",
+  "size": 954200
+ },
+ "art/sickofit-enemies/Generated/geodeBit/poses/stand.png": {
+  "sha256": "848012a1c27adb5c1baa59e879fde9d039f7718e081c31e8aa3415e0c33a6c5f",
+  "size": 835120
+ },
+ "art/sickofit-enemies/Generated/geodeBit/poses/struck.png": {
+  "sha256": "27070f6a0d551369c41764d2db3e748de16c079e9aaed835d347ad6ba15e1bb7",
+  "size": 911666
+ },
  "art/sickofit-enemies/Generated/imp/build.json": {
   "sha256": "416aeccee32111ce54c6577e4322ca1f8dc26ffc6acaecb3e157d9825d6e1882",
   "size": 1056
