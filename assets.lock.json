@@ -25119,6 +25119,38 @@
   "sha256": "ce01cc3d02688e3bf767ee389af63764617bddacad4d1a61a95fb635ee8e2ba8",
   "size": 1200198
  },
+ "art/sickofit-enemies/Generated/chainBrute/clips/attack.mp4": {
+  "sha256": "efaa4fa83964df1e4c567554fd05b9d023458ef86fb84efd0ac8f20a07e79f66",
+  "size": 276001
+ },
+ "art/sickofit-enemies/Generated/chainBrute/clips/die.mp4": {
+  "sha256": "383d7b95fc7c4bd90321f7e9aec204927b3d6dbe8119c549f2e36b120260249a",
+  "size": 355166
+ },
+ "art/sickofit-enemies/Generated/chainBrute/clips/hurt.mp4": {
+  "sha256": "0c91a508995ca0bdc3845dee2985bc67daa1b97c51abac7720ab5bd8663be0c6",
+  "size": 219444
+ },
+ "art/sickofit-enemies/Generated/chainBrute/clips/idle.mp4": {
+  "sha256": "205e70a47e277b29aced5a06ab8385c50c60cc5dd12b442a0b39dcb737ea86ab",
+  "size": 257695
+ },
+ "art/sickofit-enemies/Generated/chainBrute/clips/move.mp4": {
+  "sha256": "edfbb4615b793ed9efd06ecfc8cd79419bedfc3b29add11fc28c4f6d30034621",
+  "size": 189419
+ },
+ "art/sickofit-enemies/Generated/chainBrute/poses/dead.png": {
+  "sha256": "e2aecf3877d475a72fa51f0d8eaeff99b3cc0828f4c4ebfcab27e84f8720400c",
+  "size": 1128301
+ },
+ "art/sickofit-enemies/Generated/chainBrute/poses/stand.png": {
+  "sha256": "d9832115a094236795303f94c1d3c7ed1d7769c764dc191765a01164cce87a9f",
+  "size": 1019855
+ },
+ "art/sickofit-enemies/Generated/chainBrute/poses/struck.png": {
+  "sha256": "49a3ef43e63f920228caa6a89a4e2654d66644b0a1ff90cadb8174fc841f4a65",
+  "size": 1131547
+ },
  "art/sickofit-enemies/Generated/chainWhelp/clips/die.mp4": {
   "sha256": "ff72a6c8a5c26b6c3d78ab3013d9bc269aeafb1fe03dcfab94d1d4eccf86b88c",
   "size": 435190
