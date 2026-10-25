@@ -25427,6 +25427,34 @@
   "sha256": "86aa59fe697b54da43958791ce8b9440edee157990a199bc39b53c598f3e8c3d",
   "size": 1166386
  },
+ "art/sickofit-enemies/Generated/fuseWhelp/clips/die.mp4": {
+  "sha256": "5e4821a8a53d70c945ec3eee82e0d3c3e8c26ca8109fc334e6e5d0a742b38546",
+  "size": 380174
+ },
+ "art/sickofit-enemies/Generated/fuseWhelp/clips/hurt.mp4": {
+  "sha256": "1bd38cee9e677fe5cf743f6281c72cf0116a3f2bc2501c2d2766be7d942c53a3",
+  "size": 447957
+ },
+ "art/sickofit-enemies/Generated/fuseWhelp/clips/idle.mp4": {
+  "sha256": "28987b4f1f651726ffed5691029452c62af7fc544662440e68fdd6f3144bdf30",
+  "size": 331126
+ },
+ "art/sickofit-enemies/Generated/fuseWhelp/clips/move.mp4": {
+  "sha256": "5f6e064a7f0a2587a58cdbed10abea7957bddc3c52a964dd483b0431f76b813c",
+  "size": 224332
+ },
+ "art/sickofit-enemies/Generated/fuseWhelp/poses/dead.png": {
+  "sha256": "7cf46750a5eb68f8955be4dcf9273d4692c1998d991297d7e05211dbf46cb794",
+  "size": 1189644
+ },
+ "art/sickofit-enemies/Generated/fuseWhelp/poses/stand.png": {
+  "sha256": "d6aa2528273567ad53dbc6f5df79f8fdc6a8043004ac55a44b901597c89e3a94",
+  "size": 1070889
+ },
+ "art/sickofit-enemies/Generated/fuseWhelp/poses/struck.png": {
+  "sha256": "296f0dc53177d376f910335154f68d26ef8d4eaddfa1394ecf43d3deb72beb9f",
+  "size": 1168479
+ },
  "art/sickofit-enemies/Generated/imp/build.json": {
   "sha256": "416aeccee32111ce54c6577e4322ca1f8dc26ffc6acaecb3e157d9825d6e1882",
   "size": 1056
