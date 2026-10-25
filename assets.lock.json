@@ -24891,6 +24891,22 @@
   "sha256": "a5f24598c5faf50247e1c87795676e7182c237a0b27fe48d531787ba2cc9b60f",
   "size": 1081954
  },
+ "art/sickofit-enemies/Generated/brimstoneDemon/clips/attack.mp4": {
+  "sha256": "0130de404467796c33476ce31cc8862217160710d799d633cda23e7f909777a8",
+  "size": 491387
+ },
+ "art/sickofit-enemies/Generated/brimstoneDemon/clips/die.mp4": {
+  "sha256": "4312a14caa8c5a71b7e76eba77c95fc6ebf866cbc91ae933acf520aa3f94467f",
+  "size": 461742
+ },
+ "art/sickofit-enemies/Generated/brimstoneDemon/clips/hurt.mp4": {
+  "sha256": "cf70c1c478ff8fda1ad0910f49ed4d1aae24412db5dd7f0c4b249cb309dbe70b",
+  "size": 206180
+ },
+ "art/sickofit-enemies/Generated/brimstoneDemon/clips/idle.mp4": {
+  "sha256": "589c7bbec825743668986a05252c842a186f8005d5c6eb875905fe43f82bfb55",
+  "size": 400480
+ },
  "art/sickofit-enemies/Generated/brimstoneDemon/poses/breath.png": {
   "sha256": "d84ec5cf9f0ffa91f3d009bfd4f5a89a19ec6f6e46bbdadb7a9b160ebf4f51ce",
   "size": 1146521
