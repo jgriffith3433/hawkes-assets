@@ -26707,6 +26707,26 @@
   "sha256": "51b922072469e2d50fb8fbec8eda564520950c60902866ef34d9e40ef52a7c3d",
   "size": 901504
  },
+ "art/sickofit-enemies/Generated/rook/clips/hiccup.mp4": {
+  "sha256": "cc6a7c3ee1a61c8f23ccde5b9d9a3081f4c4149f8427035aaa6fd0f6a88a7ccc",
+  "size": 215705
+ },
+ "art/sickofit-enemies/Generated/rook/clips/idle.mp4": {
+  "sha256": "6576c07d6b7dda4af152cf1a767750f9f1c434c843d0fed9611b09a7de77553a",
+  "size": 302787
+ },
+ "art/sickofit-enemies/Generated/rook/clips/walk.mp4": {
+  "sha256": "83763c0fa27befb02c92124e4d957cacdcbbbbd93ecafa3eaaff77c338cc5670",
+  "size": 238028
+ },
+ "art/sickofit-enemies/Generated/rook/poses/stand.png": {
+  "sha256": "0f6127ce22a6e56e862689d145acb1e15be81daf6642ceec0a7ba282f3fd2dc8",
+  "size": 941382
+ },
+ "art/sickofit-enemies/Generated/rook/poses/walk.png": {
+  "sha256": "be69f56be594cf9fa3a2400bad5a7b78c7b7f795c6d03f91c9ad548dcc8ab02d",
+  "size": 983999
+ },
  "art/sickofit-enemies/Generated/shotgunPickup/clips/idle.mp4": {
   "sha256": "d42d27d70f738c4ac62e60536f4f7b3a66830fab4665f69113bd8bbe4b7a7872",
   "size": 634419
