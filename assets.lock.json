@@ -26747,6 +26747,10 @@
   "sha256": "ecce38c545178ba2a16f26dccd8da19e9540136366473d4e06c80c7cc04ff255",
   "size": 981058
  },
+ "art/sickofit-enemies/Generated/slabSniper/poses/dead.png": {
+  "sha256": "a993fa72a2072d546bb155e83f8e56e52fcf74cba4febcc9cb4a1e31692c8073",
+  "size": 1114848
+ },
  "art/sickofit-enemies/Generated/slag/clips/idle.mp4": {
   "sha256": "2598562420bf5e6eb02560205236b1373dd8949f810921d693c0bd9ab62bf12d",
   "size": 379799
