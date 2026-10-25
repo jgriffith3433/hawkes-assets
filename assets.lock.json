@@ -27171,6 +27171,34 @@
   "sha256": "438c5c73284c1b57d4d0e21ea46b0ce47df485a2f42d9449c760a0c34952c2f4",
   "size": 1148897
  },
+ "art/sickofit-enemies/Generated/twinLensImp/clips/attack.mp4": {
+  "sha256": "bfb8941fa75b2779c08faef1596dc2c4b58b36b6828f02e21b1430d0f4a42957",
+  "size": 415356
+ },
+ "art/sickofit-enemies/Generated/twinLensImp/clips/die.mp4": {
+  "sha256": "35a1fc8e560786e975eb5faf81f39034acb460ebfe285fb0afbb296a40fe14a2",
+  "size": 407026
+ },
+ "art/sickofit-enemies/Generated/twinLensImp/clips/hurt.mp4": {
+  "sha256": "6f935c601454f7ce38e1c3fc95a0da93d20d0f636f46a3fa6ffcc446b2da3c06",
+  "size": 247456
+ },
+ "art/sickofit-enemies/Generated/twinLensImp/clips/idle.mp4": {
+  "sha256": "cf03c938ab6fb475b004eccdb904e34014ff1cacc244ebeb9037fb4d2de6b01e",
+  "size": 568953
+ },
+ "art/sickofit-enemies/Generated/twinLensImp/poses/dead.png": {
+  "sha256": "eb8e44e12a19d60fa2b944b813f318851988b65fa6d541b4183681782b44ed6b",
+  "size": 1180144
+ },
+ "art/sickofit-enemies/Generated/twinLensImp/poses/stand.png": {
+  "sha256": "3bc270b6ea5526b3c8e271fe61b3db493e053ad317d48a5f9c962ac2df025393",
+  "size": 1114497
+ },
+ "art/sickofit-enemies/Generated/twinLensImp/poses/struck.png": {
+  "sha256": "f1d2efad08e89e86758fe998abd61cb3633d560337a46bbf453d7d990da6effc",
+  "size": 1139184
+ },
  "art/sickofit-enemies/Sentinel/CrouchToStanding/Output/CrouchToStanding.mp4": {
   "sha256": "14e5534762be0a4404417a6318dfc082220d5858ebf7d945d2a6628fae346786",
   "size": 1130119
