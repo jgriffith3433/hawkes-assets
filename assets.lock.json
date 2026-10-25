@@ -26635,6 +26635,14 @@
   "sha256": "96148d7c53db3df3298d0a8bc47c12daf221023e4a7dc269c722e69fe4a11429",
   "size": 899534
  },
+ "art/sickofit-enemies/Generated/riftBomb/clips/idle.mp4": {
+  "sha256": "f8f5722d34baedfc9b46c7089b893da4841018bf7a56b0047b4a48eb0f006acd",
+  "size": 298585
+ },
+ "art/sickofit-enemies/Generated/riftBomb/poses/stand.png": {
+  "sha256": "51a7d4cf281b55b0da47ca011ce41a38a957925c65c46a301a34d81b3d001f8a",
+  "size": 1058543
+ },
  "art/sickofit-enemies/Generated/riftBomber/poses/dead.png": {
   "sha256": "7a7fe23d74137c3431aeb49476d12b129e9bec220cc440d1f73bb86b102c0a9d",
   "size": 1144843
@@ -26726,6 +26734,10 @@
  "art/sickofit-enemies/Generated/rook/poses/walk.png": {
   "sha256": "be69f56be594cf9fa3a2400bad5a7b78c7b7f795c6d03f91c9ad548dcc8ab02d",
   "size": 983999
+ },
+ "art/sickofit-enemies/Generated/shardwright/poses/dead.png": {
+  "sha256": "1504f09a043ac6645353ee3be3ae5f1f2666cb5585f09d19cac6c2979fefbfe3",
+  "size": 1006042
  },
  "art/sickofit-enemies/Generated/shotgunPickup/clips/idle.mp4": {
   "sha256": "d42d27d70f738c4ac62e60536f4f7b3a66830fab4665f69113bd8bbe4b7a7872",
