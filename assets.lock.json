@@ -25363,6 +25363,22 @@
   "sha256": "d9ffb9bcc56562b50856844a3bbafe4df5e8a71c95b95d1554434a9d908d237e",
   "size": 1092909
  },
+ "art/sickofit-enemies/Generated/demonWhelp/clips/die.mp4": {
+  "sha256": "df30022c219acd68f252b173196b06e1342ac2ed8463faecd5fa0c4567abf046",
+  "size": 468593
+ },
+ "art/sickofit-enemies/Generated/demonWhelp/clips/hurt.mp4": {
+  "sha256": "fe0eb8cb46b618a1de2e761c7595efff8c7a49c7ba5274ea61b10896cae8c821",
+  "size": 320372
+ },
+ "art/sickofit-enemies/Generated/demonWhelp/clips/idle.mp4": {
+  "sha256": "a5c38623fd66cdf3da6abc60551d4c173156c6e0231ea90b8d0f467c915102c3",
+  "size": 336965
+ },
+ "art/sickofit-enemies/Generated/demonWhelp/clips/move.mp4": {
+  "sha256": "09d0e6c1937408ef604809b63fcd8db2242b2a376b71138cadd10347828cb991",
+  "size": 193800
+ },
  "art/sickofit-enemies/Generated/demonWhelp/poses/dead.png": {
   "sha256": "6eadb7a51723d5aaabe2352d24f0be68e3b49b6865150b148c92858a5910158b",
   "size": 1154687
@@ -25370,6 +25386,10 @@
  "art/sickofit-enemies/Generated/demonWhelp/poses/stand.png": {
   "sha256": "dc0a6b13c4934376209dc37afd19ae9a74bc006f8725fcf9a1568c6a4023c5a0",
   "size": 1019398
+ },
+ "art/sickofit-enemies/Generated/demonWhelp/poses/struck.png": {
+  "sha256": "86aa59fe697b54da43958791ce8b9440edee157990a199bc39b53c598f3e8c3d",
+  "size": 1166386
  },
  "art/sickofit-enemies/Generated/imp/build.json": {
   "sha256": "416aeccee32111ce54c6577e4322ca1f8dc26ffc6acaecb3e157d9825d6e1882",
