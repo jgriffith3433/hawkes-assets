@@ -25003,6 +25003,14 @@
   "sha256": "f061b73a59896c7ab56beba30433f1af20be1b181023598c9858a9d011244906",
   "size": 1153919
  },
+ "art/sickofit-enemies/Generated/boomerangHaloPickup/clips/idle.mp4": {
+  "sha256": "c2c784d8dd683502f01edc6dc1379146edeb1b46b1c1cca9bcdcc59a90eee966",
+  "size": 555113
+ },
+ "art/sickofit-enemies/Generated/boomerangHaloPickup/poses/stand.png": {
+  "sha256": "4f822f9ba93ca51b1976edba249c7acdf7e896bf574b93ffe5a97cbb57003ebf",
+  "size": 1028438
+ },
  "art/sickofit-enemies/Generated/bounceLobber/clips/attack.mp4": {
   "sha256": "633a80801a9dda929a22c3fbce82678d559308e7fe96ffc49eca1505ab37d8d1",
   "size": 492683
