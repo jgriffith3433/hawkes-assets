@@ -26107,6 +26107,10 @@
   "sha256": "a3bab7be7924a9adde82a601876ec2f387f94f66d8e59cecaa994a82fe8633bc",
   "size": 1173527
  },
+ "art/sickofit-enemies/Generated/lamplighter/poses/blind.png": {
+  "sha256": "8defd9573464fafbb6e46e254d0ca2f5878109ddeda539494955340931387078",
+  "size": 991028
+ },
  "art/sickofit-enemies/Generated/lanternfly/clips/die.mp4": {
   "sha256": "8f723e851cec5aa4574c113ff5ee904e81604e3d694fd21988f6cc09b3bb565c",
   "size": 402142
@@ -26490,6 +26494,34 @@
  "art/sickofit-enemies/Generated/riftBomber/poses/dead.png": {
   "sha256": "7a7fe23d74137c3431aeb49476d12b129e9bec220cc440d1f73bb86b102c0a9d",
   "size": 1144843
+ },
+ "art/sickofit-enemies/Generated/roadBreaker/clips/attack.mp4": {
+  "sha256": "8eecce7a67291ca2c748d28069d1ef0a89f97cdcd78c4a82d495e0b33ed773db",
+  "size": 213040
+ },
+ "art/sickofit-enemies/Generated/roadBreaker/clips/die.mp4": {
+  "sha256": "658ea15c1a4fae6d0ec14d0030fe3714d876b58ddea12fdffd2d10d7fc626c3d",
+  "size": 348876
+ },
+ "art/sickofit-enemies/Generated/roadBreaker/clips/hurt.mp4": {
+  "sha256": "a00dc40a12e872400ac0e6967998fa3afc256ad4bf24e99f79bf06702f7986a8",
+  "size": 155667
+ },
+ "art/sickofit-enemies/Generated/roadBreaker/clips/idle.mp4": {
+  "sha256": "2c0a5e69a5234d5fc0a5c9690e7ec7e832c34cb8fbee7c2914224bec2de697a8",
+  "size": 357773
+ },
+ "art/sickofit-enemies/Generated/roadBreaker/poses/dead.png": {
+  "sha256": "a170db7b37cfadc9b0ab48f644ee179c7dd4e22ca1523eb13493df699fc16875",
+  "size": 1121835
+ },
+ "art/sickofit-enemies/Generated/roadBreaker/poses/stand.png": {
+  "sha256": "cfaeb50bc36ce0ab0397f935a623b8957fab2913a2d3161756a6809905019eeb",
+  "size": 1045436
+ },
+ "art/sickofit-enemies/Generated/roadBreaker/poses/struck.png": {
+  "sha256": "b3c0792626451cf24cace436fbb9a6bcf8cead6f8571786a15d59ac86bc3e397",
+  "size": 1124851
  },
  "art/sickofit-enemies/Generated/shotgunPickup/clips/idle.mp4": {
   "sha256": "d42d27d70f738c4ac62e60536f4f7b3a66830fab4665f69113bd8bbe4b7a7872",
