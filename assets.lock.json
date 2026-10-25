@@ -26651,6 +26651,14 @@
   "sha256": "96148d7c53db3df3298d0a8bc47c12daf221023e4a7dc269c722e69fe4a11429",
   "size": 899534
  },
+ "art/sickofit-enemies/Generated/ricochetShot/clips/idle.mp4": {
+  "sha256": "748827dc3f67d351de5a35fa967c8d33c99345dd81b1079e624978c1a75c12d0",
+  "size": 264379
+ },
+ "art/sickofit-enemies/Generated/ricochetShot/poses/stand.png": {
+  "sha256": "b537ffb83a4ea231ed0c53e79d9e2596b110fc52d334dd5d672f67a07c854791",
+  "size": 814150
+ },
  "art/sickofit-enemies/Generated/riftBomb/clips/idle.mp4": {
   "sha256": "f8f5722d34baedfc9b46c7089b893da4841018bf7a56b0047b4a48eb0f006acd",
   "size": 298585
