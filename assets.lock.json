@@ -26003,9 +26003,33 @@
   "sha256": "2aaa12116d591402d0ad291e6f6da57950b3b1cbf266dee105a77bd0561cd553",
   "size": 1117478
  },
+ "art/sickofit-enemies/Generated/launcherThief/clips/die.mp4": {
+  "sha256": "2d9429fc14742008ed008f82faafdae9a9f2b9b8ab72d4ba39e7a070b0c2a66c",
+  "size": 453798
+ },
+ "art/sickofit-enemies/Generated/launcherThief/clips/hurt.mp4": {
+  "sha256": "aca907d5e280839e3e879d85844eb05a3d6d24dbbdfccfa791de0a60545399cd",
+  "size": 351398
+ },
+ "art/sickofit-enemies/Generated/launcherThief/clips/idle.mp4": {
+  "sha256": "3792b96bc16c23c61cec37950883e351c80ecd828b11bfdd4cdf32fa57c9e5b0",
+  "size": 576971
+ },
+ "art/sickofit-enemies/Generated/launcherThief/clips/move.mp4": {
+  "sha256": "e9f4e2d38649133c5986a675495413331f7feb9ca5aa40a0c184aaf0930e4553",
+  "size": 336411
+ },
  "art/sickofit-enemies/Generated/launcherThief/poses/dead.png": {
   "sha256": "fb334f0322dde763aeb634be192ffc99217128165617bac79845bc63042c28ce",
   "size": 1153331
+ },
+ "art/sickofit-enemies/Generated/launcherThief/poses/stand.png": {
+  "sha256": "88b276a0115033e4fdc35c234a56bf70095ab8d484b809f1746d531e37e56780",
+  "size": 1069481
+ },
+ "art/sickofit-enemies/Generated/launcherThief/poses/struck.png": {
+  "sha256": "107157e4428a4b5fd9cc1854b103217d348c1fa139c632320689e0183038f42c",
+  "size": 1155327
  },
  "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
   "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
