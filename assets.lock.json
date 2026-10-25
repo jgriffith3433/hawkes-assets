@@ -25839,6 +25839,34 @@
   "sha256": "8c03e10b789b95f30d4e84e09158d607932e2794cbf07c1a3770d0ace5513866",
   "size": 1147922
  },
+ "art/sickofit-enemies/Generated/impSack/clips/die.mp4": {
+  "sha256": "ebdecdc26aed01ce74db44cf8d312d6c3c5fb863432acc724ac8c0111fda8b3c",
+  "size": 383420
+ },
+ "art/sickofit-enemies/Generated/impSack/clips/hurt.mp4": {
+  "sha256": "d82dd73c65f2dfe623e89ebcdf336664230f7ff81e64eae4c2673079222f4260",
+  "size": 348989
+ },
+ "art/sickofit-enemies/Generated/impSack/clips/idle.mp4": {
+  "sha256": "6cda9ec871e6fecdd8a32357100e8992e49c82a1dcb1236d71abd172e910a548",
+  "size": 537763
+ },
+ "art/sickofit-enemies/Generated/impSack/clips/move.mp4": {
+  "sha256": "9a9afdee8c307288c841e060102f5ceafddc027eadaf7cc2a73ddef265a6958f",
+  "size": 459424
+ },
+ "art/sickofit-enemies/Generated/impSack/poses/dead.png": {
+  "sha256": "379321f4debe3b65592e0241d00780b7f143230b7b549d9e0311c992e0e7b5aa",
+  "size": 1147098
+ },
+ "art/sickofit-enemies/Generated/impSack/poses/stand.png": {
+  "sha256": "19bf025ce0cc380270703106480bf83be9bdd4709f885a39a1b812c91bb893af",
+  "size": 1126388
+ },
+ "art/sickofit-enemies/Generated/impSack/poses/struck.png": {
+  "sha256": "6ca9b57065dab97a6361cf7c0ffad64af069f2dce7fac7023a18306183e75dbb",
+  "size": 1164208
+ },
  "art/sickofit-enemies/Generated/impSleeper/poses/dead.png": {
   "sha256": "dd295573343de5cf2b3746c197a5e84babf176b89ab45856ced2f13903b0f011",
   "size": 1118987
