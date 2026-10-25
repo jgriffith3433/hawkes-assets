@@ -26051,6 +26051,34 @@
   "sha256": "107157e4428a4b5fd9cc1854b103217d348c1fa139c632320689e0183038f42c",
   "size": 1155327
  },
+ "art/sickofit-enemies/Generated/loopWraith/clips/attack.mp4": {
+  "sha256": "a2a149a133421208821d104135d5970516c8c34790de18d8c04398db7d24f34e",
+  "size": 357617
+ },
+ "art/sickofit-enemies/Generated/loopWraith/clips/die.mp4": {
+  "sha256": "967090b268c33fc0329c48d38e8a97366ed82c9a101ee1c95e75cbaf2b742b18",
+  "size": 390122
+ },
+ "art/sickofit-enemies/Generated/loopWraith/clips/hurt.mp4": {
+  "sha256": "5600028b0e6e5970507e306094170a889aeca0233542d52344a8819908867533",
+  "size": 176559
+ },
+ "art/sickofit-enemies/Generated/loopWraith/clips/idle.mp4": {
+  "sha256": "e3eefb390e37c536ad449a1c6b08ae134a48f4f668cc9e81b7cd50587e2e6832",
+  "size": 305369
+ },
+ "art/sickofit-enemies/Generated/loopWraith/poses/dead.png": {
+  "sha256": "277f56b9a60df29bf71c34d77fa3b20dcfa388b82d039f0508cba659f4f6f1e3",
+  "size": 1017728
+ },
+ "art/sickofit-enemies/Generated/loopWraith/poses/stand.png": {
+  "sha256": "2f9266f2e9bb827e8b83096bee178f7c94f28106663e1a8ba61ad29146c4eb5f",
+  "size": 963648
+ },
+ "art/sickofit-enemies/Generated/loopWraith/poses/struck.png": {
+  "sha256": "91ce215926224f9f31dfd5a9ae62a9506447f74d6c40e6b4010069b18f54617b",
+  "size": 1178156
+ },
  "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
   "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
   "size": 385447
