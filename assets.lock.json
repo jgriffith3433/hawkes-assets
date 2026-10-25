@@ -25335,6 +25335,10 @@
   "sha256": "bfc67ee8fc610785214b1df0e73c1d3b3afdb04626bc5e311a5c3afea8ab3ee5",
   "size": 891926
  },
+ "art/sickofit-enemies/Generated/deadeyeImp/poses/dead.png": {
+  "sha256": "86e5f159e464ca52b2501618d8804dd55c70b6bf8c31d991cb2f754193123b4d",
+  "size": 1115262
+ },
  "art/sickofit-enemies/Generated/imp/build.json": {
   "sha256": "416aeccee32111ce54c6577e4322ca1f8dc26ffc6acaecb3e157d9825d6e1882",
   "size": 1056
