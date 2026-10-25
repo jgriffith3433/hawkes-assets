@@ -26303,6 +26303,14 @@
   "sha256": "c96fe2be611007e80357e52542ac83caddbd11efb361fe3639c98b25ba9a24ea",
   "size": 969103
  },
+ "art/sickofit-enemies/Generated/lostMitt/clips/idle.mp4": {
+  "sha256": "ccef1d3b8fbdb10f7e29f1ca72bd7322e14f074863648bfc74d513f4f0b8fd67",
+  "size": 517202
+ },
+ "art/sickofit-enemies/Generated/lostMitt/poses/stand.png": {
+  "sha256": "377fea6bd6c71f50e6b483c8124d7ee275039a846590adfae461cad0bdfcb295",
+  "size": 1116627
+ },
  "art/sickofit-enemies/Generated/lostRollingPin/clips/idle.mp4": {
   "sha256": "e4007ec3ea9d067e74d776791323cbbd5a9af8b94f1b10585ae4f6c567a2c19c",
   "size": 661634
