@@ -24875,6 +24875,10 @@
   "sha256": "deded07d66f093c7723534087fe9abb091de86d0f00fe1e258c771e546fc3754",
   "size": 321673
  },
+ "art/sickofit-enemies/Generated/alphaHound/poses/dead.png": {
+  "sha256": "3a74065d5f26f711e51fe1b6309b28ba8ad841d35c6eed4af2f32f00f0cc2eb5",
+  "size": 1234591
+ },
  "art/sickofit-enemies/Generated/baronSpillway/clips/attack.mp4": {
   "sha256": "1ac45bcc0d7f1754cb5c6f93a3f4dc225cf812d1bd2959cf4ded0b485e799857",
   "size": 390348
