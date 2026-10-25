@@ -26319,6 +26319,10 @@
   "sha256": "d5e3e102f1788fe279c952fe8edcf406ca9e5f55dacdb16ee0ae3f16275f281d",
   "size": 1271970
  },
+ "art/sickofit-enemies/Generated/mineBeetle/poses/dead.png": {
+  "sha256": "381dac036e85ab4f518a8e59d65bde0aa38e451fd911729d4ea6a5ef573f31ab",
+  "size": 1099488
+ },
  "art/sickofit-enemies/Generated/motherFissure/clips/attack.mp4": {
   "sha256": "60514adafd5437457c9e7bdd3bd792fd78e37ce696ef1432ce0720788c13bb63",
   "size": 284506
