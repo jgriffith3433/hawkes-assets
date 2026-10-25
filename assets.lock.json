@@ -27111,6 +27111,38 @@
   "sha256": "83a842609ee756e138447d308e3a376b98746707c7c287016a0643412541a2df",
   "size": 1219340
  },
+ "art/sickofit-enemies/Generated/twiceRisen/clips/attack.mp4": {
+  "sha256": "484ef03b66d7503af51af1acae1d25c9a575a17d034248ddb06a36992efefc40",
+  "size": 365739
+ },
+ "art/sickofit-enemies/Generated/twiceRisen/clips/die.mp4": {
+  "sha256": "a160ff8883beb09d994b2c0c0af1fd4452ea78095917a47f90befad9b324245a",
+  "size": 399791
+ },
+ "art/sickofit-enemies/Generated/twiceRisen/clips/hurt.mp4": {
+  "sha256": "a714a8ef86a948028ca614102206fc5df6c65a3c36c9227bd057868a42427c14",
+  "size": 253785
+ },
+ "art/sickofit-enemies/Generated/twiceRisen/clips/idle.mp4": {
+  "sha256": "d36489d43c972b533d2b8397b66ad608b86c19160509807cbee6d71038789046",
+  "size": 274705
+ },
+ "art/sickofit-enemies/Generated/twiceRisen/clips/move.mp4": {
+  "sha256": "60fbf64e770f743ff30b055c04c0a200cab6edf7c521b3e85355ef8b60282e64",
+  "size": 210249
+ },
+ "art/sickofit-enemies/Generated/twiceRisen/poses/dead.png": {
+  "sha256": "695b0f6c7f90a8e0823729a7a966ccea69d4e807c5ce84dea27c91be2716ae71",
+  "size": 1219219
+ },
+ "art/sickofit-enemies/Generated/twiceRisen/poses/stand.png": {
+  "sha256": "142e12e3932b8e3eb5675b1a273c3d903ca51e49f7c97014726d5ecade817d3e",
+  "size": 1123353
+ },
+ "art/sickofit-enemies/Generated/twiceRisen/poses/struck.png": {
+  "sha256": "4054539e6abdf8e4e41a086c2eb1fb14f9877160c4cb391717c6811aa8c6432c",
+  "size": 1230765
+ },
  "art/sickofit-enemies/Generated/twinBoltDeadeye/clips/attack.mp4": {
   "sha256": "a7d030ca181abd46f5a4be5c2d28cb76091152247c4283733eb1cfdf121bf3c3",
   "size": 516591
