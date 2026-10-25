@@ -24903,6 +24903,38 @@
   "sha256": "c805057bd7d7ea73a34aa6a8dbc8c4f75045306dc1b89bd783b47f55c87001b9",
   "size": 1113919
  },
+ "art/sickofit-enemies/Generated/bastionBrute/clips/attack.mp4": {
+  "sha256": "dd741f0bef53d3577f7e2cb43831fe2ea4cdd4fa6c49a659bc9a55aec882acb1",
+  "size": 294100
+ },
+ "art/sickofit-enemies/Generated/bastionBrute/clips/die.mp4": {
+  "sha256": "b5c57ecc4f757e7869145221ff4b34b6c063020539117b7d08aa59da2805e95a",
+  "size": 398222
+ },
+ "art/sickofit-enemies/Generated/bastionBrute/clips/hurt.mp4": {
+  "sha256": "070a71330f2e89c748f6ff9a3984a0c5f317e2ca1dffd081b48c1818e60980b9",
+  "size": 223144
+ },
+ "art/sickofit-enemies/Generated/bastionBrute/clips/idle.mp4": {
+  "sha256": "683df6a5da858b6ff125bf888c9ec1ea1391cfd77e093524b6352377453efebe",
+  "size": 244495
+ },
+ "art/sickofit-enemies/Generated/bastionBrute/clips/move.mp4": {
+  "sha256": "85b895b23c324be2892ba860f0120ba60957f1a266ce52bfaec4a7039b01d0bf",
+  "size": 335464
+ },
+ "art/sickofit-enemies/Generated/bastionBrute/poses/dead.png": {
+  "sha256": "0fe03b55eea8780dfa2e3799a5161a4948a192d75fda86e4b712f79ed4f5de62",
+  "size": 1163395
+ },
+ "art/sickofit-enemies/Generated/bastionBrute/poses/stand.png": {
+  "sha256": "58eaae35d21e4a8f8c637026ff9290f5a3b2d9849fea226ae1a283a0c3edce8d",
+  "size": 1086926
+ },
+ "art/sickofit-enemies/Generated/bastionBrute/poses/struck.png": {
+  "sha256": "b2a46b66ee370e56124916a2943ec47a409aca1e80c5fd4f31a780b20be581d1",
+  "size": 1202980
+ },
  "art/sickofit-enemies/Generated/beamLens/clips/idle.mp4": {
   "sha256": "44b3d7f232f7c9289777f8321cecfa72eab89fb6dbd449e463e6b7602a9e204c",
   "size": 283830
