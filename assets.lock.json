@@ -26755,9 +26755,33 @@
   "sha256": "ecce38c545178ba2a16f26dccd8da19e9540136366473d4e06c80c7cc04ff255",
   "size": 981058
  },
+ "art/sickofit-enemies/Generated/slabSniper/clips/attack.mp4": {
+  "sha256": "83ab97211c7dfe8b851837920f9da6d4abadef3d23425ba5ca90439245df110c",
+  "size": 300147
+ },
+ "art/sickofit-enemies/Generated/slabSniper/clips/die.mp4": {
+  "sha256": "ff17db03dd63a14f1ae2147d91f0581b8d459dc37bcfab61b40b45e3c0891033",
+  "size": 368249
+ },
+ "art/sickofit-enemies/Generated/slabSniper/clips/hurt.mp4": {
+  "sha256": "62776d6cf6548df2b4c1d205e5bcc1430b23a4cd3403f7dd911fcc9478ec5250",
+  "size": 276649
+ },
+ "art/sickofit-enemies/Generated/slabSniper/clips/idle.mp4": {
+  "sha256": "c9302e9a83656aaf8a75b9266415950ae85f1475ce183c6fa3f08dccff5a8d00",
+  "size": 306435
+ },
  "art/sickofit-enemies/Generated/slabSniper/poses/dead.png": {
   "sha256": "a993fa72a2072d546bb155e83f8e56e52fcf74cba4febcc9cb4a1e31692c8073",
   "size": 1114848
+ },
+ "art/sickofit-enemies/Generated/slabSniper/poses/stand.png": {
+  "sha256": "d83894e3de3707b013f691b54d9f60e2cf238a0fcb37717a7b4f01c62bfe431e",
+  "size": 1104524
+ },
+ "art/sickofit-enemies/Generated/slabSniper/poses/struck.png": {
+  "sha256": "b37e7f803791a7bcdf24cffa9a054c71f4c50d9d6776b7ff4d490d204fd0fc3f",
+  "size": 1106922
  },
  "art/sickofit-enemies/Generated/slag/clips/idle.mp4": {
   "sha256": "2598562420bf5e6eb02560205236b1373dd8949f810921d693c0bd9ab62bf12d",
