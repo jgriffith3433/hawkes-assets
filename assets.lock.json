@@ -26159,6 +26159,34 @@
   "sha256": "91ce215926224f9f31dfd5a9ae62a9506447f74d6c40e6b4010069b18f54617b",
   "size": 1178156
  },
+ "art/sickofit-enemies/Generated/magmaGeode/clips/die.mp4": {
+  "sha256": "4e676ac865a3d68c5188fdbebf4dde266dd5b610d0126d1c4db4bc1a9a9f34e0",
+  "size": 241489
+ },
+ "art/sickofit-enemies/Generated/magmaGeode/clips/hurt.mp4": {
+  "sha256": "88f7bba579487680df62a6b75d815fc15e72d9486da875e03a6c6e47085a68b7",
+  "size": 276740
+ },
+ "art/sickofit-enemies/Generated/magmaGeode/clips/idle.mp4": {
+  "sha256": "486dff112258824c1582a9f32efae3c877ee28b76cf1f6aef84a03a9afe049af",
+  "size": 346917
+ },
+ "art/sickofit-enemies/Generated/magmaGeode/clips/move.mp4": {
+  "sha256": "3c4704f161d349c624487d0438ee98a9456db79cc81a097b5f0f00fc4abac0c2",
+  "size": 220397
+ },
+ "art/sickofit-enemies/Generated/magmaGeode/poses/dead.png": {
+  "sha256": "801d83592379510558c37616b2a3ccf5244966cdf4dfa9c6c23d060462a76280",
+  "size": 1078056
+ },
+ "art/sickofit-enemies/Generated/magmaGeode/poses/stand.png": {
+  "sha256": "3c4d3c9ee494384a8257e0dd90d747d507e12545ef8397b6423291318d16c717",
+  "size": 1048145
+ },
+ "art/sickofit-enemies/Generated/magmaGeode/poses/struck.png": {
+  "sha256": "37a440c62b4b1af72ee0eb1b090ba9b0f7c1d6bab930ad221106eff1776f6533",
+  "size": 1093345
+ },
  "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
   "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
   "size": 385447
