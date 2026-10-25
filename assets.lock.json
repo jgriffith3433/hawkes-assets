@@ -25595,6 +25595,14 @@
   "sha256": "27070f6a0d551369c41764d2db3e748de16c079e9aaed835d347ad6ba15e1bb7",
   "size": 911666
  },
+ "art/sickofit-enemies/Generated/haloShot/clips/idle.mp4": {
+  "sha256": "baf99ee8a10027118be2115e8dee046f2fb3ddc47edbf7f08737c41d802ea2cc",
+  "size": 678336
+ },
+ "art/sickofit-enemies/Generated/haloShot/poses/stand.png": {
+  "sha256": "8eb20adbd024acfa2b9c0738fdd3db345628de9204b8e77400f32dd884bbdf7c",
+  "size": 945248
+ },
  "art/sickofit-enemies/Generated/hawkerSoul/clips/hiccup.mp4": {
   "sha256": "1d7016060bf601a237835b8fcc439f82ad4adc497ed3fc10f1cb5db0770b1e94",
   "size": 274926
