@@ -26243,6 +26243,14 @@
   "sha256": "d5721090a76c33655166b53d17f3becdaae95d23c6708a06b49b0aac98ab4b82",
   "size": 879241
  },
+ "art/sickofit-enemies/Generated/lavaWave/clips/idle.mp4": {
+  "sha256": "f07f79e175a7ea84235fc11dc8c819a392d773005cb69b627b76e0b0051d2965",
+  "size": 816061
+ },
+ "art/sickofit-enemies/Generated/lavaWave/poses/stand.png": {
+  "sha256": "e092ac91a6ce3eae78ef8c1e76134d17ac7734425c11f5c60b2a47b9cd5a2760",
+  "size": 947412
+ },
  "art/sickofit-enemies/Generated/leadImp/clips/attack.mp4": {
   "sha256": "fd6a385421f6362c09c59644c8d5d1092d512153c0375677ea4d9b70a35bc747",
   "size": 264414
