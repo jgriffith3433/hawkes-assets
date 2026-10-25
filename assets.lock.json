@@ -26107,9 +26107,45 @@
   "sha256": "a3bab7be7924a9adde82a601876ec2f387f94f66d8e59cecaa994a82fe8633bc",
   "size": 1173527
  },
+ "art/sickofit-enemies/Generated/lamplighter/clips/blind-clip.mp4": {
+  "sha256": "c080aa905b0a86cc028922a0febf08d84a6fbeaee877fa6e89b790f5db8e1cf5",
+  "size": 256682
+ },
+ "art/sickofit-enemies/Generated/lamplighter/clips/die.mp4": {
+  "sha256": "d05042809ca8c8786726abb94d1e3216961304498216bf40412b3273affeef11",
+  "size": 362757
+ },
+ "art/sickofit-enemies/Generated/lamplighter/clips/hurt.mp4": {
+  "sha256": "a4e0161127c8cf8982fe395189f9a7c81d54a48a23f213fc5295908d41f43e3b",
+  "size": 120953
+ },
+ "art/sickofit-enemies/Generated/lamplighter/clips/idle.mp4": {
+  "sha256": "e8dafc136c5f947dc10f6ce3d29e4975cc5b5b10bae39e729eb01c5c04a39f8a",
+  "size": 277081
+ },
+ "art/sickofit-enemies/Generated/lamplighter/clips/light.mp4": {
+  "sha256": "d47a924163417f4c11de00b021b52feeadeabfe99ad3d6b5a5d4369623cbb464",
+  "size": 285687
+ },
+ "art/sickofit-enemies/Generated/lamplighter/clips/rise.mp4": {
+  "sha256": "45a3d3495fece3b9342bcd0dd2d4573195ff7f3b99d8e8fe624bceb06e79ec2a",
+  "size": 301697
+ },
  "art/sickofit-enemies/Generated/lamplighter/poses/blind.png": {
   "sha256": "8defd9573464fafbb6e46e254d0ca2f5878109ddeda539494955340931387078",
   "size": 991028
+ },
+ "art/sickofit-enemies/Generated/lamplighter/poses/dead.png": {
+  "sha256": "e14864cfea072122d5509809cdeb8928ef74559d85ed5fdfdb77f481f093b5d8",
+  "size": 988274
+ },
+ "art/sickofit-enemies/Generated/lamplighter/poses/dormant.png": {
+  "sha256": "34f1fd919a9cd86538bd580dd52dafd087e7440f02bc3e35414bd723a60c9461",
+  "size": 1014531
+ },
+ "art/sickofit-enemies/Generated/lamplighter/poses/stand.png": {
+  "sha256": "eac1160b30dacf20678fac0666c28b074f5221ca0c8f881071199b1c364f01b3",
+  "size": 980795
  },
  "art/sickofit-enemies/Generated/lanternfly/clips/die.mp4": {
   "sha256": "8f723e851cec5aa4574c113ff5ee904e81604e3d694fd21988f6cc09b3bb565c",
