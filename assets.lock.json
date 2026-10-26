@@ -25543,6 +25543,14 @@
   "sha256": "86aa59fe697b54da43958791ce8b9440edee157990a199bc39b53c598f3e8c3d",
   "size": 1166386
  },
+ "art/sickofit-enemies/Generated/drone/poses/dead.png": {
+  "sha256": "e6800103a6dd8735813e1d76f5a0931f754c634dde96b506867e5e3770374734",
+  "size": 1068941
+ },
+ "art/sickofit-enemies/Generated/drone/poses/stand.png": {
+  "sha256": "c7e155c25eb3f5635eaf114ea27ef84917f5fa75d5cd5bfaf7d22352fff85484",
+  "size": 912412
+ },
  "art/sickofit-enemies/Generated/emberMine/clips/idle.mp4": {
   "sha256": "3254cf94df222767604c90d4c84cd7759cb09b3f76875d13892a5b5723a72082",
   "size": 419097
