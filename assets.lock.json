@@ -25572,32 +25572,32 @@
   "size": 1166386
  },
  "art/sickofit-enemies/Generated/drone/clips/attack.mp4": {
-  "sha256": "83741a3b0a17ffa9dda47092b367341e0722345b632e1716193a5fe2ab6df5eb",
-  "size": 172954
+  "sha256": "ff8cbfff9ce484f68cd83ad32c8af3fb2b1842a4e3cd1088fd8026d8338a6f58",
+  "size": 172587
  },
  "art/sickofit-enemies/Generated/drone/clips/die.mp4": {
-  "sha256": "23d24d94e3d89d8d4424045d9526507da398612a18dd1e09aabd516ac3a72981",
-  "size": 287805
+  "sha256": "2683a278242913feba8b3027c2e4a4744cd6e0946f8b4854152249c48727a6b3",
+  "size": 466837
  },
  "art/sickofit-enemies/Generated/drone/clips/hurt.mp4": {
-  "sha256": "7af95f597cdbbd6f8bb7d3658e109b2f0dce7bf62e01d336b578fe4d0f9efb61",
-  "size": 179544
+  "sha256": "499b54fc8bc1595a1f613476cc6aa1d58362cb2a7a73fa767947e7fb8c3da80a",
+  "size": 274237
  },
  "art/sickofit-enemies/Generated/drone/clips/idle.mp4": {
-  "sha256": "8674455184bd93ddbd6ece6af5aaacb49fd6ec5f5bb0db23ed37473715d07161",
-  "size": 276881
+  "sha256": "f0577bdb35330fe29425e3b7a03a95acd363f671c07d7990ad758d3da5963753",
+  "size": 461908
  },
  "art/sickofit-enemies/Generated/drone/poses/dead.png": {
-  "sha256": "e6800103a6dd8735813e1d76f5a0931f754c634dde96b506867e5e3770374734",
-  "size": 1068941
+  "sha256": "a3f74e64a45a297a576ac9794f2c91f60f50b0a0b67a6fbeaca63af29d19d904",
+  "size": 1003788
  },
  "art/sickofit-enemies/Generated/drone/poses/stand.png": {
-  "sha256": "c7e155c25eb3f5635eaf114ea27ef84917f5fa75d5cd5bfaf7d22352fff85484",
-  "size": 912412
+  "sha256": "65354675b4d188e69d7d8ec57b5d75264351bae16f29ab5fe35d57df46c8b4cb",
+  "size": 820245
  },
  "art/sickofit-enemies/Generated/drone/poses/struck.png": {
-  "sha256": "8df070d74eeaa23e486cfe88ec1bdbbe5fa4f3677c3c0ab4357c6d5b93d57ff5",
-  "size": 1015039
+  "sha256": "96051ca08744a83cefde1c3797002b0f2801420eed3fedf76b52bf91bc04fbdf",
+  "size": 963197
  },
  "art/sickofit-enemies/Generated/emberMine/clips/idle.mp4": {
   "sha256": "3254cf94df222767604c90d4c84cd7759cb09b3f76875d13892a5b5723a72082",
