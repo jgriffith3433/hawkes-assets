@@ -25595,6 +25595,34 @@
   "sha256": "27070f6a0d551369c41764d2db3e748de16c079e9aaed835d347ad6ba15e1bb7",
   "size": 911666
  },
+ "art/sickofit-enemies/Generated/haloImp/clips/attack.mp4": {
+  "sha256": "623326f47604580d973be06cee9aa40dded29855c66d8705819b9cc53862c699",
+  "size": 381614
+ },
+ "art/sickofit-enemies/Generated/haloImp/clips/die.mp4": {
+  "sha256": "ef8e2048e61e66a9e099bcf83ad2a108a7605ad6620a818790df6cba494ae03a",
+  "size": 361753
+ },
+ "art/sickofit-enemies/Generated/haloImp/clips/hurt.mp4": {
+  "sha256": "c728fbc9f2c5906c8b5f58676ef8c74cba5d9a2670821c42fb7da0b5744423c7",
+  "size": 208088
+ },
+ "art/sickofit-enemies/Generated/haloImp/clips/idle.mp4": {
+  "sha256": "cded2ce151aa3a9ed980f0bef0699168f4ba6b9d6ceaced7081f034b17f26214",
+  "size": 443226
+ },
+ "art/sickofit-enemies/Generated/haloImp/poses/dead.png": {
+  "sha256": "5ad5c17e117762f1c1e08ba563980782a5b4492b65ec2d95296fcf4806c0bf12",
+  "size": 1090447
+ },
+ "art/sickofit-enemies/Generated/haloImp/poses/stand.png": {
+  "sha256": "9b4ba224126940c581b11842374684cf7dc9ae4f56b075fc539a114d8c5eaa83",
+  "size": 1037783
+ },
+ "art/sickofit-enemies/Generated/haloImp/poses/struck.png": {
+  "sha256": "fd85eb3db89c3806cb0242e0bf56fb41f41259fa9ff6f35b4f601e952982450a",
+  "size": 1112665
+ },
  "art/sickofit-enemies/Generated/haloShot/clips/idle.mp4": {
   "sha256": "baf99ee8a10027118be2115e8dee046f2fb3ddc47edbf7f08737c41d802ea2cc",
   "size": 678336
