@@ -25420,32 +25420,32 @@
   "size": 884822
  },
  "art/sickofit-enemies/Generated/cinderThatch/clips/die.mp4": {
-  "sha256": "f01fa7f09ff571c15a7ab2743ef3e99af7e4f734e5a5916b99fb679a44e58a4f",
-  "size": 377307
+  "sha256": "a46a8cccf216532280564f574fbe4146507abf447bc6bbc866ec732c1b3fcbdb",
+  "size": 459102
  },
  "art/sickofit-enemies/Generated/cinderThatch/clips/hurt.mp4": {
-  "sha256": "b832c9d15373935163b21f77fc1555696d067ed7e0a8b790f36751a5474e7f2f",
-  "size": 321550
+  "sha256": "93e9f9dac57c019a82effe05f11b094ea7b6eb9d96337de79835b5ad40c629cb",
+  "size": 498558
  },
  "art/sickofit-enemies/Generated/cinderThatch/clips/idle.mp4": {
-  "sha256": "097ef880ce77ee61f070f61530089a280a9665d278769f23cc31bbbc370f402a",
-  "size": 505633
+  "sha256": "57bd4d11cd124ec922f9c1c292e4bc0922f53e019b9bdb9e44334814679ca9a4",
+  "size": 462854
  },
  "art/sickofit-enemies/Generated/cinderThatch/clips/move.mp4": {
-  "sha256": "69512658f889b77f42eb394dcd401f22007a7b72657819e8a6dd6f74aa167053",
-  "size": 287545
+  "sha256": "1c2f6159223cb9c46dc2ecc3d9c55e1ebe33101eb22df4c25b4a638185b4c30c",
+  "size": 328347
  },
  "art/sickofit-enemies/Generated/cinderThatch/poses/dead.png": {
-  "sha256": "353e3d06cf9fb3c3fe0f61e6a1f0f5ed6f9e71b259c4cc75ee4480780325d723",
-  "size": 1135185
+  "sha256": "53af9c5c6496440abf82f0024760e34233cd61a9a0cc954a494c12b38e92d420",
+  "size": 1178060
  },
  "art/sickofit-enemies/Generated/cinderThatch/poses/stand.png": {
-  "sha256": "12e19c3c2333aadbe4711c92365802df75498b6996c2760326de6a219ebf933b",
-  "size": 1108272
+  "sha256": "207e1e337ced4ad1c6ff637a4dc57348fe9c644ce6269f4a7eb3a52e9b6d06f0",
+  "size": 1051983
  },
  "art/sickofit-enemies/Generated/cinderThatch/poses/struck.png": {
-  "sha256": "97568a6afb6837da1caf6b394163784b88d5c7d57d63aee2240dbfd3932c598d",
-  "size": 1152597
+  "sha256": "aa9d068f7e84fb26e2d6fdfc816548b9c9588d03c76f6e9460e349f9ca45bb75",
+  "size": 1178699
  },
  "art/sickofit-enemies/Generated/coronaImp/clips/attack.mp4": {
   "sha256": "1c861dc92b27dbc4f9faeb2c761f11199653641f82f5475259ca464edf50fb0e",
