@@ -24875,6 +24875,34 @@
   "sha256": "deded07d66f093c7723534087fe9abb091de86d0f00fe1e258c771e546fc3754",
   "size": 321673
  },
+ "art/sickofit-enemies/Generated/afterimage/clips/die.mp4": {
+  "sha256": "e99207e7987a0d8855320764395eadec8a52d543c4c2449564f6e3830da9d770",
+  "size": 323735
+ },
+ "art/sickofit-enemies/Generated/afterimage/clips/hurt.mp4": {
+  "sha256": "06eda745d1b30c331db5def727334ff4d908d1105fefc0a84add10e4e6675218",
+  "size": 211773
+ },
+ "art/sickofit-enemies/Generated/afterimage/clips/idle.mp4": {
+  "sha256": "2260e5d5ef2252b8b58b02d6eb5ea208e1889f1a106c925151990947a8206f78",
+  "size": 316288
+ },
+ "art/sickofit-enemies/Generated/afterimage/clips/move.mp4": {
+  "sha256": "1cec5df5a1a369721b6b977555b0a171a61bd7ae2d736e72829e26eec8adebb5",
+  "size": 226460
+ },
+ "art/sickofit-enemies/Generated/afterimage/poses/dead.png": {
+  "sha256": "fa34ff4944a66f3d03f9116a0f64a3f401742cce2c100cd3f117d066f0f10a8b",
+  "size": 1013207
+ },
+ "art/sickofit-enemies/Generated/afterimage/poses/stand.png": {
+  "sha256": "15e4c67e3655aaea259d1188ac23ea0c16f2e9fb6dfaf3a6c89810e45d6831bc",
+  "size": 944908
+ },
+ "art/sickofit-enemies/Generated/afterimage/poses/struck.png": {
+  "sha256": "e31d5c11de82b163e1f31fa9f50a8e520dcd8e83f2e2b5bd4c30cfdec9912ccb",
+  "size": 1020184
+ },
  "art/sickofit-enemies/Generated/alphaHound/clips/attack.mp4": {
   "sha256": "d9deac31da5e4840140bc51b3a065b6b53cf5ed0be1b4bf622619fadc36f8630",
   "size": 536856
@@ -25838,6 +25866,82 @@
  "art/sickofit-enemies/Generated/hero/poses/death-squashed.png": {
   "sha256": "ee50b785d41526e157bf8701cd43ddabe469b1858b8c4ab69873b990e20d04b5",
   "size": 654082
+ },
+ "art/sickofit-enemies/Generated/hero/poses/grapple-aim.png": {
+  "sha256": "bf02fb86474be0351b4ca77206120dd7b38706c4921989634086c5d34559f57f",
+  "size": 524354
+ },
+ "art/sickofit-enemies/Generated/hero/poses/grapple-hang.png": {
+  "sha256": "cef278d68b8d27f4d5604fa2654308f77f504a17b85b831b27f907cf56132b0d",
+  "size": 538085
+ },
+ "art/sickofit-enemies/Generated/hero/poses/graze-spin.png": {
+  "sha256": "a94a9a2b62b90bc7aaacf3b784784f03fb6d537f0b1d2b43fb34522a81d51383",
+  "size": 533202
+ },
+ "art/sickofit-enemies/Generated/hero/poses/hook-fists.png": {
+  "sha256": "2e7578f32178a9d8fdb7f011d9536e283600d472e9f6d9dfccb87e73ad72674a",
+  "size": 691872
+ },
+ "art/sickofit-enemies/Generated/hero/poses/hurt-recoil.png": {
+  "sha256": "a6170914e2c365fc014c5ec917eb0e656a5b2e1c7ec7a4e9ee60ba6942d8c395",
+  "size": 564517
+ },
+ "art/sickofit-enemies/Generated/hero/poses/jab-fists.png": {
+  "sha256": "3b7500aa080847da7af9ab287948a8b3ec1a0dabe59974926a52af9290dc74fb",
+  "size": 604580
+ },
+ "art/sickofit-enemies/Generated/hero/poses/land-halo.png": {
+  "sha256": "f4ca029721e751c5109c4bafe1d03d368d049db458cf061b2aa35d260a7b036e",
+  "size": 634110
+ },
+ "art/sickofit-enemies/Generated/hero/poses/land-ladle.png": {
+  "sha256": "aa9d2e56a5d24cabf00aa41649dff82eb257b573ff1fb06278a2e405057090fb",
+  "size": 725855
+ },
+ "art/sickofit-enemies/Generated/hero/poses/land-pistol.png": {
+  "sha256": "b4bc4609f287c02b4dfdcdf8c5c86340038b83a04be0c67b682c014e6ddf63cf",
+  "size": 653779
+ },
+ "art/sickofit-enemies/Generated/hero/poses/land-shotgun.png": {
+  "sha256": "b0f3cfc2276f3ef5246e0c1b49ead7a4419f1de4abf0226faa9a0310fbfba1da",
+  "size": 680478
+ },
+ "art/sickofit-enemies/Generated/hero/poses/land-spitfire.png": {
+  "sha256": "f9eec4d16841fa75c6477eabad0882b61d557f21dca21a40c097322c074544b2",
+  "size": 702485
+ },
+ "art/sickofit-enemies/Generated/hero/poses/land-unarmed.png": {
+  "sha256": "f6258f555659ceb9ef341fba3b2d1eea122bd62d278d6ab8baaf8d3e91475833",
+  "size": 632417
+ },
+ "art/sickofit-enemies/Generated/hero/poses/land-whip.png": {
+  "sha256": "7fbe1a4f70c5cbec72139f2dec4849d30583ab2e7f56b868e4341e16c0be76fd",
+  "size": 678595
+ },
+ "art/sickofit-enemies/Generated/hero/poses/lash-whip.png": {
+  "sha256": "77f0b5e68f1b7b38a3c3c6de3a7764ccfd0525bcea927506937586d7c708a474",
+  "size": 726098
+ },
+ "art/sickofit-enemies/Generated/hero/poses/launched-spin.png": {
+  "sha256": "b47f3a6198cded2e9a79b8784206fd28660fcd48934ca214e9a32c8085d69431",
+  "size": 554295
+ },
+ "art/sickofit-enemies/Generated/hero/poses/launcher-air.png": {
+  "sha256": "d35056e323d849dc66dcaafc83c5bea6c0a68c5d0f5c1da292c193c535b69224",
+  "size": 731134
+ },
+ "art/sickofit-enemies/Generated/hero/poses/launcher-land.png": {
+  "sha256": "a09150364661928906ff7e3514e234c0bf296faa53722eaa4b805c3d18201da7",
+  "size": 708994
+ },
+ "art/sickofit-enemies/Generated/hero/poses/run-lash.png": {
+  "sha256": "fbeaa556971d21d6513e2865074144772c84c4d9be4a3aa168e0ed714de9b23f",
+  "size": 736714
+ },
+ "art/sickofit-enemies/Generated/hero/poses/run-punch.png": {
+  "sha256": "d2218eddbbf7cc59219473e8813d9ecf7d622c7a5573804f5eae99f665687d3c",
+  "size": 649340
  },
  "art/sickofit-enemies/Generated/hidingSoul/clips/hiccup.mp4": {
   "sha256": "d3368f4bc503586c563af988db5531a5f4884910489a5a42b19e77a6065c699d",
