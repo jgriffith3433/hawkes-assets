@@ -25667,6 +25667,10 @@
   "sha256": "27070f6a0d551369c41764d2db3e748de16c079e9aaed835d347ad6ba15e1bb7",
   "size": 911666
  },
+ "art/sickofit-enemies/Generated/gunner/poses/dead.png": {
+  "sha256": "826e5cbb4e92a8e1218140406a1056eef37c50b797baa7348c158b89f30086f8",
+  "size": 1220983
+ },
  "art/sickofit-enemies/Generated/haloImp/clips/attack.mp4": {
   "sha256": "623326f47604580d973be06cee9aa40dded29855c66d8705819b9cc53862c699",
   "size": 381614
