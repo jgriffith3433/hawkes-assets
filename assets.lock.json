@@ -26659,6 +26659,10 @@
   "sha256": "8a7d8e0e8fd6c93e5a20c24e466756e8b2fdcd0bf73296c6064c3f6d13237fcb",
   "size": 1184195
  },
+ "art/sickofit-enemies/Generated/quickfireImp/poses/dead.png": {
+  "sha256": "ac2660640bc2eb057ee6431bc5ea0e12271706bba53ff0cbaa0b71598fe08d2e",
+  "size": 1111460
+ },
  "art/sickofit-enemies/Generated/ricochetPistolPickup/clips/idle.mp4": {
   "sha256": "9f58b0d3f9f0cbc4fade4742750161fc41f718097a6694543a0faff81766eb07",
   "size": 590038
