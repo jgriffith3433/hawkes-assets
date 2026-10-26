@@ -25755,6 +25755,26 @@
   "sha256": "fb264307f68e6db75f4c717d71bc89ffec48ca86c7ecf7a2251f5522316a0441",
   "size": 952495
  },
+ "art/sickofit-enemies/Generated/hero/poses/air-halo.png": {
+  "sha256": "870ec3c5e059c90ef460d848dfb6aba73dd23013a99d7ff8712bcb3629ce3a40",
+  "size": 642538
+ },
+ "art/sickofit-enemies/Generated/hero/poses/air-ladle.png": {
+  "sha256": "3248e757095c271f1cac492fad405fdbdfb99b042e70fe84e3df6893bf56bf74",
+  "size": 644593
+ },
+ "art/sickofit-enemies/Generated/hero/poses/air-lash.png": {
+  "sha256": "e0c0044057d2276f1ed9ff8241995ac249ba8543dcb35d7ac950ebdff8829f0f",
+  "size": 673287
+ },
+ "art/sickofit-enemies/Generated/hero/poses/air-pistol.png": {
+  "sha256": "377b0b20da003eb82c084e7600358969c1968fcef8656f0c375312b4c40eba05",
+  "size": 607671
+ },
+ "art/sickofit-enemies/Generated/hero/poses/air-punch.png": {
+  "sha256": "d791483f8baf89445c4636282785eca8cae23cfba60990e9d9e3f89a57c55a8f",
+  "size": 617690
+ },
  "art/sickofit-enemies/Generated/hidingSoul/clips/hiccup.mp4": {
   "sha256": "d3368f4bc503586c563af988db5531a5f4884910489a5a42b19e77a6065c699d",
   "size": 292631
