@@ -27299,6 +27299,34 @@
   "sha256": "f7497493106074b7269217b1d57f8083e041815eefaec046f0aa0fa26e6a57d5",
   "size": 1079080
  },
+ "art/sickofit-enemies/Generated/spinner/clips/attack.mp4": {
+  "sha256": "b5903fe0599807493b7486ecb15c6aa88904966daf3558522c769abddd158c41",
+  "size": 532111
+ },
+ "art/sickofit-enemies/Generated/spinner/clips/die.mp4": {
+  "sha256": "3bcdefde3979834d356672eddb9c06e6ad7040a813c03b5dbbd44a54424c196c",
+  "size": 433309
+ },
+ "art/sickofit-enemies/Generated/spinner/clips/hurt.mp4": {
+  "sha256": "1ad6c1957dfc76e814c53ad1520687c39546d0f05677080a264e92ebbc5e5549",
+  "size": 336116
+ },
+ "art/sickofit-enemies/Generated/spinner/clips/idle.mp4": {
+  "sha256": "0b18329eaf008192431c5565748e0e0094a53c22249594f21cf32fe8a4dfa0dc",
+  "size": 356233
+ },
+ "art/sickofit-enemies/Generated/spinner/poses/dead.png": {
+  "sha256": "ee71c37c0af26403d70cd65620e1bbc47ec1f62848f2f5dfbcf258c61aa556cf",
+  "size": 1180642
+ },
+ "art/sickofit-enemies/Generated/spinner/poses/stand.png": {
+  "sha256": "da4b4c5c94f3e55c03ab6c1b842322e831ddd3c6c91e59c915bc5dc75254f865",
+  "size": 1070438
+ },
+ "art/sickofit-enemies/Generated/spinner/poses/struck.png": {
+  "sha256": "b30876fef3b986f0bf2376eabb4502ac385d17ab8522a364f0a4fa84ca9f2194",
+  "size": 1189656
+ },
  "art/sickofit-enemies/Generated/spireFiend/clips/die.mp4": {
   "sha256": "eb60ec19cded71dbdc4d2014b28dba82d5d336decab2e48b839cfad028258485",
   "size": 554210
