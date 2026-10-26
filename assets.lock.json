@@ -25919,6 +25919,162 @@
   "sha256": "301bc2b52dfbcf1d9b57b5f53e6e4e54ebfcaedcdcb3486df23e91012fabb634",
   "size": 179143
  },
+ "art/sickofit-enemies/Generated/hero/clips/grapple-throw.mp4": {
+  "sha256": "3b504bd62273951f9583b4a9c2879c4a02c4709ab8584672b5579b4e33f22f4d",
+  "size": 183715
+ },
+ "art/sickofit-enemies/Generated/hero/clips/graze.mp4": {
+  "sha256": "497b48957c4b8c7b500c9110039df65eb660430b9e2c6cf0d964cabe6ca595b4",
+  "size": 158064
+ },
+ "art/sickofit-enemies/Generated/hero/clips/hurt.mp4": {
+  "sha256": "d1fec078e948f9ce7f73af0dd518b461d571f11dbca182c58e1b05ae2bc1f521",
+  "size": 211894
+ },
+ "art/sickofit-enemies/Generated/hero/clips/land.mp4": {
+  "sha256": "c8ea33ca5580faae3c1ef9d726763e6d0e519912a887f3c7995ec562b44f499e",
+  "size": 311023
+ },
+ "art/sickofit-enemies/Generated/hero/clips/launcher-away.mp4": {
+  "sha256": "a11ec989caa765c5e67e8f4409b10119747b9308e41a92ca168a11fe0104fe80",
+  "size": 720540
+ },
+ "art/sickofit-enemies/Generated/hero/clips/punch1.mp4": {
+  "sha256": "560ce0d864773d6abd8f2406898ea3526be8baf9c681974732f5c17043eb36f5",
+  "size": 160148
+ },
+ "art/sickofit-enemies/Generated/hero/clips/punch2.mp4": {
+  "sha256": "c617897e3eb5ea7c463ac2dbb72b2b633bd81460eceb45f6aff0ce2514efe68b",
+  "size": 186440
+ },
+ "art/sickofit-enemies/Generated/hero/clips/punch3.mp4": {
+  "sha256": "49cbf039a2ce7d500115af448dfdaf94336aaadcb177f1e2ff5f1b1dd5031d53",
+  "size": 262734
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-air-attack.mp4": {
+  "sha256": "267a27c2031fb4da6a8e98456fa0426bcec8ee1c706734224120ed0cca2d84a7",
+  "size": 242573
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-attack.mp4": {
+  "sha256": "1532d91daedb53eb995c8a16374cd48a41ed2dc6e8bc722a0f14c66b79f786d3",
+  "size": 1370675
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-equip.mp4": {
+  "sha256": "d77c73ff6b96e265a18c00dcd075804f112d37326b7f719521b2de2211b601b8",
+  "size": 286710
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-fall.mp4": {
+  "sha256": "0e971ea763a8e6d0e7767223ca7957b1caf4b6e7dd0bd5bf8ca176345d8c53e7",
+  "size": 696031
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-idle.mp4": {
+  "sha256": "b96721013cc0b37dff38b13a524ac72fb026b7081a4a06d05b5999eac70a0ee0",
+  "size": 855352
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-jump.mp4": {
+  "sha256": "1c416d6a96134ada4a94ba68c2b2b57da9fb5906bc3dd537001c08a9845816b0",
+  "size": 1473783
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-land.mp4": {
+  "sha256": "85601241e63e759031125767abb7a3a1fc08d3597a63fa6ceb5171009f4aee65",
+  "size": 247073
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-run-attack.mp4": {
+  "sha256": "393f1e0a20ef8e322c11ad7a4b37d6531c90cb68d4ebf05d6fc1f223841f8769",
+  "size": 2096076
+ },
+ "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-run.mp4": {
+  "sha256": "5833b323b608386f559ce01a00a2683c2f5d1afa441464bb7969f7cbbf1936fc",
+  "size": 2107542
+ },
+ "art/sickofit-enemies/Generated/hero/clips/run-fire.mp4": {
+  "sha256": "c81574897910344d9e122653c8377324e3616caab2d20391b4e268af46a944e7",
+  "size": 3250274
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-air-attack.mp4": {
+  "sha256": "494707a80086595240b7e2ba6d93e35b13e5375b72e7eb9118f51fc4cc8b60bb",
+  "size": 394007
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-attack.mp4": {
+  "sha256": "df31902e8b94cc4069ab6b8b6eb3809177bcd8b043d712ceb05266994056dcc8",
+  "size": 2036323
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-equip.mp4": {
+  "sha256": "742be5a0c43eb5db037fe8183cefbae2e637d6bd305a7a80109501a66b1de6c2",
+  "size": 351026
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-fall.mp4": {
+  "sha256": "b18846d3d5eaf23a61db4b1ce3453b02d5a7038abae9ad2dcfb26531263be54d",
+  "size": 742757
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-idle.mp4": {
+  "sha256": "249ca7c1ad8e40dfa02cbadc8b933c3fb4056f9d3d5871d81d598190a0091f3d",
+  "size": 1222412
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-jump.mp4": {
+  "sha256": "d31e85ef150fe0cedd75ee6989c396e7a23f51c1171085503575a3ad7c01296b",
+  "size": 1780482
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-land.mp4": {
+  "sha256": "9121efaf196a8fc861f051ad78a6ef1e2e4b301cfbbfd8cce448a31ddfb9d227",
+  "size": 267225
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-run-attack.mp4": {
+  "sha256": "f7162dcc5e9d052ce721500059290356fe226e4d2d2531bbde8c3b456401edab",
+  "size": 2913622
+ },
+ "art/sickofit-enemies/Generated/hero/clips/shotgun-run.mp4": {
+  "sha256": "3bcacce54b0cb527d7aa0616519932fc0e557dd6b3269714e8f9db39329844ce",
+  "size": 2519253
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-air-attack.mp4": {
+  "sha256": "583f7c8784b39fc288819b6b4b455b36725cffee87841e9c3e4744e6054e56ac",
+  "size": 350548
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-attack.mp4": {
+  "sha256": "0dcdddc929e9911ed2b3984f5430b9bc13a2176e6633b57e4c2866c780a6ce38",
+  "size": 1855917
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-equip.mp4": {
+  "sha256": "0f8682a0adcfb842f8d11f537222eb0c799206a8de8898b6ba0096c7a469c22a",
+  "size": 348122
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-fall.mp4": {
+  "sha256": "37dda81b750b4b961726d067da3b0d0a9f3753a0f0f39beff07c69b309a6c2cf",
+  "size": 508417
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-idle.mp4": {
+  "sha256": "0512f7b912ab302648ae47ee7380f3e4b0f51c2d45592bcc4740228a0d8ea54f",
+  "size": 1135520
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-jump.mp4": {
+  "sha256": "eb5694ad1b6a6da2fa429a5cae3e5949e9f522c1994c6d096a68ca5c183c578a",
+  "size": 1794634
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-land.mp4": {
+  "sha256": "727ca5e4d7387934be3979dfecc2940b115ebcd727d38d9ea3a52f2eee4f13d9",
+  "size": 261434
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-run-attack.mp4": {
+  "sha256": "03b3196febad6b779ce4add9d9fbd6e202c71d9baaaec77a0f9c2996dcff219d",
+  "size": 2390378
+ },
+ "art/sickofit-enemies/Generated/hero/clips/slag-ladle-run.mp4": {
+  "sha256": "aeaec6c343f5d00c6f49f9cd01a7761f391919b9c62a80553f027f20c0fb58ee",
+  "size": 2337306
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-air-attack.mp4": {
+  "sha256": "29e10cca296a8ca5dcdcbce733ae97ce9203b0349d22d2b73e2697b3ed91f63e",
+  "size": 330655
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-attack.mp4": {
+  "sha256": "0a71bb52e503630773eff52b9a960331be779204aa00c2672f77c3c0168e8d45",
+  "size": 2291607
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-equip.mp4": {
+  "sha256": "87e82527c2d1dcb9c3db6075acc052df445c748d092908728830b73e6c812b55",
+  "size": 331677
+ },
  "art/sickofit-enemies/Generated/hero/poses/air-halo.png": {
   "sha256": "870ec3c5e059c90ef460d848dfb6aba73dd23013a99d7ff8712bcb3629ce3a40",
   "size": 642538
