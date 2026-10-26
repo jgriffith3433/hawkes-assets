@@ -27275,6 +27275,10 @@
   "sha256": "e4a0c182f1c348e902be5bf564275b2e37be2e0cc2a09765e7818b127330e8e5",
   "size": 1031537
  },
+ "art/sickofit-enemies/Generated/sprayer/poses/dead.png": {
+  "sha256": "d4a3fe32e4250702aace56b5bb76a3c30dc57647f92acbcb17742f1b5b4d59eb",
+  "size": 1142691
+ },
  "art/sickofit-enemies/Generated/tripleLobber/clips/attack.mp4": {
   "sha256": "f54caad4279e384b8cfac0ceea6b01fd04403c1ca62288aaaab4f69e1ea4a08f",
   "size": 541573
