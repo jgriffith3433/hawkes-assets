@@ -28100,36 +28100,36 @@
   "size": 1298525
  },
  "art/sickofit-enemies/Generated/watcher/clips/attack.mp4": {
-  "sha256": "83eddd0d97bfd93acd1df1a69206ce21830c3e79c5f4f8b6c0ebeb9617a48ec6",
-  "size": 323886
+  "sha256": "4b9f28807df5837ebb5ddc222127b5232415f6b5cf805950f4aa7f7169ece43d",
+  "size": 352169
  },
  "art/sickofit-enemies/Generated/watcher/clips/die.mp4": {
-  "sha256": "9da402b53e37a5fba72309cbe72da948071a9155229f22c03530194a39327474",
-  "size": 255750
+  "sha256": "48a6259f14bf620c3cb4a0dcafc5c3f06bd74051eb16494f4d64594bf1273a36",
+  "size": 359705
  },
  "art/sickofit-enemies/Generated/watcher/clips/hurt.mp4": {
-  "sha256": "db25ed1076ccb1e2c5e529706ec0bc9a0966d1301e048c6f0a247e35f40624f8",
-  "size": 186025
+  "sha256": "32b472369319ed578bb92e9d2a4f6aea448d04db4f9362808389eb049f7e1915",
+  "size": 183894
  },
  "art/sickofit-enemies/Generated/watcher/clips/idle.mp4": {
-  "sha256": "ba218ecfd66021b0d35a9d75cd466b960195b600de63c8e1f2c96cb6066cf4d2",
-  "size": 293603
+  "sha256": "f3557d2ec48f1f838d464cbed0f2cbe4396c586d161e45b9938b76c884a3e013",
+  "size": 356012
  },
  "art/sickofit-enemies/Generated/watcher/poses/dead.png": {
-  "sha256": "69245114ef2e5365bbf4cdd320fa51b6bb792960633e8cd40859e8b1d72097d0",
-  "size": 1099305
+  "sha256": "b2e4301d98ce483983e6eace98b5a889b2f45b58ebcc95869e1a0fcf7dbe139d",
+  "size": 1098778
  },
  "art/sickofit-enemies/Generated/watcher/poses/shut.png": {
-  "sha256": "d63497a71b9c808382f5608e994a0cf2218d735a0ca9bbd04cdc311cc16e1bfe",
-  "size": 1020232
+  "sha256": "b610cd4516e22358b4cccc400ea093fccd5566c13376eb56eb78a6be7782dde0",
+  "size": 1053309
  },
  "art/sickofit-enemies/Generated/watcher/poses/stand.png": {
-  "sha256": "885ac2dd797c8f5e89e73ede549e9ad44e8ee3eb040fa207f4fc440bd72c192a",
-  "size": 1007048
+  "sha256": "932f35e1d3921e6974ba1962e98638651bc85642abefe2fc2aed3c96e9f89ae1",
+  "size": 1028209
  },
  "art/sickofit-enemies/Generated/watcher/poses/struck.png": {
-  "sha256": "3703a2c1ea78b647b81b9095cc611953503abc1abaa90928ac67dd7a47b788e0",
-  "size": 976303
+  "sha256": "c577388727995b859388db30ea9bce5eac93ff8947406213996ab8a574a89857",
+  "size": 1050273
  },
  "art/sickofit-enemies/Generated/whelpNest/clips/die.mp4": {
   "sha256": "9d0b47c4de6b879aff954ad4e1418914640be96f85c33c516f83d77e90f4d533",
