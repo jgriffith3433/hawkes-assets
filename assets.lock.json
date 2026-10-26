@@ -25775,6 +25775,70 @@
   "sha256": "d791483f8baf89445c4636282785eca8cae23cfba60990e9d9e3f89a57c55a8f",
   "size": 617690
  },
+ "art/sickofit-enemies/Generated/hero/poses/air-shotgun.png": {
+  "sha256": "e9e175eac79d2a84236846eadd1763ffa1efc57d3b75d9e66675aa1546aa69df",
+  "size": 637746
+ },
+ "art/sickofit-enemies/Generated/hero/poses/air-spitfire.png": {
+  "sha256": "39e72bc99222b7e58cc734e9b3618c6bd80c3f611b021f17a108db2081e0aef4",
+  "size": 674592
+ },
+ "art/sickofit-enemies/Generated/hero/poses/air-unarmed.png": {
+  "sha256": "1a846b2203ac02f82955beeb57b7355b854fb2cc634903a1535527d003003497",
+  "size": 613036
+ },
+ "art/sickofit-enemies/Generated/hero/poses/air-whip.png": {
+  "sha256": "cdc9b4b6f690bdb03d851ba9fab071fa5a8f4510d53d3344418add53d37bac58",
+  "size": 621405
+ },
+ "art/sickofit-enemies/Generated/hero/poses/carry-halo.png": {
+  "sha256": "4577fbe3e87b682502c9a01390947c54147debad7f7b0d5335b74c74a91b2a8a",
+  "size": 723093
+ },
+ "art/sickofit-enemies/Generated/hero/poses/carry-ladle.png": {
+  "sha256": "c23203dc834aea0199e910459f716b6c38c1549e98e331d52a0b9e59050c5f15",
+  "size": 600851
+ },
+ "art/sickofit-enemies/Generated/hero/poses/carry-pistol.png": {
+  "sha256": "8eb3a4ad7cf5546aedcae159f48fb01207fc48636e163db22bbde49f545cdd4a",
+  "size": 610167
+ },
+ "art/sickofit-enemies/Generated/hero/poses/carry-shotgun.png": {
+  "sha256": "c44e1f516a5c24db9d2bc19d212c3719300d66ccc7715bd9c1b748f74b3667b9",
+  "size": 480488
+ },
+ "art/sickofit-enemies/Generated/hero/poses/carry-spitfire.png": {
+  "sha256": "c123d5dd8d59bf47f43a80bf0e2c751bcc3c419d936249d9e484771575d08ef1",
+  "size": 633122
+ },
+ "art/sickofit-enemies/Generated/hero/poses/carry-unarmed.png": {
+  "sha256": "f1c59a1f3ac9abf309b42d718c06e5659af73b09e19c8263e142c5096bb5591c",
+  "size": 639036
+ },
+ "art/sickofit-enemies/Generated/hero/poses/carry-whip.png": {
+  "sha256": "c1611b6603a5caa3ffef5369d74a3f8e75976b4bed3be55f5d391c383f87dd14",
+  "size": 738995
+ },
+ "art/sickofit-enemies/Generated/hero/poses/crack-whip.png": {
+  "sha256": "b0ade8981cdf050ff82f029fc0fa50bafd00f2b54af2fa349b5c51123b1bb66a",
+  "size": 694865
+ },
+ "art/sickofit-enemies/Generated/hero/poses/cross-fists.png": {
+  "sha256": "c661c74248addbd5820713eaeb0cc690a4ae2bbf996f895a9606e6ed89e7e336",
+  "size": 580538
+ },
+ "art/sickofit-enemies/Generated/hero/poses/dash-lean.png": {
+  "sha256": "5ed8c5ed3f9bd1cb11e719e658d24168c791a5c645c50d8cfb1c55fa82f5137c",
+  "size": 633371
+ },
+ "art/sickofit-enemies/Generated/hero/poses/death-burnt.png": {
+  "sha256": "8c835e0f539258718e09f315bff7845d523f21f484675a5f0894e23cc9c6d41f",
+  "size": 673941
+ },
+ "art/sickofit-enemies/Generated/hero/poses/death-squashed.png": {
+  "sha256": "ee50b785d41526e157bf8701cd43ddabe469b1858b8c4ab69873b990e20d04b5",
+  "size": 654082
+ },
  "art/sickofit-enemies/Generated/hidingSoul/clips/hiccup.mp4": {
   "sha256": "d3368f4bc503586c563af988db5531a5f4884910489a5a42b19e77a6065c699d",
   "size": 292631
