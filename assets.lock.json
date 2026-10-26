@@ -25667,9 +25667,33 @@
   "sha256": "27070f6a0d551369c41764d2db3e748de16c079e9aaed835d347ad6ba15e1bb7",
   "size": 911666
  },
+ "art/sickofit-enemies/Generated/gunner/clips/attack.mp4": {
+  "sha256": "707d1c1fa30e66d04db35ab359b58700c4c58ed4e30aa975311134c029173f38",
+  "size": 392457
+ },
+ "art/sickofit-enemies/Generated/gunner/clips/die.mp4": {
+  "sha256": "e9d4099b139b5c81c454fbe3824333b49d528431a81b276806df8d53bbf70e99",
+  "size": 424641
+ },
+ "art/sickofit-enemies/Generated/gunner/clips/hurt.mp4": {
+  "sha256": "805fa864d7db1dc063f53593521082f1d8d4cd143ee83cec1662f534c82f1118",
+  "size": 324123
+ },
+ "art/sickofit-enemies/Generated/gunner/clips/idle.mp4": {
+  "sha256": "5cd39187206074b5e29be4d2f50e6186c2b2fc60a476aeacf26f215ab79a51d1",
+  "size": 402414
+ },
  "art/sickofit-enemies/Generated/gunner/poses/dead.png": {
   "sha256": "826e5cbb4e92a8e1218140406a1056eef37c50b797baa7348c158b89f30086f8",
   "size": 1220983
+ },
+ "art/sickofit-enemies/Generated/gunner/poses/stand.png": {
+  "sha256": "9383e49bb3633da78300c3ac3179894df19f699a2bea3d01ec7b75aa1282a591",
+  "size": 1117943
+ },
+ "art/sickofit-enemies/Generated/gunner/poses/struck.png": {
+  "sha256": "95ecaccdcc8cfcc6411e52a1ccee2bba6d294a73f2e819aa9161e0b84ba571d5",
+  "size": 1244887
  },
  "art/sickofit-enemies/Generated/haloImp/clips/attack.mp4": {
   "sha256": "623326f47604580d973be06cee9aa40dded29855c66d8705819b9cc53862c699",
