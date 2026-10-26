@@ -25783,6 +25783,142 @@
   "sha256": "fb264307f68e6db75f4c717d71bc89ffec48ca86c7ecf7a2251f5522316a0441",
   "size": 952495
  },
+ "art/sickofit-enemies/Generated/hero/clips/air-fire.mp4": {
+  "sha256": "7a7e7d344a1227fadeaf80266601b4f0d37b1bd8b34bf1647f51030b35657ac3",
+  "size": 314463
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-air-attack.mp4": {
+  "sha256": "28c8095354f81a00ac0948a1047483f6fccd62cf735fe1821483e6c265acc9f6",
+  "size": 190186
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-attack.mp4": {
+  "sha256": "ed41e2b7f61e5a14536c28cdbca31b1bed99b3abb41ca685906ac4db94b0273e",
+  "size": 255606
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-equip.mp4": {
+  "sha256": "7fda397226535afa51523bc77841e34944a347a2dd625b2c0b68b17e86a91fd0",
+  "size": 402639
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-fall.mp4": {
+  "sha256": "fd2d2c667dd379e4b6bcd92ba7ca634832c1e162b42c990b577002bca0a43771",
+  "size": 933675
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-idle.mp4": {
+  "sha256": "deb69bc444f9fca72a1e39a22c9634144979604f1217d30168f463ea7199d257",
+  "size": 1208526
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-jump.mp4": {
+  "sha256": "c78e82227d83b70ee2e30ce2bc8ae8b657f38432ca3cf9db3a6758c2070c0026",
+  "size": 1988919
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-land.mp4": {
+  "sha256": "2cea301f25454f7183565e26fc18f8cfe19aa94dcc046bba49e8d41509438010",
+  "size": 255214
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-run-attack.mp4": {
+  "sha256": "f1143048cba60fba761ddeabc3afbb1f2b754267c0bfdbc37a7f866112e4b2e3",
+  "size": 2711951
+ },
+ "art/sickofit-enemies/Generated/hero/clips/boomerang-halo-run.mp4": {
+  "sha256": "5d0e463d7d99b728ee3f73eaa3249fac1349d44a685e0481eede7217bd931d8d",
+  "size": 2626607
+ },
+ "art/sickofit-enemies/Generated/hero/clips/chain-whip-equip.mp4": {
+  "sha256": "ee28302e6d67ddc3378304dd79c17e4aba562fe86dffdbf5e772e990d1f78def",
+  "size": 387308
+ },
+ "art/sickofit-enemies/Generated/hero/clips/chain-whip-fall.mp4": {
+  "sha256": "f9a9cdccc5d72c4b5743179721145c38f5b8ebc60ec38093573305f326def5d8",
+  "size": 879662
+ },
+ "art/sickofit-enemies/Generated/hero/clips/chain-whip-idle.mp4": {
+  "sha256": "c170a9234d4560bfceb2b2c313330ef0d85492637829ebb7179e70aa2b85d728",
+  "size": 1137741
+ },
+ "art/sickofit-enemies/Generated/hero/clips/chain-whip-jump.mp4": {
+  "sha256": "a6ada67343f091607d28c15ed5b7e759ac12ab4a171eb50f1e63bece217cb9e9",
+  "size": 1927435
+ },
+ "art/sickofit-enemies/Generated/hero/clips/chain-whip-land.mp4": {
+  "sha256": "f1ce3ea24c025f1e68303fdf3d9f78f6183c9b5bdecc9b1ae240de0337d841d0",
+  "size": 250408
+ },
+ "art/sickofit-enemies/Generated/hero/clips/chain-whip-run.mp4": {
+  "sha256": "04cc00d67790412fd9b9dfd07f05bfeba334182df8f38c621a9c1de1c70e1ec1",
+  "size": 2448926
+ },
+ "art/sickofit-enemies/Generated/hero/clips/climb-down.mp4": {
+  "sha256": "211d743fb3bd1f47c9fec25ede219cf4787d2c4042da83f8ad7ff0452e45af4f",
+  "size": 600687
+ },
+ "art/sickofit-enemies/Generated/hero/clips/climb-idle.mp4": {
+  "sha256": "9f913a729c7eacca030d4c7720e2c865a75b5a6edfcb51f2766b57c5ec250d8d",
+  "size": 341187
+ },
+ "art/sickofit-enemies/Generated/hero/clips/climb-up.mp4": {
+  "sha256": "da47fc81fcde7a1b9c1638daf6cda8c79426ccb0ef72e9f5da6c795fbee509b8",
+  "size": 700200
+ },
+ "art/sickofit-enemies/Generated/hero/clips/dash.mp4": {
+  "sha256": "28e4410a57fa7eb0c01a498a966184af16f98b104a35b1a3c68390e10f0885bb",
+  "size": 250090
+ },
+ "art/sickofit-enemies/Generated/hero/clips/death-burn.mp4": {
+  "sha256": "7d3f171684e30aed2c11aadd7feebcefb6284bb89add37f08cc8c40f6790a37c",
+  "size": 698958
+ },
+ "art/sickofit-enemies/Generated/hero/clips/death-shrug.mp4": {
+  "sha256": "6c5d027a3bb8f6851a87b668fa910f3c192af0a6863e04285d3c30345271b484",
+  "size": 844258
+ },
+ "art/sickofit-enemies/Generated/hero/clips/death-spin.mp4": {
+  "sha256": "92a4e694319b0a929616359c31f623fd3e6bcd525ffc3ce1a7d9ce8fdeb0b957",
+  "size": 611919
+ },
+ "art/sickofit-enemies/Generated/hero/clips/death-squash.mp4": {
+  "sha256": "ac0c9741ba0c1afc6ca10c59d75f4782d9aba4829057cfa8f5c12d9f0772895d",
+  "size": 603841
+ },
+ "art/sickofit-enemies/Generated/hero/clips/equip-launcher.mp4": {
+  "sha256": "90b17cf818878cf5c3192ff192d9de7e90d69fdf03867e91cd4357c21e242c1f",
+  "size": 407054
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-air-attack.mp4": {
+  "sha256": "61063c2455e018bcced3fad38dbf10c5a706a066973fe1e78a9157d59ea82c7a",
+  "size": 171995
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-equip.mp4": {
+  "sha256": "109d5fd027828d582c829a6f6adad592a9df8f6b05e5bcae4742d8c0933ca3da",
+  "size": 217900
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-fall.mp4": {
+  "sha256": "ccff0f54430428878d6dc9f7e613f31e8dd725d43bd602e3e6eceff6eb873d23",
+  "size": 567251
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-idle.mp4": {
+  "sha256": "6318ab0ff31c84fa79dc1ba1830ef0ec32713069d39ec73b40fe514c3a04d53b",
+  "size": 721626
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-jump.mp4": {
+  "sha256": "78d5402710000472195a3158278e8a046d6795537d849e94510e1867cfa9854d",
+  "size": 1496269
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-land.mp4": {
+  "sha256": "9b6d6df2dc67468fb57ce9526468183a436019f840deb97268ba409f60a9e392",
+  "size": 230427
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-run-attack.mp4": {
+  "sha256": "336e6a100f421d7d853857ab87dbe26eb4681f1a1de8039e280e83db24e11212",
+  "size": 233287
+ },
+ "art/sickofit-enemies/Generated/hero/clips/fists-run.mp4": {
+  "sha256": "5729781978b710a47784d562bc751e5e70d54501857eeacbd416dd79a2970097",
+  "size": 1901862
+ },
+ "art/sickofit-enemies/Generated/hero/clips/grapple-swing.mp4": {
+  "sha256": "301bc2b52dfbcf1d9b57b5f53e6e4e54ebfcaedcdcb3486df23e91012fabb634",
+  "size": 179143
+ },
  "art/sickofit-enemies/Generated/hero/poses/air-halo.png": {
   "sha256": "870ec3c5e059c90ef460d848dfb6aba73dd23013a99d7ff8712bcb3629ce3a40",
   "size": 642538
@@ -25986,6 +26122,14 @@
  "art/sickofit-enemies/Generated/hero/poses/weapon-shotgun.png": {
   "sha256": "c1e6dcb8959342d950a7fe6dc23a01b3f55d083ffe4a9adad66f49537f6f1cc3",
   "size": 945288
+ },
+ "art/sickofit-enemies/Generated/hero/poses/weapon-spitfire.png": {
+  "sha256": "ea05b341dc1ce924006d4f8ce7054596fe2bb93cbd5d220f57a19c0966ff7aad",
+  "size": 1038340
+ },
+ "art/sickofit-enemies/Generated/hero/poses/weapon-whip.png": {
+  "sha256": "b6e59f0fbdaff756fac7900caac43be324fa763974b02406dc0e934050f41573",
+  "size": 917491
  },
  "art/sickofit-enemies/Generated/hidingSoul/clips/hiccup.mp4": {
   "sha256": "d3368f4bc503586c563af988db5531a5f4884910489a5a42b19e77a6065c699d",
