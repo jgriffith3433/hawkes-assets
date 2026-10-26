@@ -25392,32 +25392,32 @@
   "size": 1227860
  },
  "art/sickofit-enemies/Generated/cinderSpark/clips/die.mp4": {
-  "sha256": "72ec0896e30ffe9a5a065779ce1173c72c143f1cc21c109721fed0a0651128fd",
-  "size": 293238
+  "sha256": "2f1c74030cf39ae41511f3d20810eefbd4acc5a743afdd1c5f4424d0dd361978",
+  "size": 413100
  },
  "art/sickofit-enemies/Generated/cinderSpark/clips/hurt.mp4": {
-  "sha256": "aecd32cdd096548aa266fe70576f63c14f951823a73a862db0fd0142c335f1ab",
-  "size": 175596
+  "sha256": "2ef907815a2a79f53229d857f33296df702b55b09ac7b6708285457ebc9d1298",
+  "size": 260134
  },
  "art/sickofit-enemies/Generated/cinderSpark/clips/idle.mp4": {
-  "sha256": "4d94a3c0b1ab4886c482b0e753a6724bba57cee96fdb08c4baf205c079889f40",
-  "size": 300282
+  "sha256": "ef277f46064877e5f75b9d988517af7ea87964fe3a8e6ce9e9164b5b049990e6",
+  "size": 432857
  },
  "art/sickofit-enemies/Generated/cinderSpark/clips/move.mp4": {
-  "sha256": "a41c843284c742ff66d074f90943b2d8246c4c0998536245789a9ce04dead5a4",
-  "size": 196535
+  "sha256": "e9a23c2b496faaca01e22f6b16fda2dcf9c65654fcd954d70a2667871edb358b",
+  "size": 317834
  },
  "art/sickofit-enemies/Generated/cinderSpark/poses/dead.png": {
-  "sha256": "e13fdcb1760381bc52a53f8bb2763596a08893a27e3bf185dcf295bbb40c0717",
-  "size": 981491
+  "sha256": "b2c7ff0dfbe33e5d72f327dcb4579c18ded9bc4122442494d4ad0b804b28980d",
+  "size": 919688
  },
  "art/sickofit-enemies/Generated/cinderSpark/poses/stand.png": {
-  "sha256": "2a5851a3b7b4b08d78498f83ebebf3ab5b629c01e47e0e8e6884680e40daf7a5",
-  "size": 934258
+  "sha256": "2308e0b727e6f3214937a19d3edc4a66dc144694447e01db90336d55038be8c8",
+  "size": 845103
  },
  "art/sickofit-enemies/Generated/cinderSpark/poses/struck.png": {
-  "sha256": "13322f4a1815214bb6d738210bb89d5b7315aa01960f0115c60984c4d8adf8d4",
-  "size": 1015258
+  "sha256": "77013dd656988dfda162958dddb2d2f19f9aad6d5b9474cf72ca8e7b2494359e",
+  "size": 884822
  },
  "art/sickofit-enemies/Generated/cinderThatch/clips/die.mp4": {
   "sha256": "f01fa7f09ff571c15a7ab2743ef3e99af7e4f734e5a5916b99fb679a44e58a4f",
