@@ -26075,6 +26075,62 @@
   "sha256": "87e82527c2d1dcb9c3db6075acc052df445c748d092908728830b73e6c812b55",
   "size": 331677
  },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-fall.mp4": {
+  "sha256": "7380f7386503e6d85edc2f6ef7e92bc0ff8755d687869478d02084073e2858d2",
+  "size": 730834
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-idle.mp4": {
+  "sha256": "5250912719104cfad7c5c06f339942bcae37f8398251cde5a951670442ac003c",
+  "size": 1225425
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-jump.mp4": {
+  "sha256": "c68d728e951f23223cd46e3c95e93152488a089eab18067747f80fd1d5625bee",
+  "size": 1864488
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-land.mp4": {
+  "sha256": "3896a24a75f821b1b8fb7ced543b7a4340be4e031ba3ef30ca806fb4e394102d",
+  "size": 202406
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-run-attack.mp4": {
+  "sha256": "6570ab2f02a3a205897e3d041154a1a3c0a359979d7b8391cbd7ac099fb99895",
+  "size": 2866331
+ },
+ "art/sickofit-enemies/Generated/hero/clips/spitfire-run.mp4": {
+  "sha256": "42a42e72dbf077fa6f106774ce42e24a0b7867c8784309679bc447bc8ad778ac",
+  "size": 2523898
+ },
+ "art/sickofit-enemies/Generated/hero/clips/victory.mp4": {
+  "sha256": "d7efa9d75389090acc38d472bbf31580f2ac029429f8a8aca51917b0bbf7b2c4",
+  "size": 340953
+ },
+ "art/sickofit-enemies/Generated/hero/clips/wall-jump.mp4": {
+  "sha256": "1b80d246a0800875c9a59b71b41eecc3ce765e45d000917f7ca3f0dbbe6fd9e3",
+  "size": 206054
+ },
+ "art/sickofit-enemies/Generated/hero/clips/wall-slide.mp4": {
+  "sha256": "c353adef78fed144e496c3ca7bd64478ead37cb9f8abd9afd50e708933663c75",
+  "size": 133482
+ },
+ "art/sickofit-enemies/Generated/hero/clips/whip-air-attack.mp4": {
+  "sha256": "0fb67f550c926b629441e0ec1f82bc7ddd1e9b9250d98b124a5ba45cb044ebac",
+  "size": 234033
+ },
+ "art/sickofit-enemies/Generated/hero/clips/whip-crack.mp4": {
+  "sha256": "1a7d2d2e7309bff32ba92ee041bc5cbff7064ad043a64801c51bb0815c59877f",
+  "size": 353244
+ },
+ "art/sickofit-enemies/Generated/hero/clips/whip-lash.mp4": {
+  "sha256": "3e0a4d2531c6ca0e41f7b6f06b7569aba88bb1919fa10688eccb0f315a8b211b",
+  "size": 527852
+ },
+ "art/sickofit-enemies/Generated/hero/clips/whip-run-attack.mp4": {
+  "sha256": "ae465e66101e471150c73a754b5e3924d65f8fc23f6727271faec761440e2c2d",
+  "size": 504079
+ },
+ "art/sickofit-enemies/Generated/hero/clips/whip-snap.mp4": {
+  "sha256": "4a4af6787eb72ff48f3e0d55427bcc5183ed6cb45e73985576a694527a218f41",
+  "size": 321098
+ },
  "art/sickofit-enemies/Generated/hero/poses/air-halo.png": {
   "sha256": "870ec3c5e059c90ef460d848dfb6aba73dd23013a99d7ff8712bcb3629ce3a40",
   "size": 642538
