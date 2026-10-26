@@ -28132,28 +28132,28 @@
   "size": 976303
  },
  "art/sickofit-enemies/Generated/whelpNest/clips/die.mp4": {
-  "sha256": "4af8c75dcef65e257a8d4e7af8710d5338d421f874719f138ab6fbab0ea9e777",
-  "size": 547149
+  "sha256": "9d0b47c4de6b879aff954ad4e1418914640be96f85c33c516f83d77e90f4d533",
+  "size": 337060
  },
  "art/sickofit-enemies/Generated/whelpNest/clips/hurt.mp4": {
-  "sha256": "5616881c96a9810ffe3ead84f297e49c51fcc8a5710f1a79e443b98bb9aadc06",
-  "size": 173056
+  "sha256": "82cc21b7ff374a559102c5d008dfb56426a56de7b34791cf7ba9cdc0ae01f977",
+  "size": 126713
  },
  "art/sickofit-enemies/Generated/whelpNest/clips/idle.mp4": {
-  "sha256": "9e06f41087833a7d8dafaed6842b6ba4a77bc2e3f57bbf9a1fde611181fa274e",
-  "size": 275648
+  "sha256": "c7285eec70ede2496549c57edd5573ed8b7358c997a316fb96e3f481e7e7f71d",
+  "size": 199983
  },
  "art/sickofit-enemies/Generated/whelpNest/poses/dead.png": {
-  "sha256": "18f5b37e2f64fbc30fe9c50907f56e8bfb6d5c3eb9d02df3b76c0a1603c203d5",
-  "size": 1142886
+  "sha256": "34e6a4d5ff09dab868fc9941da60ef9af792dd7c50907969e183c31efa458ef4",
+  "size": 1046045
  },
  "art/sickofit-enemies/Generated/whelpNest/poses/stand.png": {
-  "sha256": "06fa7dac44d418720dea05712fe928349f554dc26bf4353ba6ec8acc845301b1",
-  "size": 1111377
+  "sha256": "6e2be51aa261b419bee0fc3f77027ccd4b5f7a72c7940314e5cf7927e5e9f6bf",
+  "size": 971986
  },
  "art/sickofit-enemies/Generated/whelpNest/poses/struck.png": {
-  "sha256": "b0f9cd35c176861fc1316ce54db9ee4319a54ca7450dec6a78efe60db2ec3e8e",
-  "size": 1117231
+  "sha256": "4867b562feab30b20dea109317312e68bb94dfdc26dc25cb019f230df8de9038",
+  "size": 1097232
  },
  "art/sickofit-enemies/Generated/whirlImp/clips/attack.mp4": {
   "sha256": "53b96bc2b16c061562a958eb6093390ef4b0e93fc5efec1f7ade1a8b9238b24f",
