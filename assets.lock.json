@@ -25943,6 +25943,34 @@
   "sha256": "d2218eddbbf7cc59219473e8813d9ecf7d622c7a5573804f5eae99f665687d3c",
   "size": 649340
  },
+ "art/sickofit-enemies/Generated/hero/poses/shrug-lying.png": {
+  "sha256": "c128e79213bde68037849af2820b8bcb139c3cfb44ba9353114e3aa4d108f141",
+  "size": 821015
+ },
+ "art/sickofit-enemies/Generated/hero/poses/snap-whip.png": {
+  "sha256": "35333cb9aedaf73015d6a927d053a7e60a17fd89a9e2d9212918e9cb57f67b94",
+  "size": 732397
+ },
+ "art/sickofit-enemies/Generated/hero/poses/stand.png": {
+  "sha256": "fffad4369d631a79cdbe011a0a34c2eb1e3ab2587a1ff7c1867a5052f27ed952",
+  "size": 401553
+ },
+ "art/sickofit-enemies/Generated/hero/poses/unarmed.png": {
+  "sha256": "0bb4164d455f933aa4ea8cbfd23b46aba3ff5dfb13c752ed07bc8aa9799d2b0c",
+  "size": 636982
+ },
+ "art/sickofit-enemies/Generated/hero/poses/victory-pose.png": {
+  "sha256": "1760d979a2f2b986be925421f976d471df11bc48aec5b5b51b3d5e5ff96e18b1",
+  "size": 534780
+ },
+ "art/sickofit-enemies/Generated/hero/poses/wall-cling.png": {
+  "sha256": "7e57fe6f4a78159a50e9039905b9d1a6dbfe749a3539adfb193e9a73b914f2e6",
+  "size": 521371
+ },
+ "art/sickofit-enemies/Generated/hero/poses/wall-kick.png": {
+  "sha256": "265251ea404b87632b4668160deb504e32f8e70fa2b9fd63aacc2b4f315a0bf8",
+  "size": 598326
+ },
  "art/sickofit-enemies/Generated/hidingSoul/clips/hiccup.mp4": {
   "sha256": "d3368f4bc503586c563af988db5531a5f4884910489a5a42b19e77a6065c699d",
   "size": 292631
