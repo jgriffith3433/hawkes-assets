@@ -25047,6 +25047,34 @@
   "sha256": "16423b0d40ffab3cecd135c23844c50ef84ff347388fcdc2e196b772a90fd886",
   "size": 1009568
  },
+ "art/sickofit-enemies/Generated/bridgeWraith/clips/die.mp4": {
+  "sha256": "afae66029e52da3902f34ed9844b2346c8be1933c65e51afe79a53e34ab0db87",
+  "size": 372271
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/clips/enrage.mp4": {
+  "sha256": "287a22a23ad5029bcbe57764c90cc225468f0ef33ec078ddeab50a27d6153d12",
+  "size": 266739
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/clips/hurt.mp4": {
+  "sha256": "4306d7127f576996c40ab68673c67a52dc1bf15a27f88d3d737ab16a738e06e3",
+  "size": 128050
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/clips/idle-enraged.mp4": {
+  "sha256": "7810423161c128d2912fc10151d63b033212441cd9ad65470918999128b48a08",
+  "size": 438641
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/clips/idle.mp4": {
+  "sha256": "aa492583db7838e89c1ecbdbe957c29c9dcbf4572d4d02bcb9591069a5df08e5",
+  "size": 302016
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/clips/lantern.mp4": {
+  "sha256": "7701b6b2d39a00a705454b04a77d77edbc3a44c2b7d6523b59c15f89a2d59b60",
+  "size": 186180
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/clips/rise.mp4": {
+  "sha256": "5185385fdb8ebe25bc34caa2721cb0589acd3caa93fcf51eec629e258cfbfe39",
+  "size": 333466
+ },
  "art/sickofit-enemies/Generated/bridgeWraith/poses/dead.png": {
   "sha256": "a9f3ecc88c8f65abf0732dd3fe76a2a0946191490e98e415626eace60c25f492",
   "size": 1069128
@@ -25054,6 +25082,14 @@
  "art/sickofit-enemies/Generated/bridgeWraith/poses/dormant.png": {
   "sha256": "9ba37accad832b26aae84ed43e97200f6ab342b3964cca18710a22b7b3ac6feb",
   "size": 977573
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/poses/stand.png": {
+  "sha256": "b73e3d67e4b25463ffc6dd1108a115c6d3e4d12f8506157f5ec81cd40d983131",
+  "size": 980335
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/poses/unwritten.png": {
+  "sha256": "fb7b9893d8cfed3d3b257329f90854de14a34e408facbbd4bad7e12df03a8231",
+  "size": 1144795
  },
  "art/sickofit-enemies/Generated/brimstoneDemon/clips/attack.mp4": {
   "sha256": "0130de404467796c33476ce31cc8862217160710d799d633cda23e7f909777a8",
