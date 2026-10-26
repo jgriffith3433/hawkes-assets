@@ -27076,32 +27076,32 @@
   "size": 941678
  },
  "art/sickofit-enemies/Generated/magmaGeode/clips/die.mp4": {
-  "sha256": "4e676ac865a3d68c5188fdbebf4dde266dd5b610d0126d1c4db4bc1a9a9f34e0",
-  "size": 241489
+  "sha256": "cabb9aeb75c93999dd17220910f559c67ebb4e69c26358a1d7cf127b8664d49e",
+  "size": 300351
  },
  "art/sickofit-enemies/Generated/magmaGeode/clips/hurt.mp4": {
-  "sha256": "88f7bba579487680df62a6b75d815fc15e72d9486da875e03a6c6e47085a68b7",
-  "size": 276740
+  "sha256": "c85de6c9d53d24fba3ba37453c2298d1acddc8ca25259d7f6487a1576cf74818",
+  "size": 332591
  },
  "art/sickofit-enemies/Generated/magmaGeode/clips/idle.mp4": {
-  "sha256": "486dff112258824c1582a9f32efae3c877ee28b76cf1f6aef84a03a9afe049af",
-  "size": 346917
+  "sha256": "1ca1243c2f6c2f17810ad157bca05a668e24e425da0ea340750a74c7c7ab0e73",
+  "size": 608968
  },
  "art/sickofit-enemies/Generated/magmaGeode/clips/move.mp4": {
-  "sha256": "3c4704f161d349c624487d0438ee98a9456db79cc81a097b5f0f00fc4abac0c2",
-  "size": 220397
+  "sha256": "9a52facf15b43fe854962be51a095bf36de1bc8c5ca2ed317a35e11559b8f7da",
+  "size": 256202
  },
  "art/sickofit-enemies/Generated/magmaGeode/poses/dead.png": {
-  "sha256": "801d83592379510558c37616b2a3ccf5244966cdf4dfa9c6c23d060462a76280",
-  "size": 1078056
+  "sha256": "ae8f44df8321cdde7dbbd742be5ecd372f2014e2f078d80e4fd2c347d02e91ab",
+  "size": 1075955
  },
  "art/sickofit-enemies/Generated/magmaGeode/poses/stand.png": {
-  "sha256": "3c4d3c9ee494384a8257e0dd90d747d507e12545ef8397b6423291318d16c717",
-  "size": 1048145
+  "sha256": "9f59c0050de040c52028bf07721dc4f37493b1a1543b794e1b58004277f36985",
+  "size": 1062292
  },
  "art/sickofit-enemies/Generated/magmaGeode/poses/struck.png": {
-  "sha256": "37a440c62b4b1af72ee0eb1b090ba9b0f7c1d6bab930ad221106eff1776f6533",
-  "size": 1093345
+  "sha256": "0d14ffcc47194558e12fa87a1b2baae24a2b2cf28c1e0aaa08481089b3adabd0",
+  "size": 1064501
  },
  "art/sickofit-enemies/Generated/magmaKing/clips/breath.mp4": {
   "sha256": "c58a4644f683a7dccd86403764e69f7e0ee56b0501cb8cbbb0c049dac05f1292",
