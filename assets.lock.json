@@ -27275,9 +27275,33 @@
   "sha256": "e4a0c182f1c348e902be5bf564275b2e37be2e0cc2a09765e7818b127330e8e5",
   "size": 1031537
  },
+ "art/sickofit-enemies/Generated/sprayer/clips/attack.mp4": {
+  "sha256": "1b4003ab2e2dc67d4cf3c79190191b1222fd465f0cb28daa9db4bc0990b32975",
+  "size": 439488
+ },
+ "art/sickofit-enemies/Generated/sprayer/clips/die.mp4": {
+  "sha256": "cabd2c0c51771406a3199e52aa88685130d71e23518da1659ea698d10f1278bd",
+  "size": 577041
+ },
+ "art/sickofit-enemies/Generated/sprayer/clips/hurt.mp4": {
+  "sha256": "83ac63f7cd359c34ee3d5979ce876e15753e58eafd07bc3dae95dc3046f70120",
+  "size": 517461
+ },
+ "art/sickofit-enemies/Generated/sprayer/clips/idle.mp4": {
+  "sha256": "f04e3c6ed9e1c8c6cdac7f8b5e5da9aa6036cdc254d37e58b84fe27a347d926f",
+  "size": 416457
+ },
  "art/sickofit-enemies/Generated/sprayer/poses/dead.png": {
   "sha256": "d4a3fe32e4250702aace56b5bb76a3c30dc57647f92acbcb17742f1b5b4d59eb",
   "size": 1142691
+ },
+ "art/sickofit-enemies/Generated/sprayer/poses/stand.png": {
+  "sha256": "78e8019aed808d4d82516ee07e5f0a754e41ba49c75d390a5120fe35d0639c91",
+  "size": 1050799
+ },
+ "art/sickofit-enemies/Generated/sprayer/poses/struck.png": {
+  "sha256": "1720d9458f1d2f362a11c5e7ed42e3e2038e3e2c42372a0ebeb5ccea4d166593",
+  "size": 1157392
  },
  "art/sickofit-enemies/Generated/tripleLobber/clips/attack.mp4": {
   "sha256": "f54caad4279e384b8cfac0ceea6b01fd04403c1ca62288aaaab4f69e1ea4a08f",
