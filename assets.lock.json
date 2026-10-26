@@ -25047,6 +25047,14 @@
   "sha256": "16423b0d40ffab3cecd135c23844c50ef84ff347388fcdc2e196b772a90fd886",
   "size": 1009568
  },
+ "art/sickofit-enemies/Generated/bridgeWraith/poses/dead.png": {
+  "sha256": "a9f3ecc88c8f65abf0732dd3fe76a2a0946191490e98e415626eace60c25f492",
+  "size": 1069128
+ },
+ "art/sickofit-enemies/Generated/bridgeWraith/poses/dormant.png": {
+  "sha256": "9ba37accad832b26aae84ed43e97200f6ab342b3964cca18710a22b7b3ac6feb",
+  "size": 977573
+ },
  "art/sickofit-enemies/Generated/brimstoneDemon/clips/attack.mp4": {
   "sha256": "0130de404467796c33476ce31cc8862217160710d799d633cda23e7f909777a8",
   "size": 491387
