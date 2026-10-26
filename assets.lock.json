@@ -25848,16 +25848,16 @@
   "size": 2448926
  },
  "art/sickofit-enemies/Generated/hero/clips/climb-down.mp4": {
-  "sha256": "211d743fb3bd1f47c9fec25ede219cf4787d2c4042da83f8ad7ff0452e45af4f",
-  "size": 600687
+  "sha256": "87f54bdd497b16e9413d3daa0bccf64f641033a120da6cead3e73ace671f6257",
+  "size": 151144
  },
  "art/sickofit-enemies/Generated/hero/clips/climb-idle.mp4": {
   "sha256": "9f913a729c7eacca030d4c7720e2c865a75b5a6edfcb51f2766b57c5ec250d8d",
   "size": 341187
  },
  "art/sickofit-enemies/Generated/hero/clips/climb-up.mp4": {
-  "sha256": "da47fc81fcde7a1b9c1638daf6cda8c79426ccb0ef72e9f5da6c795fbee509b8",
-  "size": 700200
+  "sha256": "a7bb2657f406f681187e8e55b9b09d94c3d19ee56c7963a1c210454940d7a011",
+  "size": 159434
  },
  "art/sickofit-enemies/Generated/hero/clips/dash.mp4": {
   "sha256": "28e4410a57fa7eb0c01a498a966184af16f98b104a35b1a3c68390e10f0885bb",
@@ -25892,16 +25892,16 @@
   "size": 217900
  },
  "art/sickofit-enemies/Generated/hero/clips/fists-fall.mp4": {
-  "sha256": "ccff0f54430428878d6dc9f7e613f31e8dd725d43bd602e3e6eceff6eb873d23",
-  "size": 567251
+  "sha256": "8aff8ebcc7c9badf8bfbdf776df0c1926110c3823bb7b31bf0610017b43ccc56",
+  "size": 156477
  },
  "art/sickofit-enemies/Generated/hero/clips/fists-idle.mp4": {
   "sha256": "6318ab0ff31c84fa79dc1ba1830ef0ec32713069d39ec73b40fe514c3a04d53b",
   "size": 721626
  },
  "art/sickofit-enemies/Generated/hero/clips/fists-jump.mp4": {
-  "sha256": "78d5402710000472195a3158278e8a046d6795537d849e94510e1867cfa9854d",
-  "size": 1496269
+  "sha256": "12e54b440180c9f6675833fd0234f279d441fdd9b78445136f510ee9b2bc5723",
+  "size": 163747
  },
  "art/sickofit-enemies/Generated/hero/clips/fists-land.mp4": {
   "sha256": "9b6d6df2dc67468fb57ce9526468183a436019f840deb97268ba409f60a9e392",
@@ -25912,8 +25912,8 @@
   "size": 233287
  },
  "art/sickofit-enemies/Generated/hero/clips/fists-run.mp4": {
-  "sha256": "5729781978b710a47784d562bc751e5e70d54501857eeacbd416dd79a2970097",
-  "size": 1901862
+  "sha256": "110f9df59d017c7ac2d5d89d7cfce15a43783d0fed314ee902592f147f011e28",
+  "size": 147761
  },
  "art/sickofit-enemies/Generated/hero/clips/grapple-swing.mp4": {
   "sha256": "301bc2b52dfbcf1d9b57b5f53e6e4e54ebfcaedcdcb3486df23e91012fabb634",
@@ -25968,8 +25968,8 @@
   "size": 696031
  },
  "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-idle.mp4": {
-  "sha256": "b96721013cc0b37dff38b13a524ac72fb026b7081a4a06d05b5999eac70a0ee0",
-  "size": 855352
+  "sha256": "7ce216fa3fb35d5e2af26a61fffc5fab7170bcdb1ec8678b5533ac3a7c053035",
+  "size": 212788
  },
  "art/sickofit-enemies/Generated/hero/clips/ricochet-pistol-jump.mp4": {
   "sha256": "1c416d6a96134ada4a94ba68c2b2b57da9fb5906bc3dd537001c08a9845816b0",
@@ -26004,12 +26004,12 @@
   "size": 351026
  },
  "art/sickofit-enemies/Generated/hero/clips/shotgun-fall.mp4": {
-  "sha256": "b18846d3d5eaf23a61db4b1ce3453b02d5a7038abae9ad2dcfb26531263be54d",
-  "size": 742757
+  "sha256": "b490c3c07da7d0d78306cead3894d4b65ade295c85a66ddbb14493f65a32ef9f",
+  "size": 187922
  },
  "art/sickofit-enemies/Generated/hero/clips/shotgun-idle.mp4": {
-  "sha256": "249ca7c1ad8e40dfa02cbadc8b933c3fb4056f9d3d5871d81d598190a0091f3d",
-  "size": 1222412
+  "sha256": "253aa4cb5b5f29c042a9d60ee6bd8dd2d70ac462c2c3893deff0e725cbc9b2bd",
+  "size": 192663
  },
  "art/sickofit-enemies/Generated/hero/clips/shotgun-jump.mp4": {
   "sha256": "d31e85ef150fe0cedd75ee6989c396e7a23f51c1171085503575a3ad7c01296b",
