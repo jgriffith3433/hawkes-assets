@@ -27295,6 +27295,10 @@
   "sha256": "3703a2c1ea78b647b81b9095cc611953503abc1abaa90928ac67dd7a47b788e0",
   "size": 976303
  },
+ "art/sickofit-enemies/Generated/whelpNest/poses/dead.png": {
+  "sha256": "18f5b37e2f64fbc30fe9c50907f56e8bfb6d5c3eb9d02df3b76c0a1603c203d5",
+  "size": 1142886
+ },
  "art/sickofit-enemies/Generated/whirlImp/clips/attack.mp4": {
   "sha256": "53b96bc2b16c061562a958eb6093390ef4b0e93fc5efec1f7ade1a8b9238b24f",
   "size": 525370
