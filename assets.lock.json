@@ -25971,6 +25971,22 @@
   "sha256": "265251ea404b87632b4668160deb504e32f8e70fa2b9fd63aacc2b4f315a0bf8",
   "size": 598326
  },
+ "art/sickofit-enemies/Generated/hero/poses/weapon-halo.png": {
+  "sha256": "6495b6f01b55722ff5a0d107c76f89d3dd79e9c35b61e8139ee300ae9d1539c5",
+  "size": 1037145
+ },
+ "art/sickofit-enemies/Generated/hero/poses/weapon-ladle.png": {
+  "sha256": "0ab24b149b38577b2e2271e9bdd7eaf917730911b353bd761590404867e4a8f4",
+  "size": 906155
+ },
+ "art/sickofit-enemies/Generated/hero/poses/weapon-pistol.png": {
+  "sha256": "7e3e299404cdd72a59526599af6093f979a93ebf3cdec80746ad764a3f3709cc",
+  "size": 958017
+ },
+ "art/sickofit-enemies/Generated/hero/poses/weapon-shotgun.png": {
+  "sha256": "c1e6dcb8959342d950a7fe6dc23a01b3f55d083ffe4a9adad66f49537f6f1cc3",
+  "size": 945288
+ },
  "art/sickofit-enemies/Generated/hidingSoul/clips/hiccup.mp4": {
   "sha256": "d3368f4bc503586c563af988db5531a5f4884910489a5a42b19e77a6065c699d",
   "size": 292631
